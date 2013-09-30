@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Provide strings for my Puffin Brand -->
+<langlist>
+    <lang xml:lang="en"    filename="puffins-en-us.xml"/>
+    <lang xml:lang="en-us" filename="puffins-en-us.xml"/>
+    <lang xml:lang="is"    filename="puffins-is-is.xml"/>
+    <lang xml:lang="is-is" filename="puffins-is-is.xml"/>
+    <lang xml:lang="ru"    filename="puffins-ru-ru.xml"/>
+    <lang xml:lang="ru-ru" filename="puffins-ru-ru.xml"/>
+    <lang xml:lang="sv"    filename="puffins-sv-se.xml"/>
+    <lang xml:lang="sv-se" filename="puffins-sv-se.xml"/>
+</langlist>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<plugin id="org.metadita.xsl.puffinbrand">
+
+  <!-- Extend the toolkit's XHTML processing to override XHTML output,
+       making use of the string(s) provided by the required plug-in. -->
+  <feature extension="dita.xsl.xhtml" file="xsl/brandFromString.xsl"/>
+
+  <require plugin="org.metadita.puffinstrings"/>
+
+</plugin>

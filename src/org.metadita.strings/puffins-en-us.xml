@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- String for my Puffin Brand -->
+<strings xml:lang="en-us">        <!-- US English -->
+
+<str name="Puffin">Puffin</str>
+
+</strings>

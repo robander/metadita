@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dummy>
+    <!-- For transforms from XSLT, the prefix DOTX should be used on the message number.
+         In addition, a character should be added to the end based on the severity
+         of the message:
+         I = Informational, used with type="INFO"
+         W = Warning, used with type="WARN"
+         E = Error, used with type="ERROR"
+         F = Fatal, used with type="FATAL" -->
+  <message id="FAKE999I" type="INFO">
+   <reason>This is a message from my Java based plug-in.
+It's useless, basically, but shows that my code was added to the CLASSPATH.
+A more useful class might modify my topics in some way, or report
+something worth knowing about.</reason>
+   <response>Remove the plug-in to remove the message.
+Or change it quite a lot to do something more useful.</response>
+  </message>
+</dummy>

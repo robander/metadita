@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<plugin id="org.metadita.puffinstrings">
+
+  <!-- Make strings available to XSL transforms. -->
+  <feature extension="dita.xsl.strings" file="puffinstrings.xml"/>
+
+</plugin>

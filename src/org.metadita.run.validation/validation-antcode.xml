@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="puffinBasedValidation">
+  
+    <target name="puffinBasedValidation">
+        <xslt processor="trax" basedir="${dita.temp.dir}"
+            destdir="${dita.temp.dir}" includesfile="${dita.temp.dir}${file.separator}${fullditatopicfile}"
+            classpathref="dost.class.path"
+            reloadstylesheet="${dita.preprocess.reloadstylesheet}"
+            style="${dita.plugin.org.metadita.xsl.validation.dir}${file.separator}validatePuffinRules.xsl">
+            <includesfile name="${dita.temp.dir}${file.separator}${chunkedtopicfile}" if="chunkedtopicfile"/>
+            <mapper type="glob" from="*" to="del.out" />
+            <xmlcatalog refid="dita.catalog"/>
+        </xslt>
+    </target>
+
+</project>

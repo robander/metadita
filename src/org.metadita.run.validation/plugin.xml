@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.metadita.run.validation">
+
+  <!-- Add an Ant file that sets a default for the new parameter -->
+  <feature extension="dita.conductor.target.relative" file="antWrapper.xml"/>
+
+  <!-- This means the Ant target "puffinBasedValidation" will be called immediately
+       after the common preprocess routine ends. -->>
+  <feature extension="depend.preprocess.post" value="puffinBasedValidation"/>
+
+  <require plugin="org.metadita.errors"/>
+  <require plugin="org.metadita.xsl.validation"/>
+
+</plugin>

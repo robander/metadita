@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <target name="dita2faketxt" depends="dita-preprocess, map2faketxt"/> 
+  
+  <!-- The "faketxt" transform merges all of the topics using the standard topicmerge utility.
+       It then converts the merged file to "fake text"; essentially, this just concatenates
+       all of the text in the referenced topics, and creates a *.txt file -->
+  <target name="map2faketxt" unless="noMap" depends="dita-preprocess">
+    <pipeline message="topicmerge" module="TopicMerge"
+              inputmap="${dita.temp.dir}${file.separator}${user.input.file}"
+              extparam="output=${dita.temp.dir}${file.separator}${dita.map.filename.root}_MERGED.xml">
+    </pipeline>
+
+    <!-- Note: the style attribute makes use of the dita.plugin.org.metadita.transtype.faketxt.dir property.
+         This property is generated when the plug-in is integrated, using the plug-in's ID
+         (resulting in the property dita.plugin.PLUGIN-ID.dir )-->
+    <xslt processor="trax"
+          in="${dita.temp.dir}${file.separator}${dita.map.filename.root}_MERGED.xml"
+          out="${output.dir}${file.separator}${dita.map.filename.root}.txt"
+          style="${dita.plugin.org.metadita.transtype.faketxt.dir}${file.separator}xsl${file.separator}map2faketxt.xsl">
+    </xslt>
+  </target>
+
+</project>

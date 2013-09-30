@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<plugin id="org.metadita.xsl.xhtmlbrand">
+
+  <!-- Extend the toolkit's XHTML processing to override XHTML output. -->
+  <feature extension="dita.xsl.xhtml" file="xsl/brand.xsl"/>
+
+</plugin>

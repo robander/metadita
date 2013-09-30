@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dummy>
+    <!-- Need an ancestor element, but it can really be anything. -->
+    <!-- It should be followed by one or more Ant imports of the real Ant code. -->
+    <import file="newparam-antcode.xml"/>
+</dummy>
+    

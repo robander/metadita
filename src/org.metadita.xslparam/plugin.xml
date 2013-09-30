@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<plugin id="org.metadita.xsl.xhtmlbrand">
+
+  <!-- Add a new parameter to the XHTML processing. -->
+  <feature extension="dita.conductor.xhtml.param" file="insertParameters.xml"/>
+
+  <!-- Add an XSL extension that makes use of the new parameter -->
+  <feature extension="dita.xsl.xhtml" file="xsl/reverse.xsl"/>
+
+  <!-- Add an Ant file that sets a default for the new parameter -->
+  <feature extension="dita.conductor.target.relative" file="antWrapper.xml"/>
+
+</plugin>

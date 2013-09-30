@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.metadita.samplejava.report">
+
+  <!-- Define new errors available to XSLT. -->
+  <feature extension="dita.xsl.messages" file="newmessage.xml"/>
+  <!-- Add the JAR file to the CLASSPATH -->
+  <feature extension="dita.conductor.lib.import" file="org.metadita.samplejava.reportStuff.jar"/>
+  <!-- Integrate the Ant code -->
+  <feature extension="dita.conductor.target.relative" file="antWrapper.xml"/>
+  <!-- Define the Ant target that is called, and the location (before conref) -->
+  <feature extension="depend.preprocess.conref.pre" value="outputUselessMessageWithJava"/>
+
+</plugin>

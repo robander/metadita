@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  
+    <condition property="org.metadita.xslparam.day" value="WEDNESDAY">
+        <not>
+            <isset property="org.metadita.xslparam.day" />
+        </not>
+    </condition>
+
+</project>

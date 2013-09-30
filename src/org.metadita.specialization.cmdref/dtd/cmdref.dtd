@@ -1,0 +1,159 @@
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+<!-- ============================================================= -->
+<!--  MODULE:    DITA CMD Reference DTD                            -->
+<!--  VERSION:   1.1                                               -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+<!-- ============================================================= -->
+<!--                    PUBLIC DOCUMENT TYPE DEFINITION            -->
+<!--                    TYPICAL INVOCATION                         -->
+<!--                                                               -->
+<!--  Refer to this file by the following public identifier or an 
+      appropriate system identifier 
+PUBLIC "-//Metadita//DTD DITA CMD Reference//EN"
+      Delivered as file "cmdref.dtd"                            -->
+
+
+<!ENTITY % ui-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA User Interface Domain//EN" 
+"../../../dtd/uiDomain.ent"                                                       >
+%ui-d-dec;
+
+<!ENTITY % hi-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA Highlight Domain//EN" 
+"../../../dtd/highlightDomain.ent"                                                >
+%hi-d-dec;
+
+<!ENTITY % pr-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA Programming Domain//EN" 
+"../../../dtd/programmingDomain.ent"                                              >
+%pr-d-dec;
+
+<!ENTITY % sw-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA Software Domain//EN" 
+"../../../dtd/softwareDomain.ent"                                                 >
+%sw-d-dec;
+
+<!ENTITY % ut-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA Utilities Domain//EN" 
+"../../../dtd/utilitiesDomain.ent"                                                >
+%ut-d-dec;
+
+<!ENTITY % indexing-d-dec     PUBLIC 
+"-//OASIS//ENTITIES DITA Indexing Domain//EN" 
+"../../../dtd/indexingDomain.ent"                                                 >
+%indexing-d-dec;
+
+<!-- ============================================================= -->
+<!--                    DOMAIN ATTRIBUTE DECLARATIONS              -->
+<!-- ============================================================= -->
+
+
+<!-- ============================================================= -->
+<!--                    DOMAIN EXTENSIONS                          -->
+<!-- ============================================================= -->
+<!--                    One for each extended base element, with
+                        the name of the domain(s) in which the
+                        extension was declared                     -->
+
+<!ENTITY % pre          "pre     | %pr-d-pre;     | %sw-d-pre;     | 
+                                   %ui-d-pre;"                       >
+<!ENTITY % keyword      "keyword | %pr-d-keyword; | %sw-d-keyword; |
+                                   %ui-d-keyword;"                   >
+<!ENTITY % ph           "ph      | %pr-d-ph;      | %sw-d-ph;      | 
+                                    %hi-d-ph;     | %ui-d-ph;"       >
+<!ENTITY % fig          "fig     | %pr-d-fig;     | %ut-d-fig;"      >
+<!ENTITY % dl           "dl      | %pr-d-dl;"                        >
+<!ENTITY % index-base   "index-base | %indexing-d-index-base;"       >
+
+<!-- ============================================================= -->
+<!--                    DOMAIN ATTRIBUTE EXTENSIONS                -->
+<!-- ============================================================= -->
+<!ENTITY % props-attribute-extensions  ""                            >
+<!ENTITY % base-attribute-extensions   ""                            >
+
+
+<!-- ============================================================= -->
+<!--                    TOPIC NESTING OVERRIDE                     -->
+<!-- ============================================================= -->
+
+<!--                    Redefine the infotype entity to exclude 
+                        other topic types and disallow nesting     -->
+<!ENTITY % cmdref-info-types 
+                        "cmdref"                                  >
+
+
+<!-- ============================================================= -->
+<!--                    DOMAINS ATTRIBUTE OVERRIDE                 -->
+<!-- ============================================================= -->
+<!--                    Must be declared ahead of the DTDs, which
+                        puts @domains first in order               -->
+
+<!ENTITY included-domains 
+                        "&ui-d-att; &hi-d-att; &pr-d-att; &sw-d-att;
+                         &ut-d-att; &indexing-d-att;"                >
+
+
+<!-- ============================================================= -->
+<!--                    TOPIC ELEMENT INTEGRATION                  -->
+<!-- ============================================================= -->
+
+<!--                    Embed topic to get generic elements        -->
+<!ENTITY % topic-type   PUBLIC 
+"-//OASIS//ELEMENTS DITA Topic//EN" 
+"../../../dtd/topic.mod"                                                          >
+%topic-type;
+
+<!--                     Embed reference to get specific elements  -->
+<!ENTITY % reference-typemod 
+                        PUBLIC 
+"-//OASIS//ELEMENTS DITA Reference//EN" 
+"../../../dtd/reference.mod"                                                      >
+ %reference-typemod;
+
+<!--                     Embed reference to get specific elements  -->
+<!ENTITY % cmdref-typemod 
+                        PUBLIC 
+"-//Metadita//ELEMENTS DITA CMD Reference//EN" 
+"cmdref.mod"                                                      >
+ %cmdref-typemod;
+
+<!-- ============================================================= -->
+<!--                    DOMAIN ELEMENT INTEGRATION                 -->
+<!-- ============================================================= -->
+
+
+<!ENTITY % ui-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA User Interface Domain//EN" 
+"../../../dtd/uiDomain.mod"                                                       >
+%ui-d-def;
+
+<!ENTITY % hi-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA Highlight Domain//EN" 
+"../../../dtd/highlightDomain.mod"                                                >
+%hi-d-def;
+
+<!ENTITY % pr-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA Programming Domain//EN" 
+"../../../dtd/programmingDomain.mod"                                              >
+%pr-d-def;
+
+<!ENTITY % sw-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA Software Domain//EN" 
+"../../../dtd/softwareDomain.mod"                                                 >
+%sw-d-def;
+
+<!ENTITY % ut-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA Utilities Domain//EN" 
+"../../../dtd/utilitiesDomain.mod"                                                >
+%ut-d-def;
+
+<!ENTITY % indexing-d-def     PUBLIC 
+"-//OASIS//ELEMENTS DITA Indexing Domain//EN" 
+"../../../dtd/indexingDomain.mod"                                                 >
+%indexing-d-def;
+
+
+<!-- ================== End DITA CMD Reference DTD  ============== -->

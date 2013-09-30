@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="outputUselessMessageWithJava">
+
+    <target name="outputUselessMessageWithJava">
+        <java classname="org.metadita.samplejava.report.ReportStuff">
+            <classpath refid="dost.class.path"/>
+        </java>
+    </target>
+
+</project>

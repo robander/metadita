@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<plugin id="org.metadita.xsl.validation">
+
+  <!-- This plug-in does not integrate into anything.
+       However, it supplies resources used by another
+       plug-in, so it is a pre-requisite for that plugin.
+
+       Realistically this would probably be in the same plug-in
+       as the one which requires it, but it's done this way
+       to demonstrate a series of dependencies.
+
+       The XSLT in this plug-in also relies on messages
+       defined in another plug-in, so that one is a 
+       pre-requisite at this point. -->
+
+    <require plugin="org.metadita.errors"/>
+
+</plugin>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cmdref PUBLIC "-//Metadita//DTD DITA CMD Reference//EN"
+ "../dtd/cmdref.dtd">
+<?Pub Inc?>
+<cmdref id="sample" xml:lang="en-us">
+<title>rm *</title>
+<cmdbody>
+<WhenToUse>When you need some excitement.</WhenToUse>
+<cmdresult>Crying, gnashing of teeth</cmdresult>
+<example><pre>cd /
+rm *</pre></example>
+<example><pre>cd /
+rm -r *<?Pub Caret?></pre></example>
+</cmdbody>
+</cmdref>
+<?Pub *0000000484?>

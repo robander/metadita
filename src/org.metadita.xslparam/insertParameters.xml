@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dummy>
+    <!-- dummy tag is because we need a wrapper element around the parameters -->
+    <param name="DAY" expression="${org.metadita.xslparam.day}" if="org.metadita.xslparam.day"/>
+</dummy>

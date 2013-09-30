@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.metadita.errors">
+
+  <!-- Define new errors available to XSLT. -->
+  <feature extension="dita.xsl.messages" file="myMessages.xml"/>
+
+</plugin>

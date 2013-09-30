@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dummy>
+    <!-- For transforms from XSLT, the prefix DOTX should be used on the message number.
+         In addition, a character should be added to the end based on the severity
+         of the message:
+         I = Informational, used with type="INFO"
+         W = Warning, used with type="WARN"
+         E = Error, used with type="ERROR"
+         F = Fatal, used with type="FATAL" -->
+    <!-- Between the prefix and the severity marker, include the ID of the message
+         as passed from the XSLT code. For example, this will look for the
+         message with ID=DOTXpuffin1W:
+  <xsl:call-template name="output-message">
+    <xsl:with-param name="msgnum">puffin1</xsl:with-param>
+    <xsl:with-param name="msgsev">W</xsl:with-param>
+  </xsl:call-template>
+          -->
+  <message id="DOTXpuffin1W" type="WARN">
+   <reason>Your topic does not contain related links about puffins.</reason>
+   <response>Add related links about puffins.</response>
+  </message>
+  <message id="DOTXpuffin2W" type="WARN">
+   <reason>Your topic does not contain a short description.</reason>
+   <response>Add a short description to this topic.</response>
+  </message>
+</dummy>
