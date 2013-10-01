@@ -4,7 +4,7 @@
      Original delivery (no version #) coded to DITA-OT 1.5.4
      Update 20131001: Added version # and support info
      -->
-<plugin id="org.metadita.xsl.xhtmlbrand">
+<plugin id="org.metadita.xslparam">
 
   <feature extension="package.support.name" value="Robert D Anderson"/>
   <feature extension="package.support.email" value="robander @ ibm dot com"/>
