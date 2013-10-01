@@ -10,3 +10,6 @@ bring the plug-ins up to date (ensuring they work with the latest toolkit
 builds), and to add new sample plug-ins to make use of extension points
 added since that presentation, as well as for extension points added
 in the future.
+
+Downloads and additional information are available at:
+http://metadita.org/toolkit/
