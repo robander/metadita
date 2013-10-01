@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <target name="dita2faketxt" depends="dita-preprocess, map2faketxt"/> 
+  <target name="dita2faketxt" depends="build-init, preprocess, map2faketxt"/> 
   
   <!-- The "faketxt" transform merges all of the topics using the standard topicmerge utility.
        It then converts the merged file to "fake text"; essentially, this just concatenates
        all of the text in the referenced topics, and creates a *.txt file -->
-  <target name="map2faketxt" unless="noMap" depends="dita-preprocess">
-    <pipeline message="topicmerge" module="TopicMerge"
-              inputmap="${dita.temp.dir}${file.separator}${user.input.file}"
-              extparam="output=${dita.temp.dir}${file.separator}${dita.map.filename.root}_MERGED.xml">
+  <target name="map2faketxt" unless="noMap" depends="build-init, preprocess">
+    <dirname property="dita.temp.dir.fullpath" file="${dita.temp.dir}${file.separator}dummy.file"></dirname>
+    <pipeline message="topicmerge" inputmap="${dita.temp.dir.fullpath}${file.separator}${user.input.file}" tempdir="${dita.temp.dir.fullpath}">
+      <module class="org.dita.dost.module.TopicMergeModule">
+        <param name="output" location="${dita.temp.dir.fullpath}${file.separator}${dita.map.filename.root}_MERGED.xml"></param>
+      </module>
     </pipeline>
 
     <!-- Note: the style attribute makes use of the dita.plugin.org.metadita.transtype.faketxt.dir property.
