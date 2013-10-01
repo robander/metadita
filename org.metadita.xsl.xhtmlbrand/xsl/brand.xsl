@@ -12,7 +12,9 @@
 
 <xsl:template name="generateDefaultCopyright">
   <meta name="copyright" content="Copyright Metadita.org, 2011"/>
+  <xsl:value-of select="$newline"/>
   <meta name="DC.rights.owner" content="Copyright Metadita.org, 2011"/>
+  <xsl:value-of select="$newline"/>
 </xsl:template>
 
 </xsl:stylesheet>
