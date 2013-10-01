@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<!-- UPDATES:
+     Original delivery (no version #) coded to DITA-OT 1.5.4
+     Update 20131001: Add version/support info to version 1.0
+                      Change import to use "plugin:org.dita.base:" syntax
+                      Correct defect: both messages used # "puffin1"
+     -->
 <plugin id="org.metadita.xsl.validation">
 
   <!-- This plug-in does not integrate into anything.
@@ -13,6 +19,10 @@
        The XSLT in this plug-in also relies on messages
        defined in another plug-in, so that one is a 
        pre-requisite at this point. -->
+
+    <feature extension="package.support.name" value="Robert D Anderson"/>
+    <feature extension="package.support.email" value="robander @ ibm dot com"/>
+    <feature extension="package.version" value="1.0"/>
 
     <require plugin="org.metadita.errors"/>
 

@@ -3,7 +3,7 @@
      All Rights Reserved. -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-  <xsl:import href="../../xsl/common/output-message.xsl"/>
+  <xsl:import href="plugin:org.dita.base:xsl/common/output-message.xsl"/>
 
   <xsl:variable name="msgprefix">DOTX</xsl:variable>
 
@@ -25,7 +25,7 @@
         <!-- More realistic scenario actually in place at some companies.
              Put out a warning for any topic that does not use <shortdesc>. -->
         <xsl:call-template name="output-message">
-          <xsl:with-param name="msgnum">puffin1</xsl:with-param>
+          <xsl:with-param name="msgnum">puffin2</xsl:with-param>
           <xsl:with-param name="msgsev">W</xsl:with-param>
         </xsl:call-template>
       </xsl:if>

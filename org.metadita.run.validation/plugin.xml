@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- UPDATES:
+     Original delivery (no version #) coded to DITA-OT 1.5.4
+     Update 20131001: Add version / support info
+                      Version 1.0 supports DITA-OT 1.8 and later.
+                      Update Ant code <mapper> to ensure all topics are processed
+     -->
 <plugin id="org.metadita.run.validation">
+
+  <feature extension="package.support.name" value="Robert D Anderson"/>
+  <feature extension="package.support.email" value="robander @ ibm dot com"/>
+  <feature extension="package.version" value="1.0"/>
 
   <!-- Add an Ant file that sets a default for the new parameter -->
   <feature extension="dita.conductor.target.relative" file="antWrapper.xml"/>
