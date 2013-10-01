@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright IBM Corporation 2011 All Rights Reserved. -->
+<!-- UPDATES:
+     Original delivery (no version #) coded to DITA-OT 1.5.4
+     Update 20131001: Add version/support info to version 1.0
+     -->
 <plugin id="org.metadita.xsl.puffinbrand">
+
+  <feature extension="package.support.name" value="Robert D Anderson"/>
+  <feature extension="package.support.email" value="robander @ ibm dot com"/>
+  <feature extension="package.version" value="1.0"/>
 
   <!-- Extend the toolkit's XHTML processing to override XHTML output,
        making use of the string(s) provided by the required plug-in. -->
