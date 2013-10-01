@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- UPDATES:
+     Original delivery (no version #) coded to DITA-OT 1.5.4
+     Update 20131001: Version 1.0 supports DITA-OT 1.6 and later.
+     -->
 <plugin id="org.metadita.transtype.faketxt">
+  <feature extension="package.support.name" value="Robert D Anderson"/>
+  <feature extension="package.support.email" value="robander @ ibm dot com"/>
+  <feature extension="package.version" value="1.0"/>
   <feature extension="dita.conductor.transtype.check" value="faketxt" />
   <feature extension="dita.conductor.target.relative" file="antWrapper.xml"/>
 </plugin>
