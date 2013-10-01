@@ -3,7 +3,6 @@
      Sourceforge.net. See the accompanying license.txt file in the
      main toolkit package for applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2006 All Rights Reserved. -->
-
 <!-- 
      This is the plugin file that controls integration into the toolkit.
      Each item in the plugin that extends a toolkit function must be listed
@@ -19,9 +18,23 @@
 
      NOTE: paths in this file are relative to the current directory
            (the same directory that includes this file).
+     NOTE: this specialization was written based on DITA 1.1. It's worth noting that
+           it still works with DITA 1.2 and will work with 1.3, because they are 
+           both backwards compatible.
 -->
 
+<!-- UPDATES:
+     Original delivery (no version #) coded to DITA-OT 1.5.4 (and DITA 1.2)
+     Update 20131001: Added version/support info;
+                      No issues with rebase to DITA 1.2, but have not brought DTD module up to date to get new features.
+     -->
+
 <plugin id="org.metadita.specialization.cmdref">
+
+  <feature extension="package.support.name" value="Robert D Anderson"/>
+  <feature extension="package.support.email" value="robander @ ibm dot com"/>
+  <feature extension="package.version" value="1.0"/>
+
   <!-- Extend the toolkit catalog to include your DTDs. -->
   <feature extension="dita.specialization.catalog.relative" file="catalog-dita.xml"/>
 
@@ -34,9 +47,6 @@
 
         <feature extension="dita.xsl.rtf" file="xsl/cmd2rtf.xsl" />
 
-        To extend the docbook transform:
-        <feature extension="dita.xsl.docbook" file="xsl/cmd2rtf.xsl"/>
-        
        -->
 
 </plugin>
