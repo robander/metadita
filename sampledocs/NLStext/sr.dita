@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
  "..\dtd\topic.dtd">
-<topic id="ru" xml:lang="ru">
-<title>Russian</title>
+<topic id="sr" xml:lang="sr">
+<title>Serbian (cyrillic)</title>
 <shortdesc>index test</shortdesc>
 <body>
 <ul conref="common-latin.dita#latin/allchars">

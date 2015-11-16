@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="cyr" xml:lang="lv">
+<title>Cyrillic characters</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul id="cyrl">
+<li>Start at 1040:  (&#1040; 1040 <indexterm>&#1040; 1040 Cyrillic</indexterm>) (&#1041; 1041
+<indexterm>&#1041; 1041 Cyrillic</indexterm>) (&#1042; 1042 <indexterm>&#1042; 1042
+Cyrillic</indexterm>) (&#1043; 1043 <indexterm>&#1043; 1043 Cyrillic</indexterm>) (&#1044; 1044
+<indexterm>&#1044; 1044 Cyrillic</indexterm>) (&#1045; 1045 <indexterm>&#1045; 1045
+Cyrillic</indexterm>) (Ё x401 <indexterm>Ё x401 Cyrillic</indexterm>) (&#1046; 1046
+<indexterm>&#1046; 1046 Cyrillic</indexterm>) (&#1047; 1047 <indexterm>&#1047; 1047
+Cyrillic</indexterm>) (&#1048; 1048 <indexterm>&#1048; 1048 Cyrillic</indexterm>) (&#1049; 1049
+<indexterm>&#1049; 1049 Cyrillic</indexterm>) (&#1050; 1050 <indexterm>&#1050; 1050
+Cyrillic</indexterm>) (&#1051; 1051 <indexterm>&#1051; 1051 Cyrillic</indexterm>) (&#1052; 1052
+<indexterm>&#1052; 1052 Cyrillic</indexterm>)</li>
+<li>Start at 1053: (&#1053; 1053 <indexterm>&#1053; 1053 Cyrillic</indexterm>) (&#1054; 1054
+<indexterm>&#1054; 1054 Cyrillic</indexterm>) (&#1055; 1055 <indexterm>&#1055; 1055
+Cyrillic</indexterm>) (&#1056; 1056 <indexterm>&#1056; 1056 Cyrillic</indexterm>) (&#1057; 1057
+<indexterm>&#1057; 1057 Cyrillic</indexterm>) (&#1058; 1058 <indexterm>&#1058; 1058
+Cyrillic</indexterm>) (&#1059; 1059 <indexterm>&#1059; 1059 Cyrillic</indexterm>) (&#1060; 1060
+<indexterm>&#1060; 1060 Cyrillic</indexterm>) (&#1061; 1061 <indexterm>&#1061; 1061
+Cyrillic</indexterm>) (&#1062; 1062 <indexterm>&#1062; 1062 Cyrillic</indexterm>) (&#1063; 1063
+<indexterm>&#1063; 1063 Cyrillic</indexterm>) (&#1064; 1064 <indexterm>&#1064; 1064
+Cyrillic</indexterm>) (&#1065; 1065 <indexterm>&#1065; 1065 Cyrillic</indexterm>) (&#1066; 1066
+<indexterm>&#1066; 1066 Cyrillic</indexterm>) (&#1067; 1067 <indexterm>&#1067; 1067
+Cyrillic</indexterm>) (&#1068; 1068 <indexterm>&#1068; 1068 Cyrillic</indexterm>) (&#1069; 1069
+<indexterm>&#1069; 1069 Cyrillic</indexterm>) (&#1070; 1070 <indexterm>&#1070; 1070
+Cyrillic</indexterm>) (&#1071; 1071 <indexterm>&#1071; 1071 Cyrillic</indexterm>) (&#1072; 1072
+<indexterm>&#1072; 1072 Cyrillic</indexterm>)</li>
+<li>Start at 1073: (&#1073; 1073 <indexterm>&#1073; 1073 Cyrillic</indexterm>) (&#1074; 1074
+<indexterm>&#1074; 1074 Cyrillic</indexterm>) (&#1075; 1075 <indexterm>&#1075; 1075
+Cyrillic</indexterm>) (&#1076; 1076 <indexterm>&#1076; 1076 Cyrillic</indexterm>) (&#1077; 1077
+<indexterm>&#1077; 1077 Cyrillic</indexterm>) (&#1078; 1078 <indexterm>&#1078; 1078
+Cyrillic</indexterm>) (&#1079; 1079 <indexterm>&#1079; 1079 Cyrillic</indexterm>) (&#1080; 1080
+<indexterm>&#1080; 1080 Cyrillic</indexterm>) (&#1081; 1081 <indexterm>&#1081; 1081
+Cyrillic</indexterm>) (&#1082; 1082 <indexterm>&#1082; 1082 Cyrillic</indexterm>) (&#1083; 1083
+<indexterm>&#1083; 1083 Cyrillic</indexterm>) (&#1084; 1084 <indexterm>&#1084; 1084
+Cyrillic</indexterm>) (&#1085; 1085 <indexterm>&#1085; 1085 Cyrillic</indexterm>) (&#1086; 1086
+<indexterm>&#1086; 1086 Cyrillic</indexterm>) (&#1087; 1087 <indexterm>&#1087; 1087
+Cyrillic</indexterm>) (&#1088; 1088 <indexterm>&#1088; 1088 Cyrillic</indexterm>) (&#1089; 1089
+<indexterm>&#1089; 1089 Cyrillic</indexterm>) (&#1090; 1090 <indexterm>&#1090; 1090
+Cyrillic</indexterm>) (&#1091; 1091 <indexterm>&#1091; 1091 Cyrillic</indexterm>) (&#1092; 1092
+<indexterm>&#1092; 1092 Cyrillic</indexterm>)</li>
+<li>Start at 1093: (&#1093; 1093 <indexterm>&#1093; 1093 Cyrillic</indexterm>) (&#1094; 1094
+<indexterm>&#1094; 1094 Cyrillic</indexterm>) (&#1095; 1095 <indexterm>&#1095; 1095
+Cyrillic</indexterm>) (&#1096; 1096 <indexterm>&#1096; 1096 Cyrillic</indexterm>) (&#1097; 1097
+<indexterm>&#1097; 1097 Cyrillic</indexterm>) (&#1098; 1098 <indexterm>&#1098; 1098
+Cyrillic</indexterm>) (&#1099; 1099 <indexterm>&#1099; 1099 Cyrillic</indexterm>) (&#1100; 1100
+<indexterm>&#1100; 1100 Cyrillic</indexterm>) (&#1101; 1101 <indexterm>&#1101; 1101
+Cyrillic</indexterm>) (&#1102; 1102 <indexterm>&#1102; 1102 Cyrillic</indexterm>) (&#1103; 1103
+<indexterm>&#1103; 1103 Cyrillic</indexterm>) (&#1105; 1105 <indexterm>&#1105; 1105
+Cyrillic</indexterm>) (&#1106; 1106 <indexterm>&#1106; 1106 Cyrillic</indexterm>) (&#1107; 1107
+<indexterm>&#1107; 1107 Cyrillic</indexterm>) (&#1108; 1108 <indexterm>&#1108; 1108
+Cyrillic</indexterm>) (&#1109; 1109 <indexterm>&#1109; 1109 Cyrillic</indexterm>) (&#1110; 1110
+<indexterm>&#1110; 1110 Cyrillic</indexterm>) (&#1111; 1111 <indexterm>&#1111; 1111
+Cyrillic</indexterm>) (&#1112; 1112 <indexterm>&#1112; 1112 Cyrillic</indexterm>)</li>
+<li>Start at 1113: (&#1113; 1113 <indexterm>&#1113; 1113 Cyrillic</indexterm>) (&#1114; 1114
+<indexterm>&#1114; 1114 Cyrillic</indexterm>) (&#1115; 1115 <indexterm>&#1115; 1115
+Cyrillic</indexterm>) </li>
+<li>Serbian additions: ђ 0452 Ђ 0402 <indexterm>ђ 0452</indexterm><indexterm>Ђ 0402</indexterm>, ј
+0458 Ј 0408 <indexterm>ј 0458</indexterm><indexterm>Ј 0408</indexterm>, љ 0459 Љ 0409 <indexterm>љ
+0459</indexterm><indexterm>Љ 0409</indexterm>, њ 045A Њ 040A<indexterm>њ
+045A</indexterm><indexterm>Њ 040A</indexterm>, ћ 045B Ћ 040B <indexterm>ћ
+045B</indexterm><indexterm>Ћ 040B</indexterm>, џ 045F Џ 040F <indexterm>џ
+045F</indexterm><indexterm>Џ 040F</indexterm></li>
+<li>Macedonian: ѓ 0453 Ѓ 0403 <indexterm>ѓ 0453</indexterm><indexterm>Ѓ 0403</indexterm>ѐ 0450 Ѐ
+0400 <indexterm>ѐ 0450</indexterm><indexterm>Ѐ 0400</indexterm> ѝ 045D Ѝ 040D<indexterm>ѝ
+045D</indexterm><indexterm>Ѝ 040D</indexterm> ќ 045C Ќ 040C<indexterm>ќ 045C</indexterm><indexterm>Ќ
+040C</indexterm> ѕ 0455 Ѕ 0405 <indexterm>ѕ 0455</indexterm><indexterm>Ѕ 0405</indexterm></li>
+</ul>
+</body>
+</topic>
