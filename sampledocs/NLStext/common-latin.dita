@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="latin" xml:lang="is-is">
+<title>Icelandic</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul id="allchars">
+<li>A<indexterm>A</indexterm><indexterm>a</indexterm></li>
+<li>aelig Æ<indexterm>Æ aelig</indexterm></li>
+<li>aelig æ<indexterm>æ aelig</indexterm></li>
+<li>a-acute Á<indexterm>Á a-acute</indexterm></li>
+<li>a-acute á<indexterm>á a-acute</indexterm></li>
+<li>a-grave À<indexterm>À a-grave</indexterm></li>
+<li>a-grave à<indexterm>à a-grave</indexterm></li>
+<li>a-dia Ä<indexterm>Ä a-dia</indexterm></li>
+<li>a-dia ä<indexterm>ä a-dia</indexterm></li>
+<li>a-circ Â<indexterm>Â a-circ</indexterm></li>
+<li>a-circ â<indexterm>â a-circ</indexterm></li>
+<li>a-ring Å<indexterm>Å a-ring</indexterm></li>
+<li>a-ring å<indexterm>å a-ring</indexterm></li>
+<li>a-tilde Ã<indexterm>Ã a-tilde</indexterm></li>
+<li>a-tilde ã<indexterm>ã a-tilde</indexterm></li>
+<li>B<indexterm>B</indexterm><indexterm>b</indexterm></li>
+<li>C<indexterm>C</indexterm><indexterm>c</indexterm></li>
+<li>c-cedil Ç<indexterm>Ç c-cedil</indexterm></li>
+<li>c-cedil ç<indexterm>ç c-cedil</indexterm></li>
+<li>D<indexterm>D</indexterm><indexterm>d</indexterm></li>
+<li>E<indexterm>E</indexterm><indexterm>e</indexterm></li>
+<li>eth Ð<indexterm>Ð eth</indexterm></li>
+<li>eth ð<indexterm>ð eth</indexterm></li>
+<li>e-acute É<indexterm>É e-acute</indexterm></li>
+<li>e-acute é<indexterm>é e-acute</indexterm></li>
+<li>e-grave È<indexterm>È e-grave</indexterm></li>
+<li>e-grave è<indexterm>è e-grave</indexterm></li>
+<li>e-circ Ê<indexterm>Ê e-circ</indexterm></li>
+<li>e-circ ê<indexterm>ê e-circ</indexterm></li>
+<li>e-uml Ë<indexterm>Ë e-uml</indexterm></li>
+<li>e-uml ë<indexterm>ë e-uml</indexterm></li>
+<li>F<indexterm>F</indexterm><indexterm>f</indexterm></li>
+<li>G<indexterm>G</indexterm><indexterm>g</indexterm></li>
+<li>H<indexterm>H</indexterm><indexterm>h</indexterm></li>
+<li>I<indexterm>I</indexterm><indexterm>i</indexterm></li>
+<li>i-circ Î<indexterm>Î i-circ</indexterm></li>
+<li>i-circ î<indexterm>î i-circ</indexterm></li>
+<li>i-acute Í<indexterm>Í i-acute</indexterm></li>
+<li>i-acute í<indexterm>í i-acute</indexterm></li>
+<li>i-grave Ì<indexterm>Ì i-grave</indexterm></li>
+<li>i-grave ì<indexterm>ì i-grave</indexterm></li>
+<li>i-uml Ï<indexterm>Ï i-uml</indexterm></li>
+<li>i-uml ï<indexterm>ï i-uml</indexterm></li>
+<li>J<indexterm>J</indexterm><indexterm>j</indexterm></li>
+<li>K<indexterm>K</indexterm><indexterm>k</indexterm></li>
+<li>L<indexterm>L</indexterm><indexterm>l</indexterm></li>
+<li>M<indexterm>M</indexterm><indexterm>m</indexterm></li>
+<li>N<indexterm>N</indexterm><indexterm>n</indexterm></li>
+<li>n-tilde Ñ<indexterm>Ñ n-tilde</indexterm></li>
+<li>n-tilde ñ<indexterm>ñ n-tilde</indexterm></li>
+<li>INTERRUPTED n-tilde Ñ<indexterm>INTERRUPTED Ñ n-tilde</indexterm></li>
+<li>INTERRUPTED n-tilde ñ<indexterm>INTERRUPTED ñ n-tilde</indexterm></li>
+<li>NOW!  N-tilde as secondary entry Ñ<indexterm>NOW!<indexterm>Ñ N-tilde AS
+SECONDARY</indexterm></indexterm></li>
+<li>NOW!  n-tilde as secondary entry Ñ<indexterm>NOW!<indexterm>ñ n-tilde AS
+SECONDARY</indexterm></indexterm></li>
+<li>NOW!  normal n as secondary entry <indexterm>NOW!<indexterm>normal n AS
+SECONDARY</indexterm></indexterm></li>
+<li>NOW!  normal N as secondary entry <indexterm>NOW!<indexterm>Normal n AS
+SECONDARY</indexterm></indexterm></li>
+<li>NOW!  special char ® as secondary entry <indexterm>NOW!<indexterm>® n AS
+SECONDARY</indexterm></indexterm></li>
+<li>NOW!  special char © as secondary entry <indexterm>NOW!<indexterm>© n AS
+SECONDARY</indexterm></indexterm></li>
+<li>O<indexterm>O</indexterm><indexterm>o</indexterm></li>
+<li>o-acute Ó<indexterm>Ó o-acute</indexterm></li>
+<li>o-acute ó<indexterm>ó o-acute</indexterm></li>
+<li>o-dia Ö<indexterm>Ö o-dia</indexterm></li>
+<li>o-dia ö<indexterm>ö o-dia</indexterm></li>
+<li>o-grave Ò<indexterm>Ò o-grave</indexterm></li>
+<li>o-grave ò<indexterm>ò o-grave</indexterm></li>
+<li>o-circ Ô<indexterm>Ô o-circ</indexterm></li>
+<li>o-circ ô<indexterm>ô o-circ</indexterm></li>
+<li>o-tilde Õ<indexterm>Õ o-tilde</indexterm></li>
+<li>o-tilde õ<indexterm>õ o-tilde</indexterm></li>
+<li>o-slash Ø<indexterm>Ø o-slash</indexterm></li>
+<li>o-slash ø<indexterm>ø o-slash</indexterm></li>
+<li>P<indexterm>P</indexterm><indexterm>p</indexterm></li>
+<li>Q<indexterm>Q</indexterm><indexterm>q</indexterm></li>
+<li>R<indexterm>R</indexterm><indexterm>r</indexterm></li>
+<li>S<indexterm>S</indexterm><indexterm>s</indexterm></li>
+<li>Szlig ß<indexterm>ß Szlig</indexterm></li>
+<li>T<indexterm>T</indexterm><indexterm>t</indexterm></li>
+<li>Thorn Þ<indexterm>Þ Thorn</indexterm></li>
+<li>Thorn þ<indexterm>þ Thorn</indexterm></li>
+<li>U <indexterm>U</indexterm><indexterm>u</indexterm></li>
+<li>u-dia Ü<indexterm>Ü u-dia</indexterm></li>
+<li>u-dia ü<indexterm>ü u-dia</indexterm></li>
+<li>u-acute Ú<indexterm>Ú u-acute</indexterm></li>
+<li>u-acute ú<indexterm>ú u-acute</indexterm></li>
+<li>u-grave Ù<indexterm>Ù u-grave</indexterm></li>
+<li>u-grave ù<indexterm>ù u-grave</indexterm></li>
+<li>u-circ Û<indexterm>Û u-circ</indexterm></li>
+<li>u-circ û<indexterm>û u-circ</indexterm></li>
+<li>V<indexterm>V</indexterm><indexterm>v</indexterm></li>
+<li>W<indexterm>W</indexterm><indexterm>w</indexterm></li>
+<li>X<indexterm>X</indexterm><indexterm>x</indexterm></li>
+<li>Y<indexterm>Y</indexterm><indexterm>y</indexterm></li>
+<li>y-acute Ý<indexterm>Ý y-acute</indexterm></li>
+<li>y-acute ý<indexterm>ý y-acute</indexterm></li>
+<li>y-uml ÿ<indexterm>ÿ y-uml</indexterm></li>
+<li>Z<indexterm>Z</indexterm><indexterm>z</indexterm></li>
+<li>SEQUENCES:<ul>
+<li>AA<indexterm>AArdvark</indexterm></li>
+<li>AZ<indexterm>Az</indexterm></li>
+<li>CH<indexterm>CH</indexterm><indexterm>Chips</indexterm><indexterm>ch</indexterm></li>
+<li>CS <indexterm>CS</indexterm><indexterm>Csomething</indexterm><indexterm>cs</indexterm></li>
+<li>CZ<indexterm>Czech</indexterm></li>
+<li>DZ<indexterm>DZ</indexterm><indexterm>Dzero</indexterm></li>
+<li>GY <indexterm>GY</indexterm><indexterm>Gypsom</indexterm><indexterm>gypsom</indexterm></li>
+<li>GZ<indexterm>GZ</indexterm><indexterm>gz</indexterm></li>
+<li>LJ<indexterm>LJ</indexterm><indexterm>Ljolly</indexterm></li>
+<li>LL<indexterm>LL</indexterm><indexterm>Llama</indexterm><indexterm>ll</indexterm></li>
+<li>LY<indexterm>LY</indexterm><indexterm>Lye soap</indexterm><indexterm>ly</indexterm></li>
+<li>LZ<indexterm>LZ</indexterm><indexterm>lzzy</indexterm></li>
+<li>NJ<indexterm>NJ</indexterm><indexterm>Njelly</indexterm></li>
+<li>NY<indexterm>NY</indexterm><indexterm>Nyuk nyuk</indexterm><indexterm>ny</indexterm></li>
+<li>NZ<indexterm>NZ</indexterm><indexterm>Nzero</indexterm></li>
+<li>SZ<indexterm>SZ</indexterm><indexterm>Szliggy</indexterm><indexterm>sz</indexterm></li>
+<li>Szsz<indexterm>szszliggy</indexterm></li>
+<li>TY<indexterm>TY</indexterm><indexterm>Tygger</indexterm><indexterm>ty</indexterm></li>
+<li>TZ<indexterm>TZ</indexterm><indexterm>Tz</indexterm><indexterm>tz</indexterm></li>
+<li>ZS<indexterm>ZS</indexterm><indexterm>Zsomething</indexterm><indexterm>zs</indexterm></li>
+<li>ZZ<indexterm>ZZ</indexterm><indexterm>Zz</indexterm><indexterm>zz</indexterm></li>
+</ul></li>
+<li>Numerics:<ul>
+<li>zero <indexterm>0 zero</indexterm></li>
+<li>one <indexterm>1 one</indexterm></li>
+<li>one hundred six <indexterm>106 one oh six</indexterm></li>
+<li>two <indexterm>2 two</indexterm></li>
+<li>three <indexterm>3 three</indexterm></li>
+<li>four <indexterm>4 four</indexterm></li>
+<li>five <indexterm>5 five</indexterm></li>
+<li>six <indexterm>6 six</indexterm></li>
+<li>seven <indexterm>7 seven</indexterm></li>
+<li>eight <indexterm>8 eight</indexterm></li>
+<li>nine <indexterm>9 nine</indexterm></li>
+</ul></li>
+<li>Special characters:<ul>
+<li>! <indexterm>! exclamation point (1)</indexterm></li>
+<li>@ <indexterm>@ at (2)</indexterm></li>
+<li># <indexterm># pound (3)</indexterm></li>
+<li>$ <indexterm>$ dollar (4)</indexterm></li>
+<li>% <indexterm>% percent (5)</indexterm></li>
+<li>^ <indexterm>^ carat (6)</indexterm></li>
+<li>&amp; <indexterm>&amp; ampersand (7)</indexterm></li>
+<li>* <indexterm>* asterish (8)</indexterm></li>
+<li>( <indexterm>( left paren (9)</indexterm></li>
+<li>{ <indexterm>{ left curly brace (10)</indexterm></li>
+<li>[ <indexterm>[ left bracket (11)</indexterm></li>
+<li>? <indexterm>? question (12)</indexterm></li>
+<li>. <indexterm>. period (13)</indexterm></li>
+<li>© <indexterm>© copyright (14)</indexterm></li>
+<li>¢ <indexterm>¢ cent (15)</indexterm></li>
+<li>) <indexterm>) right paren (16)</indexterm></li>
+</ul></li>
+<li>Trying some sort-as:<ul>
+<li>8-ball sorted as "eight-ball"<indexterm><index-sort-as>eight-ball</index-sort-as>8-ball</indexterm> </li>
+</ul></li>
+</ul>
+</body>
+</topic>

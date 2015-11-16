@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.1 Reference//EN" "reference.dtd">
+<reference id="reference_rnh_jlq_pt">
+  <title>My reference</title>
+  <shortdesc>Add something that will generate text.</shortdesc>
+  <refbody>
+<section>Really, that means, a property table!</section>
+    <properties>
+      <property>
+        <proptype>Prop name</proptype>
+        <propvalue>Prop value</propvalue>
+        <propdesc>Prop description</propdesc>
+      </property>
+    <property>
+    <proptype>Prop name AGAIN</proptype>
+    <propvalue>Prop value AGAIN</propvalue>
+    <propdesc>Prop description AGAIN</propdesc>
+    </property>
+    </properties>
+  </refbody>
+</reference>

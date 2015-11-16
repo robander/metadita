@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 1.1 Task//EN" "task.dtd">
+<task id="task_gx2_rkq_pt">
+    <title>Task with strings</title>
+    <shortdesc>Add any elements that should generate text</shortdesc>
+    <taskbody>
+<prereq>Add some prerequisites here</prereq>
+        <context>
+            <p>Context for the current task</p>
+        </context>
+        <steps>
+            <step>
+<cmd>This is a normal step.</cmd>
+</step>
+<step importance="optional">
+<cmd>This is an OPTIONAL step.</cmd>
+</step>
+<step importance="required">
+<cmd>followed by a REQUIRED step.</cmd>
+</step>
+<step>
+<cmd>A step with choices.</cmd>
+<choicetable>
+<chrow>
+<choption>One</choption>
+<chdesc>will do this</chdesc>
+</chrow>
+<chrow>
+<choption>Two</choption>
+<chdesc>will do this.</chdesc>
+</chrow>
+</choicetable>
+</step>
+<step>
+<cmd>And finally a normal step.</cmd>
+</step>
+        </steps>
+<result>if you do things properly, this is your result.</result>
+<example>here is an example of what my task might do.</example>
+<postreq>And after all of that, you should move on to...</postreq>
+    </taskbody>
+<task id="task_qxq_xkq_pt">
+<title>Nested task</title>
+<shortdesc>purpose here is to add some UNORDERED steps</shortdesc>
+<taskbody>
+<steps-unordered>
+<step>
+<cmd>one</cmd>
+</step>
+<step>
+<cmd>two</cmd>
+</step>
+<step>
+<cmd>three</cmd>
+</step>
+<step>
+<cmd>OH WAIT THERE IS NO ORDER HERE</cmd>
+</step>
+</steps-unordered>
+</taskbody>
+</task>
+</task>

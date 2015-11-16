@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA 1.1 BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="sl">
+<booktitle>
+<mainbooktitle>Slovenian Test</mainbooktitle>
+</booktitle>
+<frontmatter conref="bookmap.ditamap#front"/>
+<part conref="bookmap.ditamap#p1"/><part conref="bookmap.ditamap#p2"/><part href="sl.dita"/>
+<appendices conref="bookmap.ditamap#app"/><backmatter conref="bookmap.ditamap#back"/>
+</bookmap>

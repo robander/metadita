@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="baltic" xml:lang="lv">
+<title>Baltic characters</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul id="latvian">
+<li>a-macron ā<indexterm>ā a-macron</indexterm><indexterm>Ā A-macron</indexterm></li>
+<li>e-macron Ēē<indexterm>Ē E-macron</indexterm><indexterm>ē e-macron</indexterm></li>
+<li>c-caron Č<indexterm>Č c-caron</indexterm></li>
+<li>c-caron č<indexterm>č c-caron</indexterm></li>
+<li>G-cedil Ģ<indexterm>Ģ G-cedil</indexterm><indexterm>ģ g-cedil</indexterm></li>
+<li>I-macron Īī<indexterm>Ī I-macron</indexterm><indexterm>ī i-macron</indexterm></li>
+<li>K-cedil Ķķ<indexterm>Ķ K-cedil</indexterm><indexterm>ķ k-cedil</indexterm></li>
+<li>L-cedil Ļļ<indexterm>Ļ L-cedil</indexterm><indexterm>ļ l-cedil</indexterm></li>
+<li>N-cedil Ņņ<indexterm>Ņ N-cedil</indexterm><indexterm>ņ n-cedil</indexterm></li>
+<li>s-caron Š<indexterm>š s-caron</indexterm><indexterm>Š S-caron</indexterm></li>
+<!--<li>s-cedil Ş<indexterm>ş s-cedil</indexterm></li>-->
+<li>U-macron Ūū<indexterm>Ū U-macron</indexterm><indexterm>ū u-macron</indexterm></li>
+<li>z-caron ž<indexterm>ž z-caron</indexterm></li>
+<li>z-caron Ž<indexterm>Ž z-caron</indexterm></li>
+</ul>
+</body>
+</topic>

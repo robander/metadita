@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "topic.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<topic id="bats">
+<?Pub Caret?>
+<title>My little preface</title>
+<shortdesc>It goes up front</shortdesc>
+<body>
+<p>Stuff inside</p>
+<fig id="fig_vj3_r22_nt">
+<title>EVERY PREFACE NEEDS A FIGURE</title>
+<p>so here is one</p>
+</fig>
+<table frame="all" rowsep="1" colsep="1" id="table_jy4_s22_nt">
+<title>EVERY PREFACE NEEDS A TABLE</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<thead>
+<row>
+<entry>hi</entry>
+<entry>there</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>good</entry>
+<entry>bye</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+<p>Make this longer, so that it spans a couple pages.</p>
+</body>
+</topic>
+<?Pub *0000001373?>

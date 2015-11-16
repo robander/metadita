@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="lv" xml:lang="lv">
+<title>Latvian</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul conref="common-baltic.dita#baltic/latvian">
+<li>conref</li>
+</ul>
+</body>
+</topic>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA 1.1 BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="en">
+<booktitle>
+<mainbooktitle>Book based NLS Test</mainbooktitle>
+</booktitle>
+<frontmatter id="front">
+<booklists>
+<toc/>
+<figurelist/>
+<tablelist/>
+</booklists>
+<preface href="bookpreface.dita"/>
+<notices href="booknotices.dita"/>
+</frontmatter>
+<part href="bookpart.dita" id="p1">
+<chapter href="bookchap-strings.dita">
+<topicref href="bookgloss1.dita"/>
+<topicref href="bookgloss2.dita"/>
+</chapter>
+</part>
+<part href="bookpart2.dita" id="p2">
+<chapter href="bookchap-task.dita"/>
+<chapter href="bookchap-ref.dita"/>
+</part>
+<part href="en.dita"/>
+<appendices id="app" href="bookapp-wrapper.dita">
+<appendix href="bookapp1.dita"/>
+<appendix href="bookapp2.dita"/>
+</appendices>
+<backmatter id="back">
+<booklists>
+<glossarylist>
+<topicref href="bookgloss3.dita"/>
+<topicref href="bookgloss4.dita"/>
+</glossarylist>
+<indexlist/>
+</booklists>
+</backmatter>
+</bookmap>

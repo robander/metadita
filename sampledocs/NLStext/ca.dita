@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="ca" xml:lang="ca">
+<title>Catalan</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+</body>
+</topic>

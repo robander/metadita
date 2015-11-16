@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="roro" xml:lang="ro-ro">
+<title>Slavic latin characters</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul id="morelatin">
+<li>A<indexterm>A</indexterm><indexterm>a</indexterm></li>
+<li>a-breve Ă<indexterm>Ă a-breve</indexterm></li>
+<li>a-breve ă<indexterm>ă a-breve</indexterm></li>
+<li>a-circ Â<indexterm>Â a-circ</indexterm></li>
+<li>a-acute Á<indexterm>Á a-acute</indexterm></li>
+<li>a-dia Ä<indexterm>Ä a-dia</indexterm></li>
+<li>a-ogon ą<indexterm>ą a-ogon</indexterm></li>
+<li>a-ogon Ą<indexterm>Ą a-ogon</indexterm></li>
+<li>B<indexterm>B</indexterm><indexterm>b</indexterm></li>
+<li>C<indexterm>C</indexterm><indexterm>c</indexterm></li>
+<li>c-acute Ć<indexterm>Ć c-acute</indexterm></li>
+<li>c-caron Č<indexterm>Č c-caron</indexterm></li>
+<li>c-acute Ć<indexterm>ć c-acute</indexterm></li>
+<li>c-caron Č<indexterm>č c-caron</indexterm></li>
+<li>D<indexterm>D</indexterm><indexterm>d</indexterm></li>
+<li>d-stroke Đ<indexterm>Đ d-stroke</indexterm></li>
+<li>d-stroke Đ<indexterm>đ d-stroke</indexterm></li>
+<li>d-caron Ď<indexterm>Ď d-caron</indexterm></li>
+<li>d-caron Ď<indexterm>ď d-caron</indexterm></li>
+<li>E<indexterm>E</indexterm><indexterm>e</indexterm></li>
+<li>e-ogon Ę<indexterm>Ę e-ogon</indexterm></li>
+<li>e-acute É<indexterm>É e-acute</indexterm></li>
+<li>F<indexterm>F</indexterm><indexterm>f</indexterm></li>
+<li>G<indexterm>g</indexterm><indexterm>G</indexterm></li>
+<li>H<indexterm>H</indexterm><indexterm>h</indexterm></li>
+<li>I<indexterm>I</indexterm><indexterm>i</indexterm></li>
+<li>i-circ Î<indexterm>Î i-circ</indexterm></li>
+<li>i-acute Í<indexterm>Í i-acute</indexterm></li>
+<li>J<indexterm>J</indexterm><indexterm>j</indexterm></li>
+<li>K<indexterm>K</indexterm><indexterm>k</indexterm></li>
+<li>L<indexterm>L</indexterm><indexterm>l</indexterm></li>
+<li>l-acute Ĺ<indexterm>Ĺ l-acute</indexterm></li>
+<li>l-acute Ĺ<indexterm>ĺ l-acute</indexterm></li>
+<li>l-caron ľ<indexterm>Ľ l-caron</indexterm></li>
+<li>l-caron ľ<indexterm>ľ l-caron</indexterm></li>
+<li>l-stroke Ł<indexterm>Ł l-stroke</indexterm></li>
+<li>l-acute Ĺlama<indexterm>Ĺlama with l-acute</indexterm></li>
+<li>l-caron ľlama<indexterm>Ľlama with l-caron</indexterm></li>
+<li>L<indexterm>L</indexterm><indexterm>l</indexterm></li>
+<li>M<indexterm>M</indexterm><indexterm>m</indexterm></li>
+<li>N<indexterm>N</indexterm><indexterm>n</indexterm></li>
+<li>n-acute Ń<indexterm>Ń n-acute</indexterm></li>
+<li>n-caron Ň<indexterm>Ň n-caron</indexterm></li>
+<li>n-caron ň<indexterm>ň n-caron</indexterm></li>
+<li>O<indexterm>O</indexterm><indexterm>o</indexterm></li>
+<li>o-acute Ó<indexterm>Ó o-acute</indexterm></li>
+<li>o-dia ö<indexterm>ö o-dia</indexterm></li>
+<li>o-dia Ö<indexterm>Ö o-dia</indexterm></li>
+<li>o- ő<indexterm>ő o-</indexterm></li>
+<li>o- Ő<indexterm>Ő o-</indexterm></li>
+<li>o-circ Ô<indexterm>Ô o-circ</indexterm></li>
+<li>P<indexterm>P</indexterm><indexterm>p</indexterm></li>
+<li>Q<indexterm>Q</indexterm><indexterm>q</indexterm></li>
+<li>R<indexterm>R</indexterm><indexterm>r</indexterm></li>
+<li>r-caron Ř<indexterm>Ř r-caron</indexterm></li>
+<li>r-caron ř<indexterm>ř r-caron</indexterm></li>
+<li>r-acute Ŕ<indexterm>Ŕ r-acute</indexterm></li>
+<li>r-acute ŕ<indexterm>ŕ r-acute</indexterm></li>
+<li>S<indexterm>S</indexterm><indexterm>s</indexterm></li>
+<li>s-acute Ś<indexterm>Ś s-acute</indexterm></li>
+<li>s-caron Š<indexterm>Š s-caron</indexterm></li>
+<li>s-cedil Ş<indexterm>Ş s-cedil</indexterm></li>
+<li>s-acute Ś<indexterm>ś s-acute</indexterm></li>
+<li>s-caron Š<indexterm>š s-caron</indexterm></li>
+<li>s-cedil Ş<indexterm>ş s-cedil</indexterm></li>
+<li>T<indexterm>T</indexterm><indexterm>t</indexterm></li>
+<li>t-cedil Ţ<indexterm>Ţ t-cedil</indexterm></li>
+<li>t-caron ť<indexterm>ť t-caron</indexterm></li>
+<li>t-caron Ť<indexterm>Ť t-caron</indexterm></li>
+<li>U <indexterm>U</indexterm><indexterm>u</indexterm></li>
+<li>u-acute Ú<indexterm>Ú u-acute</indexterm></li>
+<li>u-dia Ü<indexterm>Ü u-dia</indexterm></li>
+<li>u-ring ů<indexterm>ů u-ring</indexterm></li>
+<li>u-ring Ů<indexterm>Ů u-ring</indexterm></li>
+<li>u-acute acute ű<indexterm>ű u-acute acute</indexterm></li>
+<li>u-acute acute Ű<indexterm>Ű u-acute acute</indexterm></li>
+<li>V<indexterm>V</indexterm><indexterm>v</indexterm></li>
+<li>W<indexterm>W</indexterm><indexterm>w</indexterm></li>
+<li>X<indexterm>X</indexterm><indexterm>x</indexterm></li>
+<li>Y<indexterm>Y</indexterm><indexterm>y</indexterm></li>
+<li>y-acute Ý<indexterm>Ý y-acute</indexterm></li>
+<li>Z<indexterm>Z</indexterm><indexterm>z</indexterm></li>
+<li>z-acute Ź<indexterm>Ź z-acute</indexterm></li>
+<li>z-abovedot Ż<indexterm>Ż z-abovedot</indexterm></li>
+<li>z-caron ž<indexterm>ž z-caron</indexterm></li>
+<li>z-caron Ž<indexterm>Ž z-caron</indexterm></li>
+<li>SEQUENCES:<ul>
+<li>AA<indexterm>AArdvark</indexterm></li>
+<li>AZ<indexterm>Az</indexterm></li>
+<li>CH<indexterm>CH alone</indexterm><indexterm>Chips</indexterm><indexterm>ch</indexterm></li>
+<li>CS <indexterm>CS
+alone</indexterm><indexterm>Csomething</indexterm><indexterm>cs</indexterm><indexterm>csMEEP</indexterm></li>
+<li>CCS <indexterm>CCS
+alone</indexterm><indexterm>Ccsomething</indexterm><indexterm>ccs</indexterm><indexterm>ccsMEEP</indexterm></li>
+<li>CZ<indexterm>Czech</indexterm></li>
+<li>DAPPER DOG <indexterm>DAPPER</indexterm><indexterm>DOG</indexterm></li>
+<li>DŽ (zcaron)<indexterm>DŽ alone</indexterm><indexterm>DŽcaron</indexterm></li>
+<li>DZ<indexterm>DZ
+alone</indexterm><indexterm>Dzero</indexterm><indexterm>dzero</indexterm><indexterm>dzMEEP</indexterm></li>
+<li>DDZ<indexterm>DDZ
+alone</indexterm><indexterm>Ddzero</indexterm><indexterm>ddzero</indexterm><indexterm>ddzMEEP</indexterm></li>
+<li>DZS<indexterm>DZS
+alone</indexterm><indexterm>Dzsero</indexterm><indexterm>dzsero</indexterm><indexterm>dzsMEEP</indexterm></li>
+<li>Dzaaa, Dzyyy<indexterm>Dzaaa</indexterm><indexterm>Dzyyy</indexterm></li>
+<li>Ddzaaa, Ddzyyy<indexterm>Ddzaaa</indexterm><indexterm>Ddzyyy</indexterm></li>
+<li>Dyes<indexterm>Dyes</indexterm></li>
+<li>DDZZ<indexterm>DDZS
+alone</indexterm><indexterm>Ddzsero</indexterm><indexterm>ddzsero</indexterm><indexterm>ddzsMEEP</indexterm></li>
+<li>GY <indexterm>GY
+alone</indexterm><indexterm>Gypsom</indexterm><indexterm>gypsom</indexterm><indexterm>gymeep</indexterm></li>
+<li>GGY <indexterm>GGY
+alone</indexterm><indexterm>Ggypsom</indexterm><indexterm>ggypsom</indexterm><indexterm>ggymeep</indexterm></li>
+<li>GZ<indexterm>GZ alone</indexterm><indexterm>gz</indexterm></li>
+<li>LJ<indexterm>LJ alone</indexterm><indexterm>Ljolly</indexterm></li>
+<li>LL<indexterm>LL alone</indexterm><indexterm>Llama</indexterm><indexterm>ll</indexterm></li>
+<li>LY<indexterm>LY alone</indexterm><indexterm>Lye
+soap</indexterm><indexterm>ly</indexterm><indexterm>lymeep</indexterm></li>
+<li>LLY<indexterm>LLY alone</indexterm><indexterm>Llye
+soap</indexterm><indexterm>lly</indexterm><indexterm>llymeep</indexterm></li>
+<li>LZ<indexterm>LZ alone</indexterm><indexterm>lzzy</indexterm></li>
+<li>NJ<indexterm>NJ alone</indexterm><indexterm>Njelly</indexterm></li>
+<li>NY<indexterm>NY alone</indexterm><indexterm>Nyuk
+nyuk</indexterm><indexterm>ny</indexterm><indexterm>nyMEEP</indexterm></li>
+<li>NNY<indexterm>NNY alone</indexterm><indexterm>Nnyuk
+nyuk</indexterm><indexterm>nny</indexterm><indexterm>nnyMEEP</indexterm></li>
+<li>NZ<indexterm>NZ alone</indexterm><indexterm>Nzero</indexterm></li>
+<li>SA <indexterm>SANITY check</indexterm></li>
+<li>SZ<indexterm>SZ
+alone</indexterm><indexterm>Szliggy</indexterm><indexterm>sz</indexterm><indexterm>szMEEP</indexterm></li>
+<li>SSZ<indexterm>SSZ
+alone</indexterm><indexterm>Sszliggy</indexterm><indexterm>ssz</indexterm><indexterm>sszMEEP</indexterm></li>
+<li>Szsz<indexterm>szszliggy</indexterm></li>
+<li>TAME<indexterm>TAME</indexterm></li>
+<li>TY<indexterm>TY
+alone</indexterm><indexterm>Tygger</indexterm><indexterm>ty</indexterm><indexterm>tyMEEP</indexterm></li>
+<li>TTY<indexterm>TTY
+alone</indexterm><indexterm>Ttygger</indexterm><indexterm>tty</indexterm><indexterm>ttyMEEP</indexterm></li>
+<li>TZ<indexterm>TZ alone</indexterm><indexterm>Tz</indexterm><indexterm>tz</indexterm></li>
+<li>Zap<indexterm>Zap! alone????</indexterm></li>
+<li>ZS<indexterm>ZS
+alone</indexterm><indexterm>Zsomething</indexterm><indexterm>zs</indexterm><indexterm>zsMEEP</indexterm></li>
+<li>ZZS<indexterm>ZZS
+alone</indexterm><indexterm>Zzsomething</indexterm><indexterm>zzs</indexterm><indexterm>zzsMEEP</indexterm></li>
+<li>ZZ<indexterm>ZZ alone</indexterm><indexterm>Zz</indexterm><indexterm>zz</indexterm></li>
+</ul></li>
+</ul>
+</body>
+</topic>

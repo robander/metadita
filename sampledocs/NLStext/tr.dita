@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="tr" xml:lang="tr">
+<title>Turkish</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul>
+<li>A<indexterm>A</indexterm><indexterm>a</indexterm></li>
+<li>aelig Æ<indexterm>Æ aelig</indexterm></li>
+<li>aelig æ<indexterm>æ aelig</indexterm></li>
+<li>a-acute Á<indexterm>Á a-acute</indexterm></li>
+<li>a-acute á<indexterm>á a-acute</indexterm></li>
+<li>a-grave À<indexterm>À a-grave</indexterm></li>
+<li>a-grave à<indexterm>à a-grave</indexterm></li>
+<li>a-dia Ä<indexterm>Ä a-dia</indexterm></li>
+<li>a-dia ä<indexterm>ä a-dia</indexterm></li>
+<li>a-circ Â<indexterm>Â a-circ</indexterm></li>
+<li>a-circ â<indexterm>â a-circ</indexterm></li>
+<li>a-ring Å<indexterm>Å a-ring</indexterm></li>
+<li>a-ring å<indexterm>å a-ring</indexterm></li>
+<li>a-tilde Ã<indexterm>Ã a-tilde</indexterm></li>
+<li>a-tilde ã<indexterm>ã a-tilde</indexterm></li>
+<li>B<indexterm>B</indexterm><indexterm>b</indexterm></li>
+<li>C<indexterm>C</indexterm><indexterm>c</indexterm></li>
+<li>c-cedil Ç<indexterm>Ç c-cedil</indexterm></li>
+<li>c-cedil ç<indexterm>ç c-cedil</indexterm></li>
+<li>D<indexterm>D</indexterm><indexterm>d</indexterm></li>
+<li>E<indexterm>E</indexterm><indexterm>e</indexterm></li>
+<li>e-acute É<indexterm>É e-acute</indexterm></li>
+<li>e-acute é<indexterm>é e-acute</indexterm></li>
+<li>e-grave È<indexterm>È e-grave</indexterm></li>
+<li>e-grave è<indexterm>è e-grave</indexterm></li>
+<li>e-circ Ê<indexterm>Ê e-circ</indexterm></li>
+<li>e-circ ê<indexterm>ê e-circ</indexterm></li>
+<li>e-uml Ë<indexterm>Ë e-uml</indexterm></li>
+<li>e-uml ë<indexterm>ë e-uml</indexterm></li>
+<li>F<indexterm>F</indexterm><indexterm>f</indexterm></li>
+<li>G<indexterm>g</indexterm><indexterm>G</indexterm></li>
+<li>g-breve Ğ<indexterm>Ğ g-breve</indexterm></li>
+<li>H<indexterm>H</indexterm><indexterm>h</indexterm></li>
+<li>I<indexterm>I</indexterm><indexterm>i</indexterm></li>
+<li>i-dotless ı<indexterm>ı i-dotless</indexterm></li>
+<li>i-dotabove İ<indexterm>İ i-dotabove</indexterm></li>
+<li>i-circ Î<indexterm>Î i-circ</indexterm></li>
+<li>i-circ î<indexterm>î i-circ</indexterm></li>
+<li>i-acute Í<indexterm>Í i-acute</indexterm></li>
+<li>i-acute í<indexterm>í i-acute</indexterm></li>
+<li>i-grave Ì<indexterm>Ì i-grave</indexterm></li>
+<li>i-grave ì<indexterm>ì i-grave</indexterm></li>
+<li>i-uml Ï<indexterm>Ï i-uml</indexterm></li>
+<li>i-uml ï<indexterm>ï i-uml</indexterm></li>
+<li>J<indexterm>J</indexterm><indexterm>j</indexterm></li>
+<li>K<indexterm>K</indexterm><indexterm>k</indexterm></li>
+<li>L<indexterm>L</indexterm><indexterm>l</indexterm></li>
+<li>M<indexterm>M</indexterm><indexterm>m</indexterm></li>
+<li>N<indexterm>N</indexterm><indexterm>n</indexterm></li>
+<li>n-tilde Ñ<indexterm>Ñ n-tilde</indexterm></li>
+<li>n-tilde ñ<indexterm>ñ n-tilde</indexterm></li>
+<li>O<indexterm>O</indexterm><indexterm>o</indexterm></li>
+<li>o-acute Ó<indexterm>Ó o-acute</indexterm></li>
+<li>o-acute ó<indexterm>ó o-acute</indexterm></li>
+<li>o-dia Ö<indexterm>Ö o-dia</indexterm></li>
+<li>o-dia ö<indexterm>ö o-dia</indexterm></li>
+<li>o-grave Ò<indexterm>Ò o-grave</indexterm></li>
+<li>o-grave ò<indexterm>ò o-grave</indexterm></li>
+<li>o-circ Ô<indexterm>Ô o-circ</indexterm></li>
+<li>o-circ ô<indexterm>ô o-circ</indexterm></li>
+<li>o-tilde Õ<indexterm>Õ o-tilde</indexterm></li>
+<li>o-tilde õ<indexterm>õ o-tilde</indexterm></li>
+<li>o-slash Ø<indexterm>Ø o-slash</indexterm></li>
+<li>o-slash ø<indexterm>ø o-slash</indexterm></li>
+<li>P<indexterm>P</indexterm><indexterm>p</indexterm></li>
+<li>Q<indexterm>Q</indexterm><indexterm>q</indexterm></li>
+<li>R<indexterm>R</indexterm><indexterm>r</indexterm></li>
+<li>S<indexterm>S</indexterm><indexterm>s</indexterm></li>
+<li>Szlig ß<indexterm>ß Szlig</indexterm></li>
+<li>S-cedilla Ş<indexterm>Ş S-cedilla</indexterm></li>
+<li>T<indexterm>T</indexterm><indexterm>t</indexterm></li>
+<li>U <indexterm>U</indexterm><indexterm>u</indexterm></li>
+<li>u-dia Ü<indexterm>Ü u-dia</indexterm></li>
+<li>u-dia ü<indexterm>ü u-dia</indexterm></li>
+<li>u-acute Ú<indexterm>Ú u-acute</indexterm></li>
+<li>u-acute ú<indexterm>ú u-acute</indexterm></li>
+<li>u-grave Ù<indexterm>Ù u-grave</indexterm></li>
+<li>u-grave ù<indexterm>ù u-grave</indexterm></li>
+<li>u-circ Û<indexterm>Û u-circ</indexterm></li>
+<li>u-circ û<indexterm>û u-circ</indexterm></li>
+<li>V<indexterm>V</indexterm><indexterm>v</indexterm></li>
+<li>W<indexterm>W</indexterm><indexterm>w</indexterm></li>
+<li>X<indexterm>X</indexterm><indexterm>x</indexterm></li>
+<li>Y<indexterm>Y</indexterm><indexterm>y</indexterm></li>
+<li>y-uml ÿ<indexterm>ÿ y-uml</indexterm></li>
+<li>Z<indexterm>Z</indexterm><indexterm>z</indexterm></li>
+</ul>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+</body>
+</topic>

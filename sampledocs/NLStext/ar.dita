@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN"
+ "concept.dtd">
+<concept id="usrpii_data_queries_for_vizproj" xml:lang="ar-eg">
+<title>الاستعلامات والمشروعات المرئية</title>
+<shortdesc>المشروعات المرئية (التقارير المرئية وواجهات التعامل البيانية والتطبيقات) يمكن أن تتضمن واحد أو أكثر من الاستعلامات
+التي سيتم تشغيلها للحصول على بيانات النتائج.</shortdesc>
+<prolog>
+<metadata>
+<keywords>
+<indexterm>أ alef with hamza above - Isolated</indexterm>
+<indexterm>إ alef with hamza below - Isolated</indexterm>
+<indexterm>آ alef with madda above - Isolated</indexterm>
+<indexterm>ى alef maksura - Isolated</indexterm>
+<indexterm>ا alef - Isolated</indexterm>
+<indexterm>ب beh - Isolated</indexterm>
+<indexterm>ت tah - Isolated</indexterm>
+<indexterm>ث theh - Isolated</indexterm>
+<indexterm>ج jeem - Isolated</indexterm>
+<indexterm>ح hah - Isolated</indexterm>
+<indexterm>خ khah - Isolated</indexterm>
+<indexterm>د dal - Isolated</indexterm>
+<indexterm>ذ dhal - Isolated</indexterm>
+<indexterm>ر reh - Isolated</indexterm>
+<indexterm>ز zain - Isolated</indexterm>
+<indexterm>س seen - Isolated</indexterm>
+<indexterm>ش sheen - Isolated</indexterm>
+<indexterm>ص tsadi - Isolated</indexterm>
+<indexterm>ض dad - Isolated</indexterm>
+<indexterm>ط tah - Isolated</indexterm>
+<indexterm>ظ zah - Isolated</indexterm>
+<indexterm>ع ain - Isolated</indexterm>
+<indexterm>غ ghain - Isolated</indexterm>
+<indexterm>ف feh - Isolated</indexterm>
+<indexterm>ق qaf - Isolated</indexterm>
+<indexterm>ك kaf - Isolated</indexterm>
+<indexterm>ل lam - Isolated</indexterm>
+<indexterm>م meem - Isolated</indexterm>
+<indexterm>ن noon - Isolated</indexterm>
+<indexterm>ه heh - Isolated</indexterm>
+<indexterm>و waw - Isolated</indexterm>
+<indexterm>ؤ waw with hamza above - Isolated</indexterm>
+<indexterm>ي yeh - Isolated</indexterm>
+<indexterm>ئ yeh with hamza above - Isolated</indexterm>
+<indexterm>أب alef with hamza above - Beginning</indexterm>
+<indexterm>إب alef with hamza below - Beginning</indexterm>
+<indexterm>آب alef with madda above - Beginning</indexterm>
+<indexterm>ىب alef maksura - Beginning</indexterm>
+<indexterm>اب alef - Beginning</indexterm>
+<indexterm>بب beh - Beginning</indexterm>
+<indexterm>تب tah - Beginning</indexterm>
+<indexterm>ثب theh - Beginning</indexterm>
+<indexterm>جب jeem - Beginning</indexterm>
+<indexterm>حب hah - Beginning</indexterm>
+<indexterm>خب khah - Beginning</indexterm>
+<indexterm>دب dal - Beginning</indexterm>
+<indexterm>ذب dhal - Beginning</indexterm>
+<indexterm>رب reh - Beginning</indexterm>
+<indexterm>زب zain - Beginning</indexterm>
+<indexterm>سب seen - Beginning</indexterm>
+<indexterm>شب sheen - Beginning</indexterm>
+<indexterm>صب tsadi - Beginning</indexterm>
+<indexterm>ضب dad - Beginning</indexterm>
+<indexterm>طب tah - Beginning</indexterm>
+<indexterm>ظب zah - Beginning</indexterm>
+<indexterm>عب ain - Beginning</indexterm>
+<indexterm>غب ghain - Beginning</indexterm>
+<indexterm>فب feh - Beginning</indexterm>
+<indexterm>قب qaf - Beginning</indexterm>
+<indexterm>كب kaf - Beginning</indexterm>
+<indexterm>لب lam - Beginning</indexterm>
+<indexterm>مب meem - Beginning</indexterm>
+<indexterm>نب noon - Beginning</indexterm>
+<indexterm>هب heh - Beginning</indexterm>
+<indexterm>وب waw - Beginning</indexterm>
+<indexterm>ؤب waw with hamza above - Beginning</indexterm>
+<indexterm>يب yeh - Beginning</indexterm>
+<indexterm>ئب yeh with hamza above - Beginning</indexterm>
+<indexterm>A Alpha</indexterm>
+<indexterm>B Bravo</indexterm>
+<indexterm>C Charlie</indexterm>
+<indexterm>D Delta</indexterm>
+<indexterm>E Echo</indexterm>
+<indexterm>F Foxtrot</indexterm>
+<indexterm>G Golf</indexterm>
+<indexterm>H Hotel</indexterm>
+<indexterm>I India</indexterm>
+<indexterm>J Juliet</indexterm>
+<indexterm>K Kilo</indexterm>
+<indexterm>L Lima</indexterm>
+<indexterm>M Mike</indexterm>
+<indexterm>N November</indexterm>
+<indexterm>O Oscar</indexterm>
+<indexterm>P Papa</indexterm>
+<indexterm>Q Quebec</indexterm>
+<indexterm>R Romeo</indexterm>
+<indexterm>S Sierra</indexterm>
+<indexterm>T Tango</indexterm>
+<indexterm>U Uniform</indexterm>
+<indexterm>V Victor</indexterm>
+<indexterm>W Whiskey</indexterm>
+<indexterm>X X-ray</indexterm>
+<indexterm>Y Yankee</indexterm>
+<indexterm>Z Zulu</indexterm>
+<indexterm>0 Zero</indexterm>
+<indexterm>1 One</indexterm>
+<indexterm>2 Two</indexterm>
+<indexterm>3 Three</indexterm>
+<indexterm>4 Four</indexterm>
+<indexterm>5 Five</indexterm>
+<indexterm>6 Six</indexterm>
+<indexterm>7 Seven</indexterm>
+<indexterm>8 Eight</indexterm>
+<indexterm>9 Nine</indexterm>
+<indexterm>$ Dollar</indexterm>
+<indexterm>* Asterisk</indexterm>
+<indexterm>? Question Mark</indexterm>
+<indexterm>+ Plus</indexterm>
+<indexterm>- Minus</indexterm>
+</keywords>
+</metadata>
+</prolog>
+<conbody>
+<p>يجب أن يتم تعريف كل الاستعلامات التي سيتم استخدامها في المشروع المرئي في حافظة <uicontrol>الاستعلامات</uicontrol> لهذا
+المشروع المرئي.</p>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+</conbody></concept>

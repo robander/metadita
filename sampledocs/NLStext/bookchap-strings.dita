@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="strings">
+<title>Chapter with lots of strings</title>
+<titlealts>
+<navtitle>My Chapter Navigation Title</navtitle>
+<searchtitle>My Chapter Search Title</searchtitle>
+</titlealts>
+<shortdesc>Add as many elements as we can that generate text.</shortdesc>
+<prolog>
+<metadata>
+<keywords>
+<indexterm>STRING TESTING</indexterm>
+<indexterm>MY FAVORITE LETTER<index-see>R</index-see></indexterm>
+<indexterm>Letters!<index-see-also>A, B, C</index-see-also></indexterm>
+</keywords>
+</metadata>
+</prolog>
+<conbody>
+<ul>
+<li>Link to some things:<fn>But remember to try footnote first</fn><fn callout="#">and don't forget
+a footnote with callout</fn></li>
+<li>Try the footnote again, but link to it, both regular then callout:<fn id="fn">Footnote with
+ID</fn><fn callout="@" id="fnc">footnote with id and callout</fn><xref href="#strings/fn"
+format="dita"/><xref href="#strings/fnc" format="dita"/></li>
+<li>Commenting out the following because it's testing an error condition...</li>
+<!--
+<li>Link to unordered list item (error!) <xref href="#strings/ulli" format="dita"/></li>
+-->
+<li>Link to ordered list item  <xref href="#strings/olli" format="dita"/></li>
+<li>Link to figure: <xref href="#strings/fig_bjf_hfq_pt" format="dita"/></li>
+<li>Link to table: <xref href="#strings/table_u5s_3fq_pt" format="dita"/></li>
+<li>Link to other figure: <xref href="#strings/fig_vvs_nmr_pt" format="dita"/></li>
+<li>Link to other table: <xref href="#strings/table_tzc_mmr_pt" format="dita"/></li>
+<li>Link to a task topic later: <xref href="bookchap-task.dita" format="dita"/></li>
+<li>Not always obvious, but <menucascade>
+<uicontrol>menus</uicontrol>
+<uicontrol>use</uicontrol>
+<uicontrol>strings</uicontrol>
+<uicontrol>too</uicontrol>
+</menucascade></li>
+</ul>
+<draft-comment author="robander" time="Yesterday">
+<p>This is a draft comment. I wonder what it does?</p>
+</draft-comment>
+<required-cleanup>[[[[[[[[[[[[[[[AND HERE IS SOME GARBAGE TO CLEAN
+UP]]]]]]]]]]]]]]]</required-cleanup>
+<fig id="fig_bjf_hfq_pt">
+<title>Figure with title</title>
+<p>[[[[[[[[[[[[figure contents here]]]]]]]]]</p>
+</fig>
+<table frame="all" rowsep="1" colsep="1" id="table_u5s_3fq_pt">
+<title>Simple table with header</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<thead>
+<row>
+<entry>header 1</entry>
+<entry>header 2</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>text in cell</entry>
+<entry>text in cell</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<fig id="fig_vvs_nmr_pt">
+<title>Another figure with a really long header, because if this title ever shows up in a cross
+reference or better yet a figure list, I want to know what it looks like</title>
+<p>[[[[[[[[[[[[figure contents here]]]]]]]]]</p>
+</fig>
+<table frame="all" rowsep="1" colsep="1" id="table_tzc_mmr_pt">
+<title>Another table with a really long header, because if this title ever shows up in a cross
+reference or better yet a table list, I want to know what it looks like</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<thead>
+<row>
+<entry>header 1</entry>
+<entry>header 2</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>text in cell</entry>
+<entry>text in cell</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<simpletable frame="all" relcolwidth="1.0* 1.0*">
+<sthead>
+<stentry>simple table header</stentry>
+<stentry>simple header</stentry>
+</sthead>
+<strow>
+<stentry>text text</stentry>
+<stentry>text</stentry>
+</strow>
+</simpletable>
+<ul>
+<li>Unordered list item</li>
+<li id="ulli">Unordered item, TARGET OF A LINK</li>
+<li>Unordered item</li>
+</ul>
+<ol>
+<li>ordered list item</li>
+<li id="olli">ordered item, TARGET OF A LINK</li>
+<li>ordered item</li>
+</ol>
+<note>default note</note>
+<note type="attention">attention</note>
+<note type="caution">CAUTION</note>
+<note type="danger">DANGER</note>
+<note type="fastpath">fastpath</note>
+<note type="important">important</note>
+<note type="notice">important</note>
+<note type="remember">remember</note>
+<note type="restriction">restriction</note>
+<note type="tip">tip</note>
+<note><ol>
+<li>This is a list in a note</li>
+<li>This is still a list in a note</li>
+</ol></note>
+</conbody>
+<related-links>
+<link href="http://dita-ot.org" type="reference" format="html" scope="external"><linktext>DITA-OT link as reference</linktext></link>
+<link href="http://www.dita-ot.org" type="concept" format="html" scope="external"><linktext>DITA-OT link as concept</linktext></link>
+<link href="http://dita-ot.com" type="task" format="html" scope="external"><linktext>DITA-OT link as task</linktext></link>
+<link href="http://www.dita-ot.com" format="html" scope="external"><linktext>DITA-OT link as generic untyped link</linktext></link>
+</related-links>
+</concept>
