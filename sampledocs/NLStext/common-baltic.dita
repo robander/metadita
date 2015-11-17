@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 1.1 Topic//EN"
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
  "..\dtd\topic.dtd">
 <topic id="baltic" xml:lang="lv">
 <title>Baltic characters</title>
@@ -20,6 +20,49 @@
 <li>U-macron Ūū<indexterm>Ū U-macron</indexterm><indexterm>ū u-macron</indexterm></li>
 <li>z-caron ž<indexterm>ž z-caron</indexterm></li>
 <li>z-caron Ž<indexterm>Ž z-caron</indexterm></li>
+</ul>
+<ul id="lithuanian">
+<li>A ą 0105 Ą 0104 ą́ 0105 0301 Ą́ 0104 0301 ą̃ 0105 0303 Ą̃ 0104 0303 <indexterm>ą
+0105</indexterm><indexterm>Ą 0104</indexterm><indexterm>ą́ 0105 0301</indexterm><indexterm>Ą́ 0104
+0301</indexterm><indexterm>ą̃ 0105 0303</indexterm><indexterm>Ą̃ 0104 0303</indexterm></li>
+<li>č 010D Č 010C <indexterm>č 010D</indexterm><indexterm>Č 010C</indexterm></li>
+<li>ẽ 1EBD Ẽ 1EBC ę 0119 Ę 0118 ę́ 0119 0301 Ę́ 0118 0301 ę̃ 0119 0303 Ę̃ 0118 0303 ė 0117 Ė 0116 ė́
+0117 0301 Ė́ 0116 0301 ė̃ 0117 0303 Ė̃ 0116 0303 <indexterm>ẽ 1EBD</indexterm><indexterm>Ẽ
+1EBC</indexterm><indexterm>ę 0119</indexterm><indexterm>Ę 0118</indexterm><indexterm>ę́ 0119
+0301</indexterm><indexterm>Ę́ 0118 0301</indexterm><indexterm>ę̃ 0119 0303</indexterm><indexterm>Ę̃
+0118 0303</indexterm><indexterm>ė 0117 Ė 0116</indexterm><indexterm>ė́ 0117
+0301</indexterm><indexterm>Ė́ 0116 0301 ė̃ 0117 0303 Ė̃ 0116 0303</indexterm><indexterm>ė̃ 0117 0303
+Ė̃ 0116 0303</indexterm><indexterm>Ė̃ 0116 0303</indexterm></li>
+<li>i̇̃ 0069 0307 0303 Ĩ 0128 į 012F Į 012E į̇́ 012F 0307 0301 Į́ 012E 0301 į̇̃ 012F 0307 0303 Į̃
+012E 0303 ý 00FD Ý 00DD ỹ 1EF9 Ỹ 1EF8<indexterm>i̇̃ 0069 0307 0303</indexterm><indexterm>Ĩ
+0128</indexterm><indexterm>Ĩ 0128</indexterm><indexterm>į 012F</indexterm><indexterm>Į
+012E</indexterm><indexterm>į̇́ 012F 0307 0301</indexterm><indexterm>Į́ 012E
+0301</indexterm><indexterm>į̇̃ 012F 0307 0303 </indexterm><indexterm>Į̃ 012E
+0303</indexterm><indexterm>ý 00FD</indexterm><indexterm>Ý 00DD</indexterm><indexterm>ỹ
+1EF9</indexterm><indexterm>Ỹ 1EF8</indexterm></li>
+<li>j̇̃ 006A 0307 0303 J̃ 004A 0303 <indexterm>j̇̃ 006A 0307 0303</indexterm><indexterm>J̃ 004A
+0303</indexterm></li>
+<li>l̃ 006C 0303 L̃ 004C 0303 <indexterm>l̃ 006C 0303</indexterm><indexterm>L̃ 004C
+0303</indexterm></li>
+<li>m̃ 006D 0303 M̃ 004D 0303<indexterm>m̃ 006D 0303</indexterm><indexterm>M̃ 004D
+0303</indexterm></li>
+<li>ñ 00F1 Ñ 00D1 <indexterm>ñ 00F1</indexterm><indexterm>Ñ 00D1</indexterm></li>
+<li>õ 00F5 Õ 00D5 <indexterm>õ 00F5</indexterm><indexterm>Õ 00D5</indexterm></li>
+<li>r̃ 0072 0303 R̃ 0052 0303 <indexterm>r̃ 0072 0303</indexterm><indexterm>R̃ 0052
+0303</indexterm></li>
+<li>š 0161 Š 0160<indexterm>š 0161</indexterm><indexterm>Š 0160</indexterm></li>
+<li>ũ 0169 Ũ 0168 ų 0173 Ų 0172 ų́ 0173 0301 Ų́ 0172 0301 ų̃ 0173 0303 Ų̃ 0172 0303 ū 016B Ū 016A ū́
+016B 0301 Ū́ 016A 0301 ū̃ 016B 0303 Ū̃ 016A 0303<indexterm>ũ 0169</indexterm><indexterm>Ũ
+0168</indexterm><indexterm>ų 0173</indexterm><indexterm>Ų 0172</indexterm><indexterm>ų́ 0173
+0301</indexterm><indexterm>Ų́ 0172 0301</indexterm><indexterm>ų̃ 0173 0303</indexterm><indexterm>Ų̃
+0172 0303 </indexterm><indexterm>ū 016B</indexterm><indexterm>Ū 016A</indexterm><indexterm>ū́ 016B
+0301</indexterm><indexterm>Ū́ 016A 0301</indexterm><indexterm>ū̃ 016B 0303</indexterm><indexterm>Ū̃
+016A 0303</indexterm></li>
+<li>ž 017E Ž 017D<indexterm>ž 017E</indexterm><indexterm>Ž 017D</indexterm></li>
+</ul>
+<ul id="estonian">
+<li>š 0161 Š 0160<indexterm>š 0161</indexterm><indexterm>Š 0160</indexterm></li>
+<li>ž 017E Ž 017D<indexterm>ž 017E</indexterm><indexterm>Ž 017D</indexterm></li>
 </ul>
 </body>
 </topic>
