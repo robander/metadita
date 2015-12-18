@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="th" xml:lang="en">
+<title>Thai</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul>
+   <li>Collation for ก 0E01<ul>
+         <li>ก 0E01 THAI CHARACTER KO KAI <indexterm>ก 0E01 sort under ก 0E01</indexterm>
+         </li>
+         <li>กะ 0E01 0E30 THAI CHARACTER KO KAI; THAI CHARACTER SARA A <indexterm>กะ 0E01 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>กั 0E01 0E31 THAI CHARACTER KO KAI; THAI CHARACTER MAI HAN-AKAT <indexterm>กั 0E01 0E31 sort under ก 0E01</indexterm>
+         </li>
+         <li>กัวะ 0E01 0E31 0E27 0E30 THAI CHARACTER KO KAI; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>กัวะ 0E01 0E31 0E27 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>กา 0E01 0E32 THAI CHARACTER KO KAI; THAI CHARACTER SARA AA <indexterm>กา 0E01 0E32 sort under ก 0E01</indexterm>
+         </li>
+         <li>กำ 0E01 0E33 THAI CHARACTER KO KAI; THAI CHARACTER SARA AM <indexterm>กำ 0E01 0E33 sort under ก 0E01</indexterm>
+         </li>
+         <li>กิ 0E01 0E34 THAI CHARACTER KO KAI; THAI CHARACTER SARA I <indexterm>กิ 0E01 0E34 sort under ก 0E01</indexterm>
+         </li>
+         <li>กี 0E01 0E35 THAI CHARACTER KO KAI; THAI CHARACTER SARA II <indexterm>กี 0E01 0E35 sort under ก 0E01</indexterm>
+         </li>
+         <li>กึ 0E01 0E36 THAI CHARACTER KO KAI; THAI CHARACTER SARA UE <indexterm>กึ 0E01 0E36 sort under ก 0E01</indexterm>
+         </li>
+         <li>กื 0E01 0E37 THAI CHARACTER KO KAI; THAI CHARACTER SARA UEE <indexterm>กื 0E01 0E37 sort under ก 0E01</indexterm>
+         </li>
+         <li>กุ 0E01 0E38 THAI CHARACTER KO KAI; THAI CHARACTER SARA U <indexterm>กุ 0E01 0E38 sort under ก 0E01</indexterm>
+         </li>
+         <li>กู 0E01 0E39 THAI CHARACTER KO KAI; THAI CHARACTER SARA UU <indexterm>กู 0E01 0E39 sort under ก 0E01</indexterm>
+         </li>
+         <li>เก 0E40 0E01 THAI CHARACTER SARA E; THAI CHARACTER KO KAI <indexterm>เก 0E40 0E01 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกะ 0E40 0E01 0E30 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA A <indexterm>เกะ 0E40 0E01 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกา 0E40 0E01 0E32 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA AA <indexterm>เกา 0E40 0E01 0E32 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกาะ 0E40 0E01 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เกาะ 0E40 0E01 0E32 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกิ 0E40 0E01 0E34 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA I <indexterm>เกิ 0E40 0E01 0E34 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกีย 0E40 0E01 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เกีย 0E40 0E01 0E35 0E22 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกียะ 0E40 0E01 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เกียะ 0E40 0E01 0E35 0E22 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>เกือ 0E40 0E01 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เกือ 0E40 0E01 0E37 0E2D sort under ก 0E01</indexterm>
+         </li>
+         <li>เกือะ 0E40 0E01 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER KO KAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เกือะ 0E40 0E01 0E37 0E2D 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>แก 0E41 0E01 THAI CHARACTER SARA AE; THAI CHARACTER KO KAI <indexterm>แก 0E41 0E01 sort under ก 0E01</indexterm>
+         </li>
+         <li>แกะ 0E41 0E01 0E30 THAI CHARACTER SARA AE; THAI CHARACTER KO KAI; THAI CHARACTER SARA A <indexterm>แกะ 0E41 0E01 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>โก 0E42 0E01 THAI CHARACTER SARA O; THAI CHARACTER KO KAI <indexterm>โก 0E42 0E01 sort under ก 0E01</indexterm>
+         </li>
+         <li>โกะ 0E42 0E01 0E30 THAI CHARACTER SARA O; THAI CHARACTER KO KAI; THAI CHARACTER SARA A <indexterm>โกะ 0E42 0E01 0E30 sort under ก 0E01</indexterm>
+         </li>
+         <li>ใก 0E43 0E01 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER KO KAI <indexterm>ใก 0E43 0E01 sort under ก 0E01</indexterm>
+         </li>
+         <li>ไก 0E44 0E01 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER KO KAI <indexterm>ไก 0E44 0E01 sort under ก 0E01</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ข 0E02<ul>
+         <li>ข 0E02 THAI CHARACTER KHO KHAI <indexterm>ข 0E02 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขะ 0E02 0E30 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA A <indexterm>ขะ 0E02 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขั 0E02 0E31 THAI CHARACTER KHO KHAI; THAI CHARACTER MAI HAN-AKAT <indexterm>ขั 0E02 0E31 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขัวะ 0E02 0E31 0E27 0E30 THAI CHARACTER KHO KHAI; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ขัวะ 0E02 0E31 0E27 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขา 0E02 0E32 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA AA <indexterm>ขา 0E02 0E32 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขำ 0E02 0E33 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA AM <indexterm>ขำ 0E02 0E33 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขิ 0E02 0E34 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA I <indexterm>ขิ 0E02 0E34 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขี 0E02 0E35 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA II <indexterm>ขี 0E02 0E35 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขึ 0E02 0E36 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA UE <indexterm>ขึ 0E02 0E36 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขื 0E02 0E37 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA UEE <indexterm>ขื 0E02 0E37 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขุ 0E02 0E38 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA U <indexterm>ขุ 0E02 0E38 sort under ข 0E02</indexterm>
+         </li>
+         <li>ขู 0E02 0E39 THAI CHARACTER KHO KHAI; THAI CHARACTER SARA UU <indexterm>ขู 0E02 0E39 sort under ข 0E02</indexterm>
+         </li>
+         <li>เข 0E40 0E02 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI <indexterm>เข 0E40 0E02 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขะ 0E40 0E02 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA A <indexterm>เขะ 0E40 0E02 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขา 0E40 0E02 0E32 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA AA <indexterm>เขา 0E40 0E02 0E32 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขาะ 0E40 0E02 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เขาะ 0E40 0E02 0E32 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขิ 0E40 0E02 0E34 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA I <indexterm>เขิ 0E40 0E02 0E34 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขีย 0E40 0E02 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เขีย 0E40 0E02 0E35 0E22 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขียะ 0E40 0E02 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เขียะ 0E40 0E02 0E35 0E22 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>เขือ 0E40 0E02 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เขือ 0E40 0E02 0E37 0E2D sort under ข 0E02</indexterm>
+         </li>
+         <li>เขือะ 0E40 0E02 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เขือะ 0E40 0E02 0E37 0E2D 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>แข 0E41 0E02 THAI CHARACTER SARA AE; THAI CHARACTER KHO KHAI <indexterm>แข 0E41 0E02 sort under ข 0E02</indexterm>
+         </li>
+         <li>แขะ 0E41 0E02 0E30 THAI CHARACTER SARA AE; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA A <indexterm>แขะ 0E41 0E02 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>โข 0E42 0E02 THAI CHARACTER SARA O; THAI CHARACTER KHO KHAI <indexterm>โข 0E42 0E02 sort under ข 0E02</indexterm>
+         </li>
+         <li>โขะ 0E42 0E02 0E30 THAI CHARACTER SARA O; THAI CHARACTER KHO KHAI; THAI CHARACTER SARA A <indexterm>โขะ 0E42 0E02 0E30 sort under ข 0E02</indexterm>
+         </li>
+         <li>ใข 0E43 0E02 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER KHO KHAI <indexterm>ใข 0E43 0E02 sort under ข 0E02</indexterm>
+         </li>
+         <li>ไข 0E44 0E02 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER KHO KHAI <indexterm>ไข 0E44 0E02 sort under ข 0E02</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ค 0E04<ul>
+         <li>ค 0E04 THAI CHARACTER KHO KHWAI <indexterm>ค 0E04 sort under ค 0E04</indexterm>
+         </li>
+         <li>คะ 0E04 0E30 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA A <indexterm>คะ 0E04 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>คั 0E04 0E31 THAI CHARACTER KHO KHWAI; THAI CHARACTER MAI HAN-AKAT <indexterm>คั 0E04 0E31 sort under ค 0E04</indexterm>
+         </li>
+         <li>คัวะ 0E04 0E31 0E27 0E30 THAI CHARACTER KHO KHWAI; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>คัวะ 0E04 0E31 0E27 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>คา 0E04 0E32 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA AA <indexterm>คา 0E04 0E32 sort under ค 0E04</indexterm>
+         </li>
+         <li>คำ 0E04 0E33 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA AM <indexterm>คำ 0E04 0E33 sort under ค 0E04</indexterm>
+         </li>
+         <li>คิ 0E04 0E34 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA I <indexterm>คิ 0E04 0E34 sort under ค 0E04</indexterm>
+         </li>
+         <li>คี 0E04 0E35 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA II <indexterm>คี 0E04 0E35 sort under ค 0E04</indexterm>
+         </li>
+         <li>คึ 0E04 0E36 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA UE <indexterm>คึ 0E04 0E36 sort under ค 0E04</indexterm>
+         </li>
+         <li>คื 0E04 0E37 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA UEE <indexterm>คื 0E04 0E37 sort under ค 0E04</indexterm>
+         </li>
+         <li>คุ 0E04 0E38 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA U <indexterm>คุ 0E04 0E38 sort under ค 0E04</indexterm>
+         </li>
+         <li>คู 0E04 0E39 THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA UU <indexterm>คู 0E04 0E39 sort under ค 0E04</indexterm>
+         </li>
+         <li>เค 0E40 0E04 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI <indexterm>เค 0E40 0E04 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคะ 0E40 0E04 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA A <indexterm>เคะ 0E40 0E04 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคา 0E40 0E04 0E32 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA AA <indexterm>เคา 0E40 0E04 0E32 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคาะ 0E40 0E04 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เคาะ 0E40 0E04 0E32 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคิ 0E40 0E04 0E34 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA I <indexterm>เคิ 0E40 0E04 0E34 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคีย 0E40 0E04 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เคีย 0E40 0E04 0E35 0E22 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคียะ 0E40 0E04 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เคียะ 0E40 0E04 0E35 0E22 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>เคือ 0E40 0E04 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เคือ 0E40 0E04 0E37 0E2D sort under ค 0E04</indexterm>
+         </li>
+         <li>เคือะ 0E40 0E04 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เคือะ 0E40 0E04 0E37 0E2D 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>แค 0E41 0E04 THAI CHARACTER SARA AE; THAI CHARACTER KHO KHWAI <indexterm>แค 0E41 0E04 sort under ค 0E04</indexterm>
+         </li>
+         <li>แคะ 0E41 0E04 0E30 THAI CHARACTER SARA AE; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA A <indexterm>แคะ 0E41 0E04 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>โค 0E42 0E04 THAI CHARACTER SARA O; THAI CHARACTER KHO KHWAI <indexterm>โค 0E42 0E04 sort under ค 0E04</indexterm>
+         </li>
+         <li>โคะ 0E42 0E04 0E30 THAI CHARACTER SARA O; THAI CHARACTER KHO KHWAI; THAI CHARACTER SARA A <indexterm>โคะ 0E42 0E04 0E30 sort under ค 0E04</indexterm>
+         </li>
+         <li>ใค 0E43 0E04 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER KHO KHWAI <indexterm>ใค 0E43 0E04 sort under ค 0E04</indexterm>
+         </li>
+         <li>ไค 0E44 0E04 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER KHO KHWAI <indexterm>ไค 0E44 0E04 sort under ค 0E04</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฆ 0E06<ul>
+         <li>ฆ 0E06 THAI CHARACTER KHO RAKHANG <indexterm>ฆ 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆะ 0E06 0E30 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA A <indexterm>ฆะ 0E06 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆั 0E06 0E31 THAI CHARACTER KHO RAKHANG; THAI CHARACTER MAI HAN-AKAT <indexterm>ฆั 0E06 0E31 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆัวะ 0E06 0E31 0E27 0E30 THAI CHARACTER KHO RAKHANG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฆัวะ 0E06 0E31 0E27 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆา 0E06 0E32 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA AA <indexterm>ฆา 0E06 0E32 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆำ 0E06 0E33 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA AM <indexterm>ฆำ 0E06 0E33 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆิ 0E06 0E34 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA I <indexterm>ฆิ 0E06 0E34 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆี 0E06 0E35 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA II <indexterm>ฆี 0E06 0E35 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆึ 0E06 0E36 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA UE <indexterm>ฆึ 0E06 0E36 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆื 0E06 0E37 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA UEE <indexterm>ฆื 0E06 0E37 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆุ 0E06 0E38 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA U <indexterm>ฆุ 0E06 0E38 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ฆู 0E06 0E39 THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA UU <indexterm>ฆู 0E06 0E39 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆ 0E40 0E06 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG <indexterm>เฆ 0E40 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆะ 0E40 0E06 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA A <indexterm>เฆะ 0E40 0E06 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆา 0E40 0E06 0E32 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA AA <indexterm>เฆา 0E40 0E06 0E32 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆาะ 0E40 0E06 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฆาะ 0E40 0E06 0E32 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆิ 0E40 0E06 0E34 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA I <indexterm>เฆิ 0E40 0E06 0E34 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆีย 0E40 0E06 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฆีย 0E40 0E06 0E35 0E22 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆียะ 0E40 0E06 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฆียะ 0E40 0E06 0E35 0E22 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆือ 0E40 0E06 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฆือ 0E40 0E06 0E37 0E2D sort under ฆ 0E06</indexterm>
+         </li>
+         <li>เฆือะ 0E40 0E06 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฆือะ 0E40 0E06 0E37 0E2D 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>แฆ 0E41 0E06 THAI CHARACTER SARA AE; THAI CHARACTER KHO RAKHANG <indexterm>แฆ 0E41 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>แฆะ 0E41 0E06 0E30 THAI CHARACTER SARA AE; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA A <indexterm>แฆะ 0E41 0E06 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>โฆ 0E42 0E06 THAI CHARACTER SARA O; THAI CHARACTER KHO RAKHANG <indexterm>โฆ 0E42 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>โฆะ 0E42 0E06 0E30 THAI CHARACTER SARA O; THAI CHARACTER KHO RAKHANG; THAI CHARACTER SARA A <indexterm>โฆะ 0E42 0E06 0E30 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ใฆ 0E43 0E06 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER KHO RAKHANG <indexterm>ใฆ 0E43 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+         <li>ไฆ 0E44 0E06 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER KHO RAKHANG <indexterm>ไฆ 0E44 0E06 sort under ฆ 0E06</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ง 0E07<ul>
+         <li>ง 0E07 THAI CHARACTER NGO NGU <indexterm>ง 0E07 sort under ง 0E07</indexterm>
+         </li>
+         <li>งะ 0E07 0E30 THAI CHARACTER NGO NGU; THAI CHARACTER SARA A <indexterm>งะ 0E07 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>งั 0E07 0E31 THAI CHARACTER NGO NGU; THAI CHARACTER MAI HAN-AKAT <indexterm>งั 0E07 0E31 sort under ง 0E07</indexterm>
+         </li>
+         <li>งัวะ 0E07 0E31 0E27 0E30 THAI CHARACTER NGO NGU; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>งัวะ 0E07 0E31 0E27 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>งา 0E07 0E32 THAI CHARACTER NGO NGU; THAI CHARACTER SARA AA <indexterm>งา 0E07 0E32 sort under ง 0E07</indexterm>
+         </li>
+         <li>งำ 0E07 0E33 THAI CHARACTER NGO NGU; THAI CHARACTER SARA AM <indexterm>งำ 0E07 0E33 sort under ง 0E07</indexterm>
+         </li>
+         <li>งิ 0E07 0E34 THAI CHARACTER NGO NGU; THAI CHARACTER SARA I <indexterm>งิ 0E07 0E34 sort under ง 0E07</indexterm>
+         </li>
+         <li>งี 0E07 0E35 THAI CHARACTER NGO NGU; THAI CHARACTER SARA II <indexterm>งี 0E07 0E35 sort under ง 0E07</indexterm>
+         </li>
+         <li>งึ 0E07 0E36 THAI CHARACTER NGO NGU; THAI CHARACTER SARA UE <indexterm>งึ 0E07 0E36 sort under ง 0E07</indexterm>
+         </li>
+         <li>งื 0E07 0E37 THAI CHARACTER NGO NGU; THAI CHARACTER SARA UEE <indexterm>งื 0E07 0E37 sort under ง 0E07</indexterm>
+         </li>
+         <li>งุ 0E07 0E38 THAI CHARACTER NGO NGU; THAI CHARACTER SARA U <indexterm>งุ 0E07 0E38 sort under ง 0E07</indexterm>
+         </li>
+         <li>งู 0E07 0E39 THAI CHARACTER NGO NGU; THAI CHARACTER SARA UU <indexterm>งู 0E07 0E39 sort under ง 0E07</indexterm>
+         </li>
+         <li>เง 0E40 0E07 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU <indexterm>เง 0E40 0E07 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงะ 0E40 0E07 0E30 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA A <indexterm>เงะ 0E40 0E07 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงา 0E40 0E07 0E32 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA AA <indexterm>เงา 0E40 0E07 0E32 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงาะ 0E40 0E07 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เงาะ 0E40 0E07 0E32 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงิ 0E40 0E07 0E34 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA I <indexterm>เงิ 0E40 0E07 0E34 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงีย 0E40 0E07 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เงีย 0E40 0E07 0E35 0E22 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงียะ 0E40 0E07 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เงียะ 0E40 0E07 0E35 0E22 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>เงือ 0E40 0E07 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เงือ 0E40 0E07 0E37 0E2D sort under ง 0E07</indexterm>
+         </li>
+         <li>เงือะ 0E40 0E07 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER NGO NGU; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เงือะ 0E40 0E07 0E37 0E2D 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>แง 0E41 0E07 THAI CHARACTER SARA AE; THAI CHARACTER NGO NGU <indexterm>แง 0E41 0E07 sort under ง 0E07</indexterm>
+         </li>
+         <li>แงะ 0E41 0E07 0E30 THAI CHARACTER SARA AE; THAI CHARACTER NGO NGU; THAI CHARACTER SARA A <indexterm>แงะ 0E41 0E07 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>โง 0E42 0E07 THAI CHARACTER SARA O; THAI CHARACTER NGO NGU <indexterm>โง 0E42 0E07 sort under ง 0E07</indexterm>
+         </li>
+         <li>โงะ 0E42 0E07 0E30 THAI CHARACTER SARA O; THAI CHARACTER NGO NGU; THAI CHARACTER SARA A <indexterm>โงะ 0E42 0E07 0E30 sort under ง 0E07</indexterm>
+         </li>
+         <li>ใง 0E43 0E07 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER NGO NGU <indexterm>ใง 0E43 0E07 sort under ง 0E07</indexterm>
+         </li>
+         <li>ไง 0E44 0E07 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER NGO NGU <indexterm>ไง 0E44 0E07 sort under ง 0E07</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for จ 0E08<ul>
+         <li>จ 0E08 THAI CHARACTER CHO CHAN <indexterm>จ 0E08 sort under จ 0E08</indexterm>
+         </li>
+         <li>จะ 0E08 0E30 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA A <indexterm>จะ 0E08 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>จั 0E08 0E31 THAI CHARACTER CHO CHAN; THAI CHARACTER MAI HAN-AKAT <indexterm>จั 0E08 0E31 sort under จ 0E08</indexterm>
+         </li>
+         <li>จัวะ 0E08 0E31 0E27 0E30 THAI CHARACTER CHO CHAN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>จัวะ 0E08 0E31 0E27 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>จา 0E08 0E32 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA AA <indexterm>จา 0E08 0E32 sort under จ 0E08</indexterm>
+         </li>
+         <li>จำ 0E08 0E33 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA AM <indexterm>จำ 0E08 0E33 sort under จ 0E08</indexterm>
+         </li>
+         <li>จิ 0E08 0E34 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA I <indexterm>จิ 0E08 0E34 sort under จ 0E08</indexterm>
+         </li>
+         <li>จี 0E08 0E35 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA II <indexterm>จี 0E08 0E35 sort under จ 0E08</indexterm>
+         </li>
+         <li>จึ 0E08 0E36 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA UE <indexterm>จึ 0E08 0E36 sort under จ 0E08</indexterm>
+         </li>
+         <li>จื 0E08 0E37 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA UEE <indexterm>จื 0E08 0E37 sort under จ 0E08</indexterm>
+         </li>
+         <li>จุ 0E08 0E38 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA U <indexterm>จุ 0E08 0E38 sort under จ 0E08</indexterm>
+         </li>
+         <li>จู 0E08 0E39 THAI CHARACTER CHO CHAN; THAI CHARACTER SARA UU <indexterm>จู 0E08 0E39 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจ 0E40 0E08 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN <indexterm>เจ 0E40 0E08 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจะ 0E40 0E08 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA A <indexterm>เจะ 0E40 0E08 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจา 0E40 0E08 0E32 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA AA <indexterm>เจา 0E40 0E08 0E32 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจาะ 0E40 0E08 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เจาะ 0E40 0E08 0E32 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจิ 0E40 0E08 0E34 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA I <indexterm>เจิ 0E40 0E08 0E34 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจีย 0E40 0E08 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เจีย 0E40 0E08 0E35 0E22 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจียะ 0E40 0E08 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เจียะ 0E40 0E08 0E35 0E22 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>เจือ 0E40 0E08 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เจือ 0E40 0E08 0E37 0E2D sort under จ 0E08</indexterm>
+         </li>
+         <li>เจือะ 0E40 0E08 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เจือะ 0E40 0E08 0E37 0E2D 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>แจ 0E41 0E08 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHAN <indexterm>แจ 0E41 0E08 sort under จ 0E08</indexterm>
+         </li>
+         <li>แจะ 0E41 0E08 0E30 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA A <indexterm>แจะ 0E41 0E08 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>โจ 0E42 0E08 THAI CHARACTER SARA O; THAI CHARACTER CHO CHAN <indexterm>โจ 0E42 0E08 sort under จ 0E08</indexterm>
+         </li>
+         <li>โจะ 0E42 0E08 0E30 THAI CHARACTER SARA O; THAI CHARACTER CHO CHAN; THAI CHARACTER SARA A <indexterm>โจะ 0E42 0E08 0E30 sort under จ 0E08</indexterm>
+         </li>
+         <li>ใจ 0E43 0E08 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER CHO CHAN <indexterm>ใจ 0E43 0E08 sort under จ 0E08</indexterm>
+         </li>
+         <li>ไจ 0E44 0E08 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER CHO CHAN <indexterm>ไจ 0E44 0E08 sort under จ 0E08</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฉ 0E09<ul>
+         <li>ฉ 0E09 THAI CHARACTER CHO CHING <indexterm>ฉ 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉะ 0E09 0E30 THAI CHARACTER CHO CHING; THAI CHARACTER SARA A <indexterm>ฉะ 0E09 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉั 0E09 0E31 THAI CHARACTER CHO CHING; THAI CHARACTER MAI HAN-AKAT <indexterm>ฉั 0E09 0E31 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉัวะ 0E09 0E31 0E27 0E30 THAI CHARACTER CHO CHING; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฉัวะ 0E09 0E31 0E27 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉา 0E09 0E32 THAI CHARACTER CHO CHING; THAI CHARACTER SARA AA <indexterm>ฉา 0E09 0E32 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉำ 0E09 0E33 THAI CHARACTER CHO CHING; THAI CHARACTER SARA AM <indexterm>ฉำ 0E09 0E33 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉิ 0E09 0E34 THAI CHARACTER CHO CHING; THAI CHARACTER SARA I <indexterm>ฉิ 0E09 0E34 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉี 0E09 0E35 THAI CHARACTER CHO CHING; THAI CHARACTER SARA II <indexterm>ฉี 0E09 0E35 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉึ 0E09 0E36 THAI CHARACTER CHO CHING; THAI CHARACTER SARA UE <indexterm>ฉึ 0E09 0E36 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉื 0E09 0E37 THAI CHARACTER CHO CHING; THAI CHARACTER SARA UEE <indexterm>ฉื 0E09 0E37 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉุ 0E09 0E38 THAI CHARACTER CHO CHING; THAI CHARACTER SARA U <indexterm>ฉุ 0E09 0E38 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ฉู 0E09 0E39 THAI CHARACTER CHO CHING; THAI CHARACTER SARA UU <indexterm>ฉู 0E09 0E39 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉ 0E40 0E09 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING <indexterm>เฉ 0E40 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉะ 0E40 0E09 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA A <indexterm>เฉะ 0E40 0E09 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉา 0E40 0E09 0E32 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA AA <indexterm>เฉา 0E40 0E09 0E32 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉาะ 0E40 0E09 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฉาะ 0E40 0E09 0E32 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉิ 0E40 0E09 0E34 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA I <indexterm>เฉิ 0E40 0E09 0E34 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉีย 0E40 0E09 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฉีย 0E40 0E09 0E35 0E22 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉียะ 0E40 0E09 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฉียะ 0E40 0E09 0E35 0E22 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉือ 0E40 0E09 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฉือ 0E40 0E09 0E37 0E2D sort under ฉ 0E09</indexterm>
+         </li>
+         <li>เฉือะ 0E40 0E09 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฉือะ 0E40 0E09 0E37 0E2D 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>แฉ 0E41 0E09 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHING <indexterm>แฉ 0E41 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>แฉะ 0E41 0E09 0E30 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHING; THAI CHARACTER SARA A <indexterm>แฉะ 0E41 0E09 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>โฉ 0E42 0E09 THAI CHARACTER SARA O; THAI CHARACTER CHO CHING <indexterm>โฉ 0E42 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>โฉะ 0E42 0E09 0E30 THAI CHARACTER SARA O; THAI CHARACTER CHO CHING; THAI CHARACTER SARA A <indexterm>โฉะ 0E42 0E09 0E30 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ใฉ 0E43 0E09 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER CHO CHING <indexterm>ใฉ 0E43 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+         <li>ไฉ 0E44 0E09 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER CHO CHING <indexterm>ไฉ 0E44 0E09 sort under ฉ 0E09</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ช 0E0A<ul>
+         <li>ช 0E0A THAI CHARACTER CHO CHANG <indexterm>ช 0E0A sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชะ 0E0A 0E30 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA A <indexterm>ชะ 0E0A 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชั 0E0A 0E31 THAI CHARACTER CHO CHANG; THAI CHARACTER MAI HAN-AKAT <indexterm>ชั 0E0A 0E31 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชัวะ 0E0A 0E31 0E27 0E30 THAI CHARACTER CHO CHANG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ชัวะ 0E0A 0E31 0E27 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชา 0E0A 0E32 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA AA <indexterm>ชา 0E0A 0E32 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชำ 0E0A 0E33 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA AM <indexterm>ชำ 0E0A 0E33 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชิ 0E0A 0E34 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA I <indexterm>ชิ 0E0A 0E34 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชี 0E0A 0E35 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA II <indexterm>ชี 0E0A 0E35 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชึ 0E0A 0E36 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA UE <indexterm>ชึ 0E0A 0E36 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชื 0E0A 0E37 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA UEE <indexterm>ชื 0E0A 0E37 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชุ 0E0A 0E38 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA U <indexterm>ชุ 0E0A 0E38 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ชู 0E0A 0E39 THAI CHARACTER CHO CHANG; THAI CHARACTER SARA UU <indexterm>ชู 0E0A 0E39 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เช 0E40 0E0A THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG <indexterm>เช 0E40 0E0A sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชะ 0E40 0E0A 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA A <indexterm>เชะ 0E40 0E0A 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชา 0E40 0E0A 0E32 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA AA <indexterm>เชา 0E40 0E0A 0E32 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชาะ 0E40 0E0A 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เชาะ 0E40 0E0A 0E32 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชิ 0E40 0E0A 0E34 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA I <indexterm>เชิ 0E40 0E0A 0E34 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชีย 0E40 0E0A 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เชีย 0E40 0E0A 0E35 0E22 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชียะ 0E40 0E0A 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เชียะ 0E40 0E0A 0E35 0E22 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชือ 0E40 0E0A 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เชือ 0E40 0E0A 0E37 0E2D sort under ช 0E0A</indexterm>
+         </li>
+         <li>เชือะ 0E40 0E0A 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เชือะ 0E40 0E0A 0E37 0E2D 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>แช 0E41 0E0A THAI CHARACTER SARA AE; THAI CHARACTER CHO CHANG <indexterm>แช 0E41 0E0A sort under ช 0E0A</indexterm>
+         </li>
+         <li>แชะ 0E41 0E0A 0E30 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA A <indexterm>แชะ 0E41 0E0A 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>โช 0E42 0E0A THAI CHARACTER SARA O; THAI CHARACTER CHO CHANG <indexterm>โช 0E42 0E0A sort under ช 0E0A</indexterm>
+         </li>
+         <li>โชะ 0E42 0E0A 0E30 THAI CHARACTER SARA O; THAI CHARACTER CHO CHANG; THAI CHARACTER SARA A <indexterm>โชะ 0E42 0E0A 0E30 sort under ช 0E0A</indexterm>
+         </li>
+         <li>ใช 0E43 0E0A THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER CHO CHANG <indexterm>ใช 0E43 0E0A sort under ช 0E0A</indexterm>
+         </li>
+         <li>ไช 0E44 0E0A THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER CHO CHANG <indexterm>ไช 0E44 0E0A sort under ช 0E0A</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ซ 0E0B<ul>
+         <li>ซ 0E0B THAI CHARACTER SO SO <indexterm>ซ 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซะ 0E0B 0E30 THAI CHARACTER SO SO; THAI CHARACTER SARA A <indexterm>ซะ 0E0B 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซั 0E0B 0E31 THAI CHARACTER SO SO; THAI CHARACTER MAI HAN-AKAT <indexterm>ซั 0E0B 0E31 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซัวะ 0E0B 0E31 0E27 0E30 THAI CHARACTER SO SO; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ซัวะ 0E0B 0E31 0E27 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซา 0E0B 0E32 THAI CHARACTER SO SO; THAI CHARACTER SARA AA <indexterm>ซา 0E0B 0E32 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซำ 0E0B 0E33 THAI CHARACTER SO SO; THAI CHARACTER SARA AM <indexterm>ซำ 0E0B 0E33 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซิ 0E0B 0E34 THAI CHARACTER SO SO; THAI CHARACTER SARA I <indexterm>ซิ 0E0B 0E34 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซี 0E0B 0E35 THAI CHARACTER SO SO; THAI CHARACTER SARA II <indexterm>ซี 0E0B 0E35 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซึ 0E0B 0E36 THAI CHARACTER SO SO; THAI CHARACTER SARA UE <indexterm>ซึ 0E0B 0E36 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซื 0E0B 0E37 THAI CHARACTER SO SO; THAI CHARACTER SARA UEE <indexterm>ซื 0E0B 0E37 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซุ 0E0B 0E38 THAI CHARACTER SO SO; THAI CHARACTER SARA U <indexterm>ซุ 0E0B 0E38 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ซู 0E0B 0E39 THAI CHARACTER SO SO; THAI CHARACTER SARA UU <indexterm>ซู 0E0B 0E39 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซ 0E40 0E0B THAI CHARACTER SARA E; THAI CHARACTER SO SO <indexterm>เซ 0E40 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซะ 0E40 0E0B 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA A <indexterm>เซะ 0E40 0E0B 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซา 0E40 0E0B 0E32 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA AA <indexterm>เซา 0E40 0E0B 0E32 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซาะ 0E40 0E0B 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เซาะ 0E40 0E0B 0E32 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซิ 0E40 0E0B 0E34 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA I <indexterm>เซิ 0E40 0E0B 0E34 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซีย 0E40 0E0B 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เซีย 0E40 0E0B 0E35 0E22 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซียะ 0E40 0E0B 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เซียะ 0E40 0E0B 0E35 0E22 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซือ 0E40 0E0B 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เซือ 0E40 0E0B 0E37 0E2D sort under ซ 0E0B</indexterm>
+         </li>
+         <li>เซือะ 0E40 0E0B 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เซือะ 0E40 0E0B 0E37 0E2D 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>แซ 0E41 0E0B THAI CHARACTER SARA AE; THAI CHARACTER SO SO <indexterm>แซ 0E41 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+         <li>แซะ 0E41 0E0B 0E30 THAI CHARACTER SARA AE; THAI CHARACTER SO SO; THAI CHARACTER SARA A <indexterm>แซะ 0E41 0E0B 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>โซ 0E42 0E0B THAI CHARACTER SARA O; THAI CHARACTER SO SO <indexterm>โซ 0E42 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+         <li>โซะ 0E42 0E0B 0E30 THAI CHARACTER SARA O; THAI CHARACTER SO SO; THAI CHARACTER SARA A <indexterm>โซะ 0E42 0E0B 0E30 sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ใซ 0E43 0E0B THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER SO SO <indexterm>ใซ 0E43 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+         <li>ไซ 0E44 0E0B THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER SO SO <indexterm>ไซ 0E44 0E0B sort under ซ 0E0B</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฌ 0E0C<ul>
+         <li>ฌ 0E0C THAI CHARACTER CHO CHOE <indexterm>ฌ 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌะ 0E0C 0E30 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA A <indexterm>ฌะ 0E0C 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌั 0E0C 0E31 THAI CHARACTER CHO CHOE; THAI CHARACTER MAI HAN-AKAT <indexterm>ฌั 0E0C 0E31 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌัวะ 0E0C 0E31 0E27 0E30 THAI CHARACTER CHO CHOE; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฌัวะ 0E0C 0E31 0E27 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌา 0E0C 0E32 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA AA <indexterm>ฌา 0E0C 0E32 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌำ 0E0C 0E33 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA AM <indexterm>ฌำ 0E0C 0E33 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌิ 0E0C 0E34 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA I <indexterm>ฌิ 0E0C 0E34 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌี 0E0C 0E35 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA II <indexterm>ฌี 0E0C 0E35 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌึ 0E0C 0E36 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA UE <indexterm>ฌึ 0E0C 0E36 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌื 0E0C 0E37 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA UEE <indexterm>ฌื 0E0C 0E37 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌุ 0E0C 0E38 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA U <indexterm>ฌุ 0E0C 0E38 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ฌู 0E0C 0E39 THAI CHARACTER CHO CHOE; THAI CHARACTER SARA UU <indexterm>ฌู 0E0C 0E39 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌ 0E40 0E0C THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE <indexterm>เฌ 0E40 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌะ 0E40 0E0C 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA A <indexterm>เฌะ 0E40 0E0C 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌา 0E40 0E0C 0E32 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA AA <indexterm>เฌา 0E40 0E0C 0E32 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌาะ 0E40 0E0C 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฌาะ 0E40 0E0C 0E32 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌิ 0E40 0E0C 0E34 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA I <indexterm>เฌิ 0E40 0E0C 0E34 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌีย 0E40 0E0C 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฌีย 0E40 0E0C 0E35 0E22 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌียะ 0E40 0E0C 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฌียะ 0E40 0E0C 0E35 0E22 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌือ 0E40 0E0C 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฌือ 0E40 0E0C 0E37 0E2D sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>เฌือะ 0E40 0E0C 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฌือะ 0E40 0E0C 0E37 0E2D 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>แฌ 0E41 0E0C THAI CHARACTER SARA AE; THAI CHARACTER CHO CHOE <indexterm>แฌ 0E41 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>แฌะ 0E41 0E0C 0E30 THAI CHARACTER SARA AE; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA A <indexterm>แฌะ 0E41 0E0C 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>โฌ 0E42 0E0C THAI CHARACTER SARA O; THAI CHARACTER CHO CHOE <indexterm>โฌ 0E42 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>โฌะ 0E42 0E0C 0E30 THAI CHARACTER SARA O; THAI CHARACTER CHO CHOE; THAI CHARACTER SARA A <indexterm>โฌะ 0E42 0E0C 0E30 sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ใฌ 0E43 0E0C THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER CHO CHOE <indexterm>ใฌ 0E43 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+         <li>ไฌ 0E44 0E0C THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER CHO CHOE <indexterm>ไฌ 0E44 0E0C sort under ฌ 0E0C</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ญ 0E0D<ul>
+         <li>ญ 0E0D THAI CHARACTER YO YING <indexterm>ญ 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญะ 0E0D 0E30 THAI CHARACTER YO YING; THAI CHARACTER SARA A <indexterm>ญะ 0E0D 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญั 0E0D 0E31 THAI CHARACTER YO YING; THAI CHARACTER MAI HAN-AKAT <indexterm>ญั 0E0D 0E31 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญัวะ 0E0D 0E31 0E27 0E30 THAI CHARACTER YO YING; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ญัวะ 0E0D 0E31 0E27 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญา 0E0D 0E32 THAI CHARACTER YO YING; THAI CHARACTER SARA AA <indexterm>ญา 0E0D 0E32 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญำ 0E0D 0E33 THAI CHARACTER YO YING; THAI CHARACTER SARA AM <indexterm>ญำ 0E0D 0E33 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญิ 0E0D 0E34 THAI CHARACTER YO YING; THAI CHARACTER SARA I <indexterm>ญิ 0E0D 0E34 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญี 0E0D 0E35 THAI CHARACTER YO YING; THAI CHARACTER SARA II <indexterm>ญี 0E0D 0E35 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญึ 0E0D 0E36 THAI CHARACTER YO YING; THAI CHARACTER SARA UE <indexterm>ญึ 0E0D 0E36 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญื 0E0D 0E37 THAI CHARACTER YO YING; THAI CHARACTER SARA UEE <indexterm>ญื 0E0D 0E37 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญุ 0E0D 0E38 THAI CHARACTER YO YING; THAI CHARACTER SARA U <indexterm>ญุ 0E0D 0E38 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ญู 0E0D 0E39 THAI CHARACTER YO YING; THAI CHARACTER SARA UU <indexterm>ญู 0E0D 0E39 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญ 0E40 0E0D THAI CHARACTER SARA E; THAI CHARACTER YO YING <indexterm>เญ 0E40 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญะ 0E40 0E0D 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA A <indexterm>เญะ 0E40 0E0D 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญา 0E40 0E0D 0E32 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA AA <indexterm>เญา 0E40 0E0D 0E32 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญาะ 0E40 0E0D 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เญาะ 0E40 0E0D 0E32 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญิ 0E40 0E0D 0E34 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA I <indexterm>เญิ 0E40 0E0D 0E34 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญีย 0E40 0E0D 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เญีย 0E40 0E0D 0E35 0E22 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญียะ 0E40 0E0D 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เญียะ 0E40 0E0D 0E35 0E22 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญือ 0E40 0E0D 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เญือ 0E40 0E0D 0E37 0E2D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>เญือะ 0E40 0E0D 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เญือะ 0E40 0E0D 0E37 0E2D 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>แญ 0E41 0E0D THAI CHARACTER SARA AE; THAI CHARACTER YO YING <indexterm>แญ 0E41 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>แญะ 0E41 0E0D 0E30 THAI CHARACTER SARA AE; THAI CHARACTER YO YING; THAI CHARACTER SARA A <indexterm>แญะ 0E41 0E0D 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>โญ 0E42 0E0D THAI CHARACTER SARA O; THAI CHARACTER YO YING <indexterm>โญ 0E42 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>โญะ 0E42 0E0D 0E30 THAI CHARACTER SARA O; THAI CHARACTER YO YING; THAI CHARACTER SARA A <indexterm>โญะ 0E42 0E0D 0E30 sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ใญ 0E43 0E0D THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER YO YING <indexterm>ใญ 0E43 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+         <li>ไญ 0E44 0E0D THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER YO YING <indexterm>ไญ 0E44 0E0D sort under ญ 0E0D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฎ 0E0E<ul>
+         <li>ฎ 0E0E THAI CHARACTER DO CHADA <indexterm>ฎ 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎะ 0E0E 0E30 THAI CHARACTER DO CHADA; THAI CHARACTER SARA A <indexterm>ฎะ 0E0E 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎั 0E0E 0E31 THAI CHARACTER DO CHADA; THAI CHARACTER MAI HAN-AKAT <indexterm>ฎั 0E0E 0E31 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎัวะ 0E0E 0E31 0E27 0E30 THAI CHARACTER DO CHADA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฎัวะ 0E0E 0E31 0E27 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎา 0E0E 0E32 THAI CHARACTER DO CHADA; THAI CHARACTER SARA AA <indexterm>ฎา 0E0E 0E32 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎำ 0E0E 0E33 THAI CHARACTER DO CHADA; THAI CHARACTER SARA AM <indexterm>ฎำ 0E0E 0E33 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎิ 0E0E 0E34 THAI CHARACTER DO CHADA; THAI CHARACTER SARA I <indexterm>ฎิ 0E0E 0E34 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎี 0E0E 0E35 THAI CHARACTER DO CHADA; THAI CHARACTER SARA II <indexterm>ฎี 0E0E 0E35 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎึ 0E0E 0E36 THAI CHARACTER DO CHADA; THAI CHARACTER SARA UE <indexterm>ฎึ 0E0E 0E36 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎื 0E0E 0E37 THAI CHARACTER DO CHADA; THAI CHARACTER SARA UEE <indexterm>ฎื 0E0E 0E37 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎุ 0E0E 0E38 THAI CHARACTER DO CHADA; THAI CHARACTER SARA U <indexterm>ฎุ 0E0E 0E38 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ฎู 0E0E 0E39 THAI CHARACTER DO CHADA; THAI CHARACTER SARA UU <indexterm>ฎู 0E0E 0E39 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎ 0E40 0E0E THAI CHARACTER SARA E; THAI CHARACTER DO CHADA <indexterm>เฎ 0E40 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎะ 0E40 0E0E 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA A <indexterm>เฎะ 0E40 0E0E 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎา 0E40 0E0E 0E32 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA AA <indexterm>เฎา 0E40 0E0E 0E32 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎาะ 0E40 0E0E 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฎาะ 0E40 0E0E 0E32 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎิ 0E40 0E0E 0E34 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA I <indexterm>เฎิ 0E40 0E0E 0E34 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎีย 0E40 0E0E 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฎีย 0E40 0E0E 0E35 0E22 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎียะ 0E40 0E0E 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฎียะ 0E40 0E0E 0E35 0E22 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎือ 0E40 0E0E 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฎือ 0E40 0E0E 0E37 0E2D sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>เฎือะ 0E40 0E0E 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO CHADA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฎือะ 0E40 0E0E 0E37 0E2D 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>แฎ 0E41 0E0E THAI CHARACTER SARA AE; THAI CHARACTER DO CHADA <indexterm>แฎ 0E41 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>แฎะ 0E41 0E0E 0E30 THAI CHARACTER SARA AE; THAI CHARACTER DO CHADA; THAI CHARACTER SARA A <indexterm>แฎะ 0E41 0E0E 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>โฎ 0E42 0E0E THAI CHARACTER SARA O; THAI CHARACTER DO CHADA <indexterm>โฎ 0E42 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>โฎะ 0E42 0E0E 0E30 THAI CHARACTER SARA O; THAI CHARACTER DO CHADA; THAI CHARACTER SARA A <indexterm>โฎะ 0E42 0E0E 0E30 sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ใฎ 0E43 0E0E THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER DO CHADA <indexterm>ใฎ 0E43 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+         <li>ไฎ 0E44 0E0E THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER DO CHADA <indexterm>ไฎ 0E44 0E0E sort under ฎ 0E0E</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฏ 0E0F<ul>
+         <li>ฏ 0E0F THAI CHARACTER TO PATAK <indexterm>ฏ 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏะ 0E0F 0E30 THAI CHARACTER TO PATAK; THAI CHARACTER SARA A <indexterm>ฏะ 0E0F 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏั 0E0F 0E31 THAI CHARACTER TO PATAK; THAI CHARACTER MAI HAN-AKAT <indexterm>ฏั 0E0F 0E31 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏัวะ 0E0F 0E31 0E27 0E30 THAI CHARACTER TO PATAK; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฏัวะ 0E0F 0E31 0E27 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏา 0E0F 0E32 THAI CHARACTER TO PATAK; THAI CHARACTER SARA AA <indexterm>ฏา 0E0F 0E32 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏำ 0E0F 0E33 THAI CHARACTER TO PATAK; THAI CHARACTER SARA AM <indexterm>ฏำ 0E0F 0E33 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏิ 0E0F 0E34 THAI CHARACTER TO PATAK; THAI CHARACTER SARA I <indexterm>ฏิ 0E0F 0E34 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏี 0E0F 0E35 THAI CHARACTER TO PATAK; THAI CHARACTER SARA II <indexterm>ฏี 0E0F 0E35 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏึ 0E0F 0E36 THAI CHARACTER TO PATAK; THAI CHARACTER SARA UE <indexterm>ฏึ 0E0F 0E36 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏื 0E0F 0E37 THAI CHARACTER TO PATAK; THAI CHARACTER SARA UEE <indexterm>ฏื 0E0F 0E37 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏุ 0E0F 0E38 THAI CHARACTER TO PATAK; THAI CHARACTER SARA U <indexterm>ฏุ 0E0F 0E38 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ฏู 0E0F 0E39 THAI CHARACTER TO PATAK; THAI CHARACTER SARA UU <indexterm>ฏู 0E0F 0E39 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏ 0E40 0E0F THAI CHARACTER SARA E; THAI CHARACTER TO PATAK <indexterm>เฏ 0E40 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏะ 0E40 0E0F 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA A <indexterm>เฏะ 0E40 0E0F 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏา 0E40 0E0F 0E32 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA AA <indexterm>เฏา 0E40 0E0F 0E32 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏาะ 0E40 0E0F 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฏาะ 0E40 0E0F 0E32 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏิ 0E40 0E0F 0E34 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA I <indexterm>เฏิ 0E40 0E0F 0E34 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏีย 0E40 0E0F 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฏีย 0E40 0E0F 0E35 0E22 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏียะ 0E40 0E0F 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฏียะ 0E40 0E0F 0E35 0E22 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏือ 0E40 0E0F 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฏือ 0E40 0E0F 0E37 0E2D sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>เฏือะ 0E40 0E0F 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO PATAK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฏือะ 0E40 0E0F 0E37 0E2D 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>แฏ 0E41 0E0F THAI CHARACTER SARA AE; THAI CHARACTER TO PATAK <indexterm>แฏ 0E41 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>แฏะ 0E41 0E0F 0E30 THAI CHARACTER SARA AE; THAI CHARACTER TO PATAK; THAI CHARACTER SARA A <indexterm>แฏะ 0E41 0E0F 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>โฏ 0E42 0E0F THAI CHARACTER SARA O; THAI CHARACTER TO PATAK <indexterm>โฏ 0E42 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>โฏะ 0E42 0E0F 0E30 THAI CHARACTER SARA O; THAI CHARACTER TO PATAK; THAI CHARACTER SARA A <indexterm>โฏะ 0E42 0E0F 0E30 sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ใฏ 0E43 0E0F THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER TO PATAK <indexterm>ใฏ 0E43 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+         <li>ไฏ 0E44 0E0F THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER TO PATAK <indexterm>ไฏ 0E44 0E0F sort under ฏ 0E0F</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฐ 0E10<ul>
+         <li>ฐ 0E10 THAI CHARACTER THO THAN <indexterm>ฐ 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐะ 0E10 0E30 THAI CHARACTER THO THAN; THAI CHARACTER SARA A <indexterm>ฐะ 0E10 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐั 0E10 0E31 THAI CHARACTER THO THAN; THAI CHARACTER MAI HAN-AKAT <indexterm>ฐั 0E10 0E31 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐัวะ 0E10 0E31 0E27 0E30 THAI CHARACTER THO THAN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฐัวะ 0E10 0E31 0E27 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐา 0E10 0E32 THAI CHARACTER THO THAN; THAI CHARACTER SARA AA <indexterm>ฐา 0E10 0E32 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐำ 0E10 0E33 THAI CHARACTER THO THAN; THAI CHARACTER SARA AM <indexterm>ฐำ 0E10 0E33 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐิ 0E10 0E34 THAI CHARACTER THO THAN; THAI CHARACTER SARA I <indexterm>ฐิ 0E10 0E34 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐี 0E10 0E35 THAI CHARACTER THO THAN; THAI CHARACTER SARA II <indexterm>ฐี 0E10 0E35 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐึ 0E10 0E36 THAI CHARACTER THO THAN; THAI CHARACTER SARA UE <indexterm>ฐึ 0E10 0E36 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐื 0E10 0E37 THAI CHARACTER THO THAN; THAI CHARACTER SARA UEE <indexterm>ฐื 0E10 0E37 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐุ 0E10 0E38 THAI CHARACTER THO THAN; THAI CHARACTER SARA U <indexterm>ฐุ 0E10 0E38 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ฐู 0E10 0E39 THAI CHARACTER THO THAN; THAI CHARACTER SARA UU <indexterm>ฐู 0E10 0E39 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐ 0E40 0E10 THAI CHARACTER SARA E; THAI CHARACTER THO THAN <indexterm>เฐ 0E40 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐะ 0E40 0E10 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA A <indexterm>เฐะ 0E40 0E10 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐา 0E40 0E10 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA AA <indexterm>เฐา 0E40 0E10 0E32 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐาะ 0E40 0E10 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฐาะ 0E40 0E10 0E32 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐิ 0E40 0E10 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA I <indexterm>เฐิ 0E40 0E10 0E34 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐีย 0E40 0E10 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฐีย 0E40 0E10 0E35 0E22 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐียะ 0E40 0E10 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฐียะ 0E40 0E10 0E35 0E22 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐือ 0E40 0E10 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฐือ 0E40 0E10 0E37 0E2D sort under ฐ 0E10</indexterm>
+         </li>
+         <li>เฐือะ 0E40 0E10 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฐือะ 0E40 0E10 0E37 0E2D 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>แฐ 0E41 0E10 THAI CHARACTER SARA AE; THAI CHARACTER THO THAN <indexterm>แฐ 0E41 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>แฐะ 0E41 0E10 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO THAN; THAI CHARACTER SARA A <indexterm>แฐะ 0E41 0E10 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>โฐ 0E42 0E10 THAI CHARACTER SARA O; THAI CHARACTER THO THAN <indexterm>โฐ 0E42 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>โฐะ 0E42 0E10 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO THAN; THAI CHARACTER SARA A <indexterm>โฐะ 0E42 0E10 0E30 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ใฐ 0E43 0E10 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO THAN <indexterm>ใฐ 0E43 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+         <li>ไฐ 0E44 0E10 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO THAN <indexterm>ไฐ 0E44 0E10 sort under ฐ 0E10</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฑ 0E11<ul>
+         <li>ฑ 0E11 THAI CHARACTER THO NANGMONTHO <indexterm>ฑ 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑะ 0E11 0E30 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA A <indexterm>ฑะ 0E11 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑั 0E11 0E31 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER MAI HAN-AKAT <indexterm>ฑั 0E11 0E31 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑัวะ 0E11 0E31 0E27 0E30 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฑัวะ 0E11 0E31 0E27 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑา 0E11 0E32 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA AA <indexterm>ฑา 0E11 0E32 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑำ 0E11 0E33 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA AM <indexterm>ฑำ 0E11 0E33 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑิ 0E11 0E34 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA I <indexterm>ฑิ 0E11 0E34 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑี 0E11 0E35 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA II <indexterm>ฑี 0E11 0E35 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑึ 0E11 0E36 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA UE <indexterm>ฑึ 0E11 0E36 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑื 0E11 0E37 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA UEE <indexterm>ฑื 0E11 0E37 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑุ 0E11 0E38 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA U <indexterm>ฑุ 0E11 0E38 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ฑู 0E11 0E39 THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA UU <indexterm>ฑู 0E11 0E39 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑ 0E40 0E11 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO <indexterm>เฑ 0E40 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑะ 0E40 0E11 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA A <indexterm>เฑะ 0E40 0E11 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑา 0E40 0E11 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA AA <indexterm>เฑา 0E40 0E11 0E32 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑาะ 0E40 0E11 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฑาะ 0E40 0E11 0E32 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑิ 0E40 0E11 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA I <indexterm>เฑิ 0E40 0E11 0E34 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑีย 0E40 0E11 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฑีย 0E40 0E11 0E35 0E22 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑียะ 0E40 0E11 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฑียะ 0E40 0E11 0E35 0E22 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑือ 0E40 0E11 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฑือ 0E40 0E11 0E37 0E2D sort under ฑ 0E11</indexterm>
+         </li>
+         <li>เฑือะ 0E40 0E11 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฑือะ 0E40 0E11 0E37 0E2D 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>แฑ 0E41 0E11 THAI CHARACTER SARA AE; THAI CHARACTER THO NANGMONTHO <indexterm>แฑ 0E41 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>แฑะ 0E41 0E11 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA A <indexterm>แฑะ 0E41 0E11 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>โฑ 0E42 0E11 THAI CHARACTER SARA O; THAI CHARACTER THO NANGMONTHO <indexterm>โฑ 0E42 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>โฑะ 0E42 0E11 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO NANGMONTHO; THAI CHARACTER SARA A <indexterm>โฑะ 0E42 0E11 0E30 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ใฑ 0E43 0E11 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO NANGMONTHO <indexterm>ใฑ 0E43 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+         <li>ไฑ 0E44 0E11 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO NANGMONTHO <indexterm>ไฑ 0E44 0E11 sort under ฑ 0E11</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฒ 0E12<ul>
+         <li>ฒ 0E12 THAI CHARACTER THO PHUTHAO <indexterm>ฒ 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒะ 0E12 0E30 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA A <indexterm>ฒะ 0E12 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒั 0E12 0E31 THAI CHARACTER THO PHUTHAO; THAI CHARACTER MAI HAN-AKAT <indexterm>ฒั 0E12 0E31 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒัวะ 0E12 0E31 0E27 0E30 THAI CHARACTER THO PHUTHAO; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฒัวะ 0E12 0E31 0E27 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒา 0E12 0E32 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA AA <indexterm>ฒา 0E12 0E32 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒำ 0E12 0E33 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA AM <indexterm>ฒำ 0E12 0E33 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒิ 0E12 0E34 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA I <indexterm>ฒิ 0E12 0E34 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒี 0E12 0E35 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA II <indexterm>ฒี 0E12 0E35 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒึ 0E12 0E36 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA UE <indexterm>ฒึ 0E12 0E36 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒื 0E12 0E37 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA UEE <indexterm>ฒื 0E12 0E37 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒุ 0E12 0E38 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA U <indexterm>ฒุ 0E12 0E38 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ฒู 0E12 0E39 THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA UU <indexterm>ฒู 0E12 0E39 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒ 0E40 0E12 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO <indexterm>เฒ 0E40 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒะ 0E40 0E12 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA A <indexterm>เฒะ 0E40 0E12 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒา 0E40 0E12 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA AA <indexterm>เฒา 0E40 0E12 0E32 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒาะ 0E40 0E12 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฒาะ 0E40 0E12 0E32 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒิ 0E40 0E12 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA I <indexterm>เฒิ 0E40 0E12 0E34 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒีย 0E40 0E12 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฒีย 0E40 0E12 0E35 0E22 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒียะ 0E40 0E12 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฒียะ 0E40 0E12 0E35 0E22 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒือ 0E40 0E12 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฒือ 0E40 0E12 0E37 0E2D sort under ฒ 0E12</indexterm>
+         </li>
+         <li>เฒือะ 0E40 0E12 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฒือะ 0E40 0E12 0E37 0E2D 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>แฒ 0E41 0E12 THAI CHARACTER SARA AE; THAI CHARACTER THO PHUTHAO <indexterm>แฒ 0E41 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>แฒะ 0E41 0E12 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA A <indexterm>แฒะ 0E41 0E12 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>โฒ 0E42 0E12 THAI CHARACTER SARA O; THAI CHARACTER THO PHUTHAO <indexterm>โฒ 0E42 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>โฒะ 0E42 0E12 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO PHUTHAO; THAI CHARACTER SARA A <indexterm>โฒะ 0E42 0E12 0E30 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ใฒ 0E43 0E12 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO PHUTHAO <indexterm>ใฒ 0E43 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+         <li>ไฒ 0E44 0E12 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO PHUTHAO <indexterm>ไฒ 0E44 0E12 sort under ฒ 0E12</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ณ 0E13<ul>
+         <li>ณ 0E13 THAI CHARACTER NO NEN <indexterm>ณ 0E13 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณะ 0E13 0E30 THAI CHARACTER NO NEN; THAI CHARACTER SARA A <indexterm>ณะ 0E13 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณั 0E13 0E31 THAI CHARACTER NO NEN; THAI CHARACTER MAI HAN-AKAT <indexterm>ณั 0E13 0E31 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณัวะ 0E13 0E31 0E27 0E30 THAI CHARACTER NO NEN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ณัวะ 0E13 0E31 0E27 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณา 0E13 0E32 THAI CHARACTER NO NEN; THAI CHARACTER SARA AA <indexterm>ณา 0E13 0E32 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณำ 0E13 0E33 THAI CHARACTER NO NEN; THAI CHARACTER SARA AM <indexterm>ณำ 0E13 0E33 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณิ 0E13 0E34 THAI CHARACTER NO NEN; THAI CHARACTER SARA I <indexterm>ณิ 0E13 0E34 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณี 0E13 0E35 THAI CHARACTER NO NEN; THAI CHARACTER SARA II <indexterm>ณี 0E13 0E35 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณึ 0E13 0E36 THAI CHARACTER NO NEN; THAI CHARACTER SARA UE <indexterm>ณึ 0E13 0E36 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณื 0E13 0E37 THAI CHARACTER NO NEN; THAI CHARACTER SARA UEE <indexterm>ณื 0E13 0E37 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณุ 0E13 0E38 THAI CHARACTER NO NEN; THAI CHARACTER SARA U <indexterm>ณุ 0E13 0E38 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ณู 0E13 0E39 THAI CHARACTER NO NEN; THAI CHARACTER SARA UU <indexterm>ณู 0E13 0E39 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณ 0E40 0E13 THAI CHARACTER SARA E; THAI CHARACTER NO NEN <indexterm>เณ 0E40 0E13 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณะ 0E40 0E13 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA A <indexterm>เณะ 0E40 0E13 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณา 0E40 0E13 0E32 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA AA <indexterm>เณา 0E40 0E13 0E32 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณาะ 0E40 0E13 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เณาะ 0E40 0E13 0E32 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณิ 0E40 0E13 0E34 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA I <indexterm>เณิ 0E40 0E13 0E34 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณีย 0E40 0E13 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เณีย 0E40 0E13 0E35 0E22 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณียะ 0E40 0E13 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เณียะ 0E40 0E13 0E35 0E22 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณือ 0E40 0E13 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เณือ 0E40 0E13 0E37 0E2D sort under ณ 0E13</indexterm>
+         </li>
+         <li>เณือะ 0E40 0E13 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NEN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เณือะ 0E40 0E13 0E37 0E2D 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>แณ 0E41 0E13 THAI CHARACTER SARA AE; THAI CHARACTER NO NEN <indexterm>แณ 0E41 0E13 sort under ณ 0E13</indexterm>
+         </li>
+         <li>แณะ 0E41 0E13 0E30 THAI CHARACTER SARA AE; THAI CHARACTER NO NEN; THAI CHARACTER SARA A <indexterm>แณะ 0E41 0E13 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>โณ 0E42 0E13 THAI CHARACTER SARA O; THAI CHARACTER NO NEN <indexterm>โณ 0E42 0E13 sort under ณ 0E13</indexterm>
+         </li>
+         <li>โณะ 0E42 0E13 0E30 THAI CHARACTER SARA O; THAI CHARACTER NO NEN; THAI CHARACTER SARA A <indexterm>โณะ 0E42 0E13 0E30 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ใณ 0E43 0E13 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER NO NEN <indexterm>ใณ 0E43 0E13 sort under ณ 0E13</indexterm>
+         </li>
+         <li>ไณ 0E44 0E13 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER NO NEN <indexterm>ไณ 0E44 0E13 sort under ณ 0E13</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ด 0E14<ul>
+         <li>ด 0E14 THAI CHARACTER DO DEK <indexterm>ด 0E14 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดะ 0E14 0E30 THAI CHARACTER DO DEK; THAI CHARACTER SARA A <indexterm>ดะ 0E14 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดั 0E14 0E31 THAI CHARACTER DO DEK; THAI CHARACTER MAI HAN-AKAT <indexterm>ดั 0E14 0E31 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดัวะ 0E14 0E31 0E27 0E30 THAI CHARACTER DO DEK; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ดัวะ 0E14 0E31 0E27 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดา 0E14 0E32 THAI CHARACTER DO DEK; THAI CHARACTER SARA AA <indexterm>ดา 0E14 0E32 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดำ 0E14 0E33 THAI CHARACTER DO DEK; THAI CHARACTER SARA AM <indexterm>ดำ 0E14 0E33 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดิ 0E14 0E34 THAI CHARACTER DO DEK; THAI CHARACTER SARA I <indexterm>ดิ 0E14 0E34 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดี 0E14 0E35 THAI CHARACTER DO DEK; THAI CHARACTER SARA II <indexterm>ดี 0E14 0E35 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดึ 0E14 0E36 THAI CHARACTER DO DEK; THAI CHARACTER SARA UE <indexterm>ดึ 0E14 0E36 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดื 0E14 0E37 THAI CHARACTER DO DEK; THAI CHARACTER SARA UEE <indexterm>ดื 0E14 0E37 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดุ 0E14 0E38 THAI CHARACTER DO DEK; THAI CHARACTER SARA U <indexterm>ดุ 0E14 0E38 sort under ด 0E14</indexterm>
+         </li>
+         <li>ดู 0E14 0E39 THAI CHARACTER DO DEK; THAI CHARACTER SARA UU <indexterm>ดู 0E14 0E39 sort under ด 0E14</indexterm>
+         </li>
+         <li>เด 0E40 0E14 THAI CHARACTER SARA E; THAI CHARACTER DO DEK <indexterm>เด 0E40 0E14 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดะ 0E40 0E14 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA A <indexterm>เดะ 0E40 0E14 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดา 0E40 0E14 0E32 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA AA <indexterm>เดา 0E40 0E14 0E32 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดาะ 0E40 0E14 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เดาะ 0E40 0E14 0E32 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดิ 0E40 0E14 0E34 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA I <indexterm>เดิ 0E40 0E14 0E34 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดีย 0E40 0E14 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เดีย 0E40 0E14 0E35 0E22 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดียะ 0E40 0E14 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เดียะ 0E40 0E14 0E35 0E22 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>เดือ 0E40 0E14 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เดือ 0E40 0E14 0E37 0E2D sort under ด 0E14</indexterm>
+         </li>
+         <li>เดือะ 0E40 0E14 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER DO DEK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เดือะ 0E40 0E14 0E37 0E2D 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>แด 0E41 0E14 THAI CHARACTER SARA AE; THAI CHARACTER DO DEK <indexterm>แด 0E41 0E14 sort under ด 0E14</indexterm>
+         </li>
+         <li>แดะ 0E41 0E14 0E30 THAI CHARACTER SARA AE; THAI CHARACTER DO DEK; THAI CHARACTER SARA A <indexterm>แดะ 0E41 0E14 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>โด 0E42 0E14 THAI CHARACTER SARA O; THAI CHARACTER DO DEK <indexterm>โด 0E42 0E14 sort under ด 0E14</indexterm>
+         </li>
+         <li>โดะ 0E42 0E14 0E30 THAI CHARACTER SARA O; THAI CHARACTER DO DEK; THAI CHARACTER SARA A <indexterm>โดะ 0E42 0E14 0E30 sort under ด 0E14</indexterm>
+         </li>
+         <li>ใด 0E43 0E14 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER DO DEK <indexterm>ใด 0E43 0E14 sort under ด 0E14</indexterm>
+         </li>
+         <li>ได 0E44 0E14 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER DO DEK <indexterm>ได 0E44 0E14 sort under ด 0E14</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ต 0E15<ul>
+         <li>ต 0E15 THAI CHARACTER TO TAO <indexterm>ต 0E15 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตะ 0E15 0E30 THAI CHARACTER TO TAO; THAI CHARACTER SARA A <indexterm>ตะ 0E15 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตั 0E15 0E31 THAI CHARACTER TO TAO; THAI CHARACTER MAI HAN-AKAT <indexterm>ตั 0E15 0E31 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตัวะ 0E15 0E31 0E27 0E30 THAI CHARACTER TO TAO; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ตัวะ 0E15 0E31 0E27 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตา 0E15 0E32 THAI CHARACTER TO TAO; THAI CHARACTER SARA AA <indexterm>ตา 0E15 0E32 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตำ 0E15 0E33 THAI CHARACTER TO TAO; THAI CHARACTER SARA AM <indexterm>ตำ 0E15 0E33 sort under ต 0E15</indexterm>
+         </li>
+         <li>ติ 0E15 0E34 THAI CHARACTER TO TAO; THAI CHARACTER SARA I <indexterm>ติ 0E15 0E34 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตี 0E15 0E35 THAI CHARACTER TO TAO; THAI CHARACTER SARA II <indexterm>ตี 0E15 0E35 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตึ 0E15 0E36 THAI CHARACTER TO TAO; THAI CHARACTER SARA UE <indexterm>ตึ 0E15 0E36 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตื 0E15 0E37 THAI CHARACTER TO TAO; THAI CHARACTER SARA UEE <indexterm>ตื 0E15 0E37 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตุ 0E15 0E38 THAI CHARACTER TO TAO; THAI CHARACTER SARA U <indexterm>ตุ 0E15 0E38 sort under ต 0E15</indexterm>
+         </li>
+         <li>ตู 0E15 0E39 THAI CHARACTER TO TAO; THAI CHARACTER SARA UU <indexterm>ตู 0E15 0E39 sort under ต 0E15</indexterm>
+         </li>
+         <li>เต 0E40 0E15 THAI CHARACTER SARA E; THAI CHARACTER TO TAO <indexterm>เต 0E40 0E15 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตะ 0E40 0E15 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA A <indexterm>เตะ 0E40 0E15 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตา 0E40 0E15 0E32 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA AA <indexterm>เตา 0E40 0E15 0E32 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตาะ 0E40 0E15 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เตาะ 0E40 0E15 0E32 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>เติ 0E40 0E15 0E34 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA I <indexterm>เติ 0E40 0E15 0E34 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตีย 0E40 0E15 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เตีย 0E40 0E15 0E35 0E22 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตียะ 0E40 0E15 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เตียะ 0E40 0E15 0E35 0E22 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>เตือ 0E40 0E15 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เตือ 0E40 0E15 0E37 0E2D sort under ต 0E15</indexterm>
+         </li>
+         <li>เตือะ 0E40 0E15 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER TO TAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เตือะ 0E40 0E15 0E37 0E2D 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>แต 0E41 0E15 THAI CHARACTER SARA AE; THAI CHARACTER TO TAO <indexterm>แต 0E41 0E15 sort under ต 0E15</indexterm>
+         </li>
+         <li>แตะ 0E41 0E15 0E30 THAI CHARACTER SARA AE; THAI CHARACTER TO TAO; THAI CHARACTER SARA A <indexterm>แตะ 0E41 0E15 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>โต 0E42 0E15 THAI CHARACTER SARA O; THAI CHARACTER TO TAO <indexterm>โต 0E42 0E15 sort under ต 0E15</indexterm>
+         </li>
+         <li>โตะ 0E42 0E15 0E30 THAI CHARACTER SARA O; THAI CHARACTER TO TAO; THAI CHARACTER SARA A <indexterm>โตะ 0E42 0E15 0E30 sort under ต 0E15</indexterm>
+         </li>
+         <li>ใต 0E43 0E15 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER TO TAO <indexterm>ใต 0E43 0E15 sort under ต 0E15</indexterm>
+         </li>
+         <li>ไต 0E44 0E15 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER TO TAO <indexterm>ไต 0E44 0E15 sort under ต 0E15</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ถ 0E16<ul>
+         <li>ถ 0E16 THAI CHARACTER THO THUNG <indexterm>ถ 0E16 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถะ 0E16 0E30 THAI CHARACTER THO THUNG; THAI CHARACTER SARA A <indexterm>ถะ 0E16 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถั 0E16 0E31 THAI CHARACTER THO THUNG; THAI CHARACTER MAI HAN-AKAT <indexterm>ถั 0E16 0E31 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถัวะ 0E16 0E31 0E27 0E30 THAI CHARACTER THO THUNG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ถัวะ 0E16 0E31 0E27 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถา 0E16 0E32 THAI CHARACTER THO THUNG; THAI CHARACTER SARA AA <indexterm>ถา 0E16 0E32 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถำ 0E16 0E33 THAI CHARACTER THO THUNG; THAI CHARACTER SARA AM <indexterm>ถำ 0E16 0E33 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถิ 0E16 0E34 THAI CHARACTER THO THUNG; THAI CHARACTER SARA I <indexterm>ถิ 0E16 0E34 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถี 0E16 0E35 THAI CHARACTER THO THUNG; THAI CHARACTER SARA II <indexterm>ถี 0E16 0E35 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถึ 0E16 0E36 THAI CHARACTER THO THUNG; THAI CHARACTER SARA UE <indexterm>ถึ 0E16 0E36 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถื 0E16 0E37 THAI CHARACTER THO THUNG; THAI CHARACTER SARA UEE <indexterm>ถื 0E16 0E37 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถุ 0E16 0E38 THAI CHARACTER THO THUNG; THAI CHARACTER SARA U <indexterm>ถุ 0E16 0E38 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ถู 0E16 0E39 THAI CHARACTER THO THUNG; THAI CHARACTER SARA UU <indexterm>ถู 0E16 0E39 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถ 0E40 0E16 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG <indexterm>เถ 0E40 0E16 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถะ 0E40 0E16 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA A <indexterm>เถะ 0E40 0E16 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถา 0E40 0E16 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA AA <indexterm>เถา 0E40 0E16 0E32 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถาะ 0E40 0E16 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เถาะ 0E40 0E16 0E32 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถิ 0E40 0E16 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA I <indexterm>เถิ 0E40 0E16 0E34 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถีย 0E40 0E16 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เถีย 0E40 0E16 0E35 0E22 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถียะ 0E40 0E16 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เถียะ 0E40 0E16 0E35 0E22 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถือ 0E40 0E16 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เถือ 0E40 0E16 0E37 0E2D sort under ถ 0E16</indexterm>
+         </li>
+         <li>เถือะ 0E40 0E16 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THUNG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เถือะ 0E40 0E16 0E37 0E2D 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>แถ 0E41 0E16 THAI CHARACTER SARA AE; THAI CHARACTER THO THUNG <indexterm>แถ 0E41 0E16 sort under ถ 0E16</indexterm>
+         </li>
+         <li>แถะ 0E41 0E16 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO THUNG; THAI CHARACTER SARA A <indexterm>แถะ 0E41 0E16 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>โถ 0E42 0E16 THAI CHARACTER SARA O; THAI CHARACTER THO THUNG <indexterm>โถ 0E42 0E16 sort under ถ 0E16</indexterm>
+         </li>
+         <li>โถะ 0E42 0E16 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO THUNG; THAI CHARACTER SARA A <indexterm>โถะ 0E42 0E16 0E30 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ใถ 0E43 0E16 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO THUNG <indexterm>ใถ 0E43 0E16 sort under ถ 0E16</indexterm>
+         </li>
+         <li>ไถ 0E44 0E16 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO THUNG <indexterm>ไถ 0E44 0E16 sort under ถ 0E16</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ท 0E17<ul>
+         <li>ท 0E17 THAI CHARACTER THO THAHAN <indexterm>ท 0E17 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทะ 0E17 0E30 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA A <indexterm>ทะ 0E17 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทั 0E17 0E31 THAI CHARACTER THO THAHAN; THAI CHARACTER MAI HAN-AKAT <indexterm>ทั 0E17 0E31 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทัวะ 0E17 0E31 0E27 0E30 THAI CHARACTER THO THAHAN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ทัวะ 0E17 0E31 0E27 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทา 0E17 0E32 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA AA <indexterm>ทา 0E17 0E32 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทำ 0E17 0E33 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA AM <indexterm>ทำ 0E17 0E33 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทิ 0E17 0E34 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA I <indexterm>ทิ 0E17 0E34 sort under ท 0E17</indexterm>
+         </li>
+         <li>ที 0E17 0E35 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA II <indexterm>ที 0E17 0E35 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทึ 0E17 0E36 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA UE <indexterm>ทึ 0E17 0E36 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทื 0E17 0E37 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA UEE <indexterm>ทื 0E17 0E37 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทุ 0E17 0E38 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA U <indexterm>ทุ 0E17 0E38 sort under ท 0E17</indexterm>
+         </li>
+         <li>ทู 0E17 0E39 THAI CHARACTER THO THAHAN; THAI CHARACTER SARA UU <indexterm>ทู 0E17 0E39 sort under ท 0E17</indexterm>
+         </li>
+         <li>เท 0E40 0E17 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN <indexterm>เท 0E40 0E17 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทะ 0E40 0E17 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA A <indexterm>เทะ 0E40 0E17 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทา 0E40 0E17 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA AA <indexterm>เทา 0E40 0E17 0E32 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทาะ 0E40 0E17 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เทาะ 0E40 0E17 0E32 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทิ 0E40 0E17 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA I <indexterm>เทิ 0E40 0E17 0E34 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทีย 0E40 0E17 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เทีย 0E40 0E17 0E35 0E22 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทียะ 0E40 0E17 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เทียะ 0E40 0E17 0E35 0E22 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>เทือ 0E40 0E17 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เทือ 0E40 0E17 0E37 0E2D sort under ท 0E17</indexterm>
+         </li>
+         <li>เทือะ 0E40 0E17 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เทือะ 0E40 0E17 0E37 0E2D 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>แท 0E41 0E17 THAI CHARACTER SARA AE; THAI CHARACTER THO THAHAN <indexterm>แท 0E41 0E17 sort under ท 0E17</indexterm>
+         </li>
+         <li>แทะ 0E41 0E17 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA A <indexterm>แทะ 0E41 0E17 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>โท 0E42 0E17 THAI CHARACTER SARA O; THAI CHARACTER THO THAHAN <indexterm>โท 0E42 0E17 sort under ท 0E17</indexterm>
+         </li>
+         <li>โทะ 0E42 0E17 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO THAHAN; THAI CHARACTER SARA A <indexterm>โทะ 0E42 0E17 0E30 sort under ท 0E17</indexterm>
+         </li>
+         <li>ใท 0E43 0E17 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO THAHAN <indexterm>ใท 0E43 0E17 sort under ท 0E17</indexterm>
+         </li>
+         <li>ไท 0E44 0E17 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO THAHAN <indexterm>ไท 0E44 0E17 sort under ท 0E17</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ธ 0E18<ul>
+         <li>ธ 0E18 THAI CHARACTER THO THONG <indexterm>ธ 0E18 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธะ 0E18 0E30 THAI CHARACTER THO THONG; THAI CHARACTER SARA A <indexterm>ธะ 0E18 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธั 0E18 0E31 THAI CHARACTER THO THONG; THAI CHARACTER MAI HAN-AKAT <indexterm>ธั 0E18 0E31 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธัวะ 0E18 0E31 0E27 0E30 THAI CHARACTER THO THONG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ธัวะ 0E18 0E31 0E27 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธา 0E18 0E32 THAI CHARACTER THO THONG; THAI CHARACTER SARA AA <indexterm>ธา 0E18 0E32 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธำ 0E18 0E33 THAI CHARACTER THO THONG; THAI CHARACTER SARA AM <indexterm>ธำ 0E18 0E33 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธิ 0E18 0E34 THAI CHARACTER THO THONG; THAI CHARACTER SARA I <indexterm>ธิ 0E18 0E34 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธี 0E18 0E35 THAI CHARACTER THO THONG; THAI CHARACTER SARA II <indexterm>ธี 0E18 0E35 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธึ 0E18 0E36 THAI CHARACTER THO THONG; THAI CHARACTER SARA UE <indexterm>ธึ 0E18 0E36 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธื 0E18 0E37 THAI CHARACTER THO THONG; THAI CHARACTER SARA UEE <indexterm>ธื 0E18 0E37 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธุ 0E18 0E38 THAI CHARACTER THO THONG; THAI CHARACTER SARA U <indexterm>ธุ 0E18 0E38 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ธู 0E18 0E39 THAI CHARACTER THO THONG; THAI CHARACTER SARA UU <indexterm>ธู 0E18 0E39 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธ 0E40 0E18 THAI CHARACTER SARA E; THAI CHARACTER THO THONG <indexterm>เธ 0E40 0E18 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธะ 0E40 0E18 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA A <indexterm>เธะ 0E40 0E18 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธา 0E40 0E18 0E32 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA AA <indexterm>เธา 0E40 0E18 0E32 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธาะ 0E40 0E18 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เธาะ 0E40 0E18 0E32 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธิ 0E40 0E18 0E34 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA I <indexterm>เธิ 0E40 0E18 0E34 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธีย 0E40 0E18 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เธีย 0E40 0E18 0E35 0E22 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธียะ 0E40 0E18 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เธียะ 0E40 0E18 0E35 0E22 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธือ 0E40 0E18 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เธือ 0E40 0E18 0E37 0E2D sort under ธ 0E18</indexterm>
+         </li>
+         <li>เธือะ 0E40 0E18 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER THO THONG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เธือะ 0E40 0E18 0E37 0E2D 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>แธ 0E41 0E18 THAI CHARACTER SARA AE; THAI CHARACTER THO THONG <indexterm>แธ 0E41 0E18 sort under ธ 0E18</indexterm>
+         </li>
+         <li>แธะ 0E41 0E18 0E30 THAI CHARACTER SARA AE; THAI CHARACTER THO THONG; THAI CHARACTER SARA A <indexterm>แธะ 0E41 0E18 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>โธ 0E42 0E18 THAI CHARACTER SARA O; THAI CHARACTER THO THONG <indexterm>โธ 0E42 0E18 sort under ธ 0E18</indexterm>
+         </li>
+         <li>โธะ 0E42 0E18 0E30 THAI CHARACTER SARA O; THAI CHARACTER THO THONG; THAI CHARACTER SARA A <indexterm>โธะ 0E42 0E18 0E30 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ใธ 0E43 0E18 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER THO THONG <indexterm>ใธ 0E43 0E18 sort under ธ 0E18</indexterm>
+         </li>
+         <li>ไธ 0E44 0E18 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER THO THONG <indexterm>ไธ 0E44 0E18 sort under ธ 0E18</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for น 0E19<ul>
+         <li>น 0E19 THAI CHARACTER NO NU <indexterm>น 0E19 sort under น 0E19</indexterm>
+         </li>
+         <li>นะ 0E19 0E30 THAI CHARACTER NO NU; THAI CHARACTER SARA A <indexterm>นะ 0E19 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>นั 0E19 0E31 THAI CHARACTER NO NU; THAI CHARACTER MAI HAN-AKAT <indexterm>นั 0E19 0E31 sort under น 0E19</indexterm>
+         </li>
+         <li>นัวะ 0E19 0E31 0E27 0E30 THAI CHARACTER NO NU; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>นัวะ 0E19 0E31 0E27 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>นา 0E19 0E32 THAI CHARACTER NO NU; THAI CHARACTER SARA AA <indexterm>นา 0E19 0E32 sort under น 0E19</indexterm>
+         </li>
+         <li>นำ 0E19 0E33 THAI CHARACTER NO NU; THAI CHARACTER SARA AM <indexterm>นำ 0E19 0E33 sort under น 0E19</indexterm>
+         </li>
+         <li>นิ 0E19 0E34 THAI CHARACTER NO NU; THAI CHARACTER SARA I <indexterm>นิ 0E19 0E34 sort under น 0E19</indexterm>
+         </li>
+         <li>นี 0E19 0E35 THAI CHARACTER NO NU; THAI CHARACTER SARA II <indexterm>นี 0E19 0E35 sort under น 0E19</indexterm>
+         </li>
+         <li>นึ 0E19 0E36 THAI CHARACTER NO NU; THAI CHARACTER SARA UE <indexterm>นึ 0E19 0E36 sort under น 0E19</indexterm>
+         </li>
+         <li>นื 0E19 0E37 THAI CHARACTER NO NU; THAI CHARACTER SARA UEE <indexterm>นื 0E19 0E37 sort under น 0E19</indexterm>
+         </li>
+         <li>นุ 0E19 0E38 THAI CHARACTER NO NU; THAI CHARACTER SARA U <indexterm>นุ 0E19 0E38 sort under น 0E19</indexterm>
+         </li>
+         <li>นู 0E19 0E39 THAI CHARACTER NO NU; THAI CHARACTER SARA UU <indexterm>นู 0E19 0E39 sort under น 0E19</indexterm>
+         </li>
+         <li>เน 0E40 0E19 THAI CHARACTER SARA E; THAI CHARACTER NO NU <indexterm>เน 0E40 0E19 sort under น 0E19</indexterm>
+         </li>
+         <li>เนะ 0E40 0E19 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA A <indexterm>เนะ 0E40 0E19 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>เนา 0E40 0E19 0E32 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA AA <indexterm>เนา 0E40 0E19 0E32 sort under น 0E19</indexterm>
+         </li>
+         <li>เนาะ 0E40 0E19 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เนาะ 0E40 0E19 0E32 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>เนิ 0E40 0E19 0E34 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA I <indexterm>เนิ 0E40 0E19 0E34 sort under น 0E19</indexterm>
+         </li>
+         <li>เนีย 0E40 0E19 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เนีย 0E40 0E19 0E35 0E22 sort under น 0E19</indexterm>
+         </li>
+         <li>เนียะ 0E40 0E19 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เนียะ 0E40 0E19 0E35 0E22 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>เนือ 0E40 0E19 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เนือ 0E40 0E19 0E37 0E2D sort under น 0E19</indexterm>
+         </li>
+         <li>เนือะ 0E40 0E19 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER NO NU; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เนือะ 0E40 0E19 0E37 0E2D 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>แน 0E41 0E19 THAI CHARACTER SARA AE; THAI CHARACTER NO NU <indexterm>แน 0E41 0E19 sort under น 0E19</indexterm>
+         </li>
+         <li>แนะ 0E41 0E19 0E30 THAI CHARACTER SARA AE; THAI CHARACTER NO NU; THAI CHARACTER SARA A <indexterm>แนะ 0E41 0E19 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>โน 0E42 0E19 THAI CHARACTER SARA O; THAI CHARACTER NO NU <indexterm>โน 0E42 0E19 sort under น 0E19</indexterm>
+         </li>
+         <li>โนะ 0E42 0E19 0E30 THAI CHARACTER SARA O; THAI CHARACTER NO NU; THAI CHARACTER SARA A <indexterm>โนะ 0E42 0E19 0E30 sort under น 0E19</indexterm>
+         </li>
+         <li>ใน 0E43 0E19 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER NO NU <indexterm>ใน 0E43 0E19 sort under น 0E19</indexterm>
+         </li>
+         <li>ไน 0E44 0E19 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER NO NU <indexterm>ไน 0E44 0E19 sort under น 0E19</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for บ 0E1A<ul>
+         <li>บ 0E1A THAI CHARACTER BO BAIMAI <indexterm>บ 0E1A sort under บ 0E1A</indexterm>
+         </li>
+         <li>บะ 0E1A 0E30 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA A <indexterm>บะ 0E1A 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บั 0E1A 0E31 THAI CHARACTER BO BAIMAI; THAI CHARACTER MAI HAN-AKAT <indexterm>บั 0E1A 0E31 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บัวะ 0E1A 0E31 0E27 0E30 THAI CHARACTER BO BAIMAI; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>บัวะ 0E1A 0E31 0E27 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บา 0E1A 0E32 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA AA <indexterm>บา 0E1A 0E32 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บำ 0E1A 0E33 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA AM <indexterm>บำ 0E1A 0E33 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บิ 0E1A 0E34 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA I <indexterm>บิ 0E1A 0E34 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บี 0E1A 0E35 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA II <indexterm>บี 0E1A 0E35 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บึ 0E1A 0E36 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA UE <indexterm>บึ 0E1A 0E36 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บื 0E1A 0E37 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA UEE <indexterm>บื 0E1A 0E37 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บุ 0E1A 0E38 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA U <indexterm>บุ 0E1A 0E38 sort under บ 0E1A</indexterm>
+         </li>
+         <li>บู 0E1A 0E39 THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA UU <indexterm>บู 0E1A 0E39 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบ 0E40 0E1A THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI <indexterm>เบ 0E40 0E1A sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบะ 0E40 0E1A 0E30 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA A <indexterm>เบะ 0E40 0E1A 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบา 0E40 0E1A 0E32 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA AA <indexterm>เบา 0E40 0E1A 0E32 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบาะ 0E40 0E1A 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เบาะ 0E40 0E1A 0E32 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบิ 0E40 0E1A 0E34 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA I <indexterm>เบิ 0E40 0E1A 0E34 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบีย 0E40 0E1A 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เบีย 0E40 0E1A 0E35 0E22 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบียะ 0E40 0E1A 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เบียะ 0E40 0E1A 0E35 0E22 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบือ 0E40 0E1A 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เบือ 0E40 0E1A 0E37 0E2D sort under บ 0E1A</indexterm>
+         </li>
+         <li>เบือะ 0E40 0E1A 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เบือะ 0E40 0E1A 0E37 0E2D 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>แบ 0E41 0E1A THAI CHARACTER SARA AE; THAI CHARACTER BO BAIMAI <indexterm>แบ 0E41 0E1A sort under บ 0E1A</indexterm>
+         </li>
+         <li>แบะ 0E41 0E1A 0E30 THAI CHARACTER SARA AE; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA A <indexterm>แบะ 0E41 0E1A 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>โบ 0E42 0E1A THAI CHARACTER SARA O; THAI CHARACTER BO BAIMAI <indexterm>โบ 0E42 0E1A sort under บ 0E1A</indexterm>
+         </li>
+         <li>โบะ 0E42 0E1A 0E30 THAI CHARACTER SARA O; THAI CHARACTER BO BAIMAI; THAI CHARACTER SARA A <indexterm>โบะ 0E42 0E1A 0E30 sort under บ 0E1A</indexterm>
+         </li>
+         <li>ใบ 0E43 0E1A THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER BO BAIMAI <indexterm>ใบ 0E43 0E1A sort under บ 0E1A</indexterm>
+         </li>
+         <li>ไบ 0E44 0E1A THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER BO BAIMAI <indexterm>ไบ 0E44 0E1A sort under บ 0E1A</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ป 0E1B<ul>
+         <li>ป 0E1B THAI CHARACTER PO PLA <indexterm>ป 0E1B sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปะ 0E1B 0E30 THAI CHARACTER PO PLA; THAI CHARACTER SARA A <indexterm>ปะ 0E1B 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปั 0E1B 0E31 THAI CHARACTER PO PLA; THAI CHARACTER MAI HAN-AKAT <indexterm>ปั 0E1B 0E31 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปัวะ 0E1B 0E31 0E27 0E30 THAI CHARACTER PO PLA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ปัวะ 0E1B 0E31 0E27 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปา 0E1B 0E32 THAI CHARACTER PO PLA; THAI CHARACTER SARA AA <indexterm>ปา 0E1B 0E32 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปำ 0E1B 0E33 THAI CHARACTER PO PLA; THAI CHARACTER SARA AM <indexterm>ปำ 0E1B 0E33 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปิ 0E1B 0E34 THAI CHARACTER PO PLA; THAI CHARACTER SARA I <indexterm>ปิ 0E1B 0E34 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปี 0E1B 0E35 THAI CHARACTER PO PLA; THAI CHARACTER SARA II <indexterm>ปี 0E1B 0E35 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปึ 0E1B 0E36 THAI CHARACTER PO PLA; THAI CHARACTER SARA UE <indexterm>ปึ 0E1B 0E36 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปื 0E1B 0E37 THAI CHARACTER PO PLA; THAI CHARACTER SARA UEE <indexterm>ปื 0E1B 0E37 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปุ 0E1B 0E38 THAI CHARACTER PO PLA; THAI CHARACTER SARA U <indexterm>ปุ 0E1B 0E38 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ปู 0E1B 0E39 THAI CHARACTER PO PLA; THAI CHARACTER SARA UU <indexterm>ปู 0E1B 0E39 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เป 0E40 0E1B THAI CHARACTER SARA E; THAI CHARACTER PO PLA <indexterm>เป 0E40 0E1B sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปะ 0E40 0E1B 0E30 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA A <indexterm>เปะ 0E40 0E1B 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปา 0E40 0E1B 0E32 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA AA <indexterm>เปา 0E40 0E1B 0E32 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปาะ 0E40 0E1B 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เปาะ 0E40 0E1B 0E32 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปิ 0E40 0E1B 0E34 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA I <indexterm>เปิ 0E40 0E1B 0E34 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปีย 0E40 0E1B 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เปีย 0E40 0E1B 0E35 0E22 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปียะ 0E40 0E1B 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เปียะ 0E40 0E1B 0E35 0E22 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปือ 0E40 0E1B 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เปือ 0E40 0E1B 0E37 0E2D sort under ป 0E1B</indexterm>
+         </li>
+         <li>เปือะ 0E40 0E1B 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER PO PLA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เปือะ 0E40 0E1B 0E37 0E2D 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>แป 0E41 0E1B THAI CHARACTER SARA AE; THAI CHARACTER PO PLA <indexterm>แป 0E41 0E1B sort under ป 0E1B</indexterm>
+         </li>
+         <li>แปะ 0E41 0E1B 0E30 THAI CHARACTER SARA AE; THAI CHARACTER PO PLA; THAI CHARACTER SARA A <indexterm>แปะ 0E41 0E1B 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>โป 0E42 0E1B THAI CHARACTER SARA O; THAI CHARACTER PO PLA <indexterm>โป 0E42 0E1B sort under ป 0E1B</indexterm>
+         </li>
+         <li>โปะ 0E42 0E1B 0E30 THAI CHARACTER SARA O; THAI CHARACTER PO PLA; THAI CHARACTER SARA A <indexterm>โปะ 0E42 0E1B 0E30 sort under ป 0E1B</indexterm>
+         </li>
+         <li>ใป 0E43 0E1B THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER PO PLA <indexterm>ใป 0E43 0E1B sort under ป 0E1B</indexterm>
+         </li>
+         <li>ไป 0E44 0E1B THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER PO PLA <indexterm>ไป 0E44 0E1B sort under ป 0E1B</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ผ 0E1C<ul>
+         <li>ผ 0E1C THAI CHARACTER PHO PHUNG <indexterm>ผ 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผะ 0E1C 0E30 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA A <indexterm>ผะ 0E1C 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผั 0E1C 0E31 THAI CHARACTER PHO PHUNG; THAI CHARACTER MAI HAN-AKAT <indexterm>ผั 0E1C 0E31 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผัวะ 0E1C 0E31 0E27 0E30 THAI CHARACTER PHO PHUNG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ผัวะ 0E1C 0E31 0E27 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผา 0E1C 0E32 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA AA <indexterm>ผา 0E1C 0E32 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผำ 0E1C 0E33 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA AM <indexterm>ผำ 0E1C 0E33 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผิ 0E1C 0E34 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA I <indexterm>ผิ 0E1C 0E34 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผี 0E1C 0E35 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA II <indexterm>ผี 0E1C 0E35 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผึ 0E1C 0E36 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA UE <indexterm>ผึ 0E1C 0E36 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผื 0E1C 0E37 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA UEE <indexterm>ผื 0E1C 0E37 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผุ 0E1C 0E38 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA U <indexterm>ผุ 0E1C 0E38 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ผู 0E1C 0E39 THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA UU <indexterm>ผู 0E1C 0E39 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผ 0E40 0E1C THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG <indexterm>เผ 0E40 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผะ 0E40 0E1C 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA A <indexterm>เผะ 0E40 0E1C 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผา 0E40 0E1C 0E32 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA AA <indexterm>เผา 0E40 0E1C 0E32 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผาะ 0E40 0E1C 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เผาะ 0E40 0E1C 0E32 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผิ 0E40 0E1C 0E34 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA I <indexterm>เผิ 0E40 0E1C 0E34 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผีย 0E40 0E1C 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เผีย 0E40 0E1C 0E35 0E22 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผียะ 0E40 0E1C 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เผียะ 0E40 0E1C 0E35 0E22 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผือ 0E40 0E1C 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เผือ 0E40 0E1C 0E37 0E2D sort under ผ 0E1C</indexterm>
+         </li>
+         <li>เผือะ 0E40 0E1C 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เผือะ 0E40 0E1C 0E37 0E2D 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>แผ 0E41 0E1C THAI CHARACTER SARA AE; THAI CHARACTER PHO PHUNG <indexterm>แผ 0E41 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+         <li>แผะ 0E41 0E1C 0E30 THAI CHARACTER SARA AE; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA A <indexterm>แผะ 0E41 0E1C 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>โผ 0E42 0E1C THAI CHARACTER SARA O; THAI CHARACTER PHO PHUNG <indexterm>โผ 0E42 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+         <li>โผะ 0E42 0E1C 0E30 THAI CHARACTER SARA O; THAI CHARACTER PHO PHUNG; THAI CHARACTER SARA A <indexterm>โผะ 0E42 0E1C 0E30 sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ใผ 0E43 0E1C THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER PHO PHUNG <indexterm>ใผ 0E43 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+         <li>ไผ 0E44 0E1C THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER PHO PHUNG <indexterm>ไผ 0E44 0E1C sort under ผ 0E1C</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฝ 0E1D<ul>
+         <li>ฝ 0E1D THAI CHARACTER FO FA <indexterm>ฝ 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝะ 0E1D 0E30 THAI CHARACTER FO FA; THAI CHARACTER SARA A <indexterm>ฝะ 0E1D 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝั 0E1D 0E31 THAI CHARACTER FO FA; THAI CHARACTER MAI HAN-AKAT <indexterm>ฝั 0E1D 0E31 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝัวะ 0E1D 0E31 0E27 0E30 THAI CHARACTER FO FA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฝัวะ 0E1D 0E31 0E27 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝา 0E1D 0E32 THAI CHARACTER FO FA; THAI CHARACTER SARA AA <indexterm>ฝา 0E1D 0E32 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝำ 0E1D 0E33 THAI CHARACTER FO FA; THAI CHARACTER SARA AM <indexterm>ฝำ 0E1D 0E33 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝิ 0E1D 0E34 THAI CHARACTER FO FA; THAI CHARACTER SARA I <indexterm>ฝิ 0E1D 0E34 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝี 0E1D 0E35 THAI CHARACTER FO FA; THAI CHARACTER SARA II <indexterm>ฝี 0E1D 0E35 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝึ 0E1D 0E36 THAI CHARACTER FO FA; THAI CHARACTER SARA UE <indexterm>ฝึ 0E1D 0E36 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝื 0E1D 0E37 THAI CHARACTER FO FA; THAI CHARACTER SARA UEE <indexterm>ฝื 0E1D 0E37 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝุ 0E1D 0E38 THAI CHARACTER FO FA; THAI CHARACTER SARA U <indexterm>ฝุ 0E1D 0E38 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ฝู 0E1D 0E39 THAI CHARACTER FO FA; THAI CHARACTER SARA UU <indexterm>ฝู 0E1D 0E39 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝ 0E40 0E1D THAI CHARACTER SARA E; THAI CHARACTER FO FA <indexterm>เฝ 0E40 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝะ 0E40 0E1D 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA A <indexterm>เฝะ 0E40 0E1D 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝา 0E40 0E1D 0E32 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA AA <indexterm>เฝา 0E40 0E1D 0E32 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝาะ 0E40 0E1D 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฝาะ 0E40 0E1D 0E32 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝิ 0E40 0E1D 0E34 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA I <indexterm>เฝิ 0E40 0E1D 0E34 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝีย 0E40 0E1D 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฝีย 0E40 0E1D 0E35 0E22 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝียะ 0E40 0E1D 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฝียะ 0E40 0E1D 0E35 0E22 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝือ 0E40 0E1D 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฝือ 0E40 0E1D 0E37 0E2D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>เฝือะ 0E40 0E1D 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฝือะ 0E40 0E1D 0E37 0E2D 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>แฝ 0E41 0E1D THAI CHARACTER SARA AE; THAI CHARACTER FO FA <indexterm>แฝ 0E41 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>แฝะ 0E41 0E1D 0E30 THAI CHARACTER SARA AE; THAI CHARACTER FO FA; THAI CHARACTER SARA A <indexterm>แฝะ 0E41 0E1D 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>โฝ 0E42 0E1D THAI CHARACTER SARA O; THAI CHARACTER FO FA <indexterm>โฝ 0E42 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>โฝะ 0E42 0E1D 0E30 THAI CHARACTER SARA O; THAI CHARACTER FO FA; THAI CHARACTER SARA A <indexterm>โฝะ 0E42 0E1D 0E30 sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ใฝ 0E43 0E1D THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER FO FA <indexterm>ใฝ 0E43 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+         <li>ไฝ 0E44 0E1D THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER FO FA <indexterm>ไฝ 0E44 0E1D sort under ฝ 0E1D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for พ 0E1E<ul>
+         <li>พ 0E1E THAI CHARACTER PHO PHAN <indexterm>พ 0E1E sort under พ 0E1E</indexterm>
+         </li>
+         <li>พะ 0E1E 0E30 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA A <indexterm>พะ 0E1E 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พั 0E1E 0E31 THAI CHARACTER PHO PHAN; THAI CHARACTER MAI HAN-AKAT <indexterm>พั 0E1E 0E31 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พัวะ 0E1E 0E31 0E27 0E30 THAI CHARACTER PHO PHAN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>พัวะ 0E1E 0E31 0E27 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พา 0E1E 0E32 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA AA <indexterm>พา 0E1E 0E32 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พำ 0E1E 0E33 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA AM <indexterm>พำ 0E1E 0E33 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พิ 0E1E 0E34 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA I <indexterm>พิ 0E1E 0E34 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พี 0E1E 0E35 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA II <indexterm>พี 0E1E 0E35 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พึ 0E1E 0E36 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA UE <indexterm>พึ 0E1E 0E36 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พื 0E1E 0E37 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA UEE <indexterm>พื 0E1E 0E37 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พุ 0E1E 0E38 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA U <indexterm>พุ 0E1E 0E38 sort under พ 0E1E</indexterm>
+         </li>
+         <li>พู 0E1E 0E39 THAI CHARACTER PHO PHAN; THAI CHARACTER SARA UU <indexterm>พู 0E1E 0E39 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพ 0E40 0E1E THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN <indexterm>เพ 0E40 0E1E sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพะ 0E40 0E1E 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA A <indexterm>เพะ 0E40 0E1E 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพา 0E40 0E1E 0E32 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA AA <indexterm>เพา 0E40 0E1E 0E32 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพาะ 0E40 0E1E 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เพาะ 0E40 0E1E 0E32 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพิ 0E40 0E1E 0E34 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA I <indexterm>เพิ 0E40 0E1E 0E34 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพีย 0E40 0E1E 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เพีย 0E40 0E1E 0E35 0E22 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพียะ 0E40 0E1E 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เพียะ 0E40 0E1E 0E35 0E22 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพือ 0E40 0E1E 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เพือ 0E40 0E1E 0E37 0E2D sort under พ 0E1E</indexterm>
+         </li>
+         <li>เพือะ 0E40 0E1E 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เพือะ 0E40 0E1E 0E37 0E2D 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>แพ 0E41 0E1E THAI CHARACTER SARA AE; THAI CHARACTER PHO PHAN <indexterm>แพ 0E41 0E1E sort under พ 0E1E</indexterm>
+         </li>
+         <li>แพะ 0E41 0E1E 0E30 THAI CHARACTER SARA AE; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA A <indexterm>แพะ 0E41 0E1E 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>โพ 0E42 0E1E THAI CHARACTER SARA O; THAI CHARACTER PHO PHAN <indexterm>โพ 0E42 0E1E sort under พ 0E1E</indexterm>
+         </li>
+         <li>โพะ 0E42 0E1E 0E30 THAI CHARACTER SARA O; THAI CHARACTER PHO PHAN; THAI CHARACTER SARA A <indexterm>โพะ 0E42 0E1E 0E30 sort under พ 0E1E</indexterm>
+         </li>
+         <li>ใพ 0E43 0E1E THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER PHO PHAN <indexterm>ใพ 0E43 0E1E sort under พ 0E1E</indexterm>
+         </li>
+         <li>ไพ 0E44 0E1E THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER PHO PHAN <indexterm>ไพ 0E44 0E1E sort under พ 0E1E</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฟ 0E1F<ul>
+         <li>ฟ 0E1F THAI CHARACTER FO FAN <indexterm>ฟ 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟะ 0E1F 0E30 THAI CHARACTER FO FAN; THAI CHARACTER SARA A <indexterm>ฟะ 0E1F 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟั 0E1F 0E31 THAI CHARACTER FO FAN; THAI CHARACTER MAI HAN-AKAT <indexterm>ฟั 0E1F 0E31 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟัวะ 0E1F 0E31 0E27 0E30 THAI CHARACTER FO FAN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฟัวะ 0E1F 0E31 0E27 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟา 0E1F 0E32 THAI CHARACTER FO FAN; THAI CHARACTER SARA AA <indexterm>ฟา 0E1F 0E32 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟำ 0E1F 0E33 THAI CHARACTER FO FAN; THAI CHARACTER SARA AM <indexterm>ฟำ 0E1F 0E33 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟิ 0E1F 0E34 THAI CHARACTER FO FAN; THAI CHARACTER SARA I <indexterm>ฟิ 0E1F 0E34 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟี 0E1F 0E35 THAI CHARACTER FO FAN; THAI CHARACTER SARA II <indexterm>ฟี 0E1F 0E35 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟึ 0E1F 0E36 THAI CHARACTER FO FAN; THAI CHARACTER SARA UE <indexterm>ฟึ 0E1F 0E36 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟื 0E1F 0E37 THAI CHARACTER FO FAN; THAI CHARACTER SARA UEE <indexterm>ฟื 0E1F 0E37 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟุ 0E1F 0E38 THAI CHARACTER FO FAN; THAI CHARACTER SARA U <indexterm>ฟุ 0E1F 0E38 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ฟู 0E1F 0E39 THAI CHARACTER FO FAN; THAI CHARACTER SARA UU <indexterm>ฟู 0E1F 0E39 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟ 0E40 0E1F THAI CHARACTER SARA E; THAI CHARACTER FO FAN <indexterm>เฟ 0E40 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟะ 0E40 0E1F 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA A <indexterm>เฟะ 0E40 0E1F 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟา 0E40 0E1F 0E32 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA AA <indexterm>เฟา 0E40 0E1F 0E32 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟาะ 0E40 0E1F 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฟาะ 0E40 0E1F 0E32 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟิ 0E40 0E1F 0E34 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA I <indexterm>เฟิ 0E40 0E1F 0E34 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟีย 0E40 0E1F 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฟีย 0E40 0E1F 0E35 0E22 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟียะ 0E40 0E1F 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฟียะ 0E40 0E1F 0E35 0E22 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟือ 0E40 0E1F 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฟือ 0E40 0E1F 0E37 0E2D sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>เฟือะ 0E40 0E1F 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER FO FAN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฟือะ 0E40 0E1F 0E37 0E2D 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>แฟ 0E41 0E1F THAI CHARACTER SARA AE; THAI CHARACTER FO FAN <indexterm>แฟ 0E41 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>แฟะ 0E41 0E1F 0E30 THAI CHARACTER SARA AE; THAI CHARACTER FO FAN; THAI CHARACTER SARA A <indexterm>แฟะ 0E41 0E1F 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>โฟ 0E42 0E1F THAI CHARACTER SARA O; THAI CHARACTER FO FAN <indexterm>โฟ 0E42 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>โฟะ 0E42 0E1F 0E30 THAI CHARACTER SARA O; THAI CHARACTER FO FAN; THAI CHARACTER SARA A <indexterm>โฟะ 0E42 0E1F 0E30 sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ใฟ 0E43 0E1F THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER FO FAN <indexterm>ใฟ 0E43 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+         <li>ไฟ 0E44 0E1F THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER FO FAN <indexterm>ไฟ 0E44 0E1F sort under ฟ 0E1F</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ภ 0E20<ul>
+         <li>ภ 0E20 THAI CHARACTER PHO SAMPHAO <indexterm>ภ 0E20 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภะ 0E20 0E30 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA A <indexterm>ภะ 0E20 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภั 0E20 0E31 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER MAI HAN-AKAT <indexterm>ภั 0E20 0E31 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภัวะ 0E20 0E31 0E27 0E30 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ภัวะ 0E20 0E31 0E27 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภา 0E20 0E32 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA AA <indexterm>ภา 0E20 0E32 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภำ 0E20 0E33 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA AM <indexterm>ภำ 0E20 0E33 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภิ 0E20 0E34 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA I <indexterm>ภิ 0E20 0E34 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภี 0E20 0E35 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA II <indexterm>ภี 0E20 0E35 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภึ 0E20 0E36 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA UE <indexterm>ภึ 0E20 0E36 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภื 0E20 0E37 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA UEE <indexterm>ภื 0E20 0E37 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภุ 0E20 0E38 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA U <indexterm>ภุ 0E20 0E38 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ภู 0E20 0E39 THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA UU <indexterm>ภู 0E20 0E39 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภ 0E40 0E20 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO <indexterm>เภ 0E40 0E20 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภะ 0E40 0E20 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA A <indexterm>เภะ 0E40 0E20 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภา 0E40 0E20 0E32 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA AA <indexterm>เภา 0E40 0E20 0E32 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภาะ 0E40 0E20 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เภาะ 0E40 0E20 0E32 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภิ 0E40 0E20 0E34 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA I <indexterm>เภิ 0E40 0E20 0E34 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภีย 0E40 0E20 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เภีย 0E40 0E20 0E35 0E22 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภียะ 0E40 0E20 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เภียะ 0E40 0E20 0E35 0E22 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภือ 0E40 0E20 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เภือ 0E40 0E20 0E37 0E2D sort under ภ 0E20</indexterm>
+         </li>
+         <li>เภือะ 0E40 0E20 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เภือะ 0E40 0E20 0E37 0E2D 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>แภ 0E41 0E20 THAI CHARACTER SARA AE; THAI CHARACTER PHO SAMPHAO <indexterm>แภ 0E41 0E20 sort under ภ 0E20</indexterm>
+         </li>
+         <li>แภะ 0E41 0E20 0E30 THAI CHARACTER SARA AE; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA A <indexterm>แภะ 0E41 0E20 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>โภ 0E42 0E20 THAI CHARACTER SARA O; THAI CHARACTER PHO SAMPHAO <indexterm>โภ 0E42 0E20 sort under ภ 0E20</indexterm>
+         </li>
+         <li>โภะ 0E42 0E20 0E30 THAI CHARACTER SARA O; THAI CHARACTER PHO SAMPHAO; THAI CHARACTER SARA A <indexterm>โภะ 0E42 0E20 0E30 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ใภ 0E43 0E20 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER PHO SAMPHAO <indexterm>ใภ 0E43 0E20 sort under ภ 0E20</indexterm>
+         </li>
+         <li>ไภ 0E44 0E20 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER PHO SAMPHAO <indexterm>ไภ 0E44 0E20 sort under ภ 0E20</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ม 0E21<ul>
+         <li>ม 0E21 THAI CHARACTER MO MA <indexterm>ม 0E21 sort under ม 0E21</indexterm>
+         </li>
+         <li>มะ 0E21 0E30 THAI CHARACTER MO MA; THAI CHARACTER SARA A <indexterm>มะ 0E21 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>มั 0E21 0E31 THAI CHARACTER MO MA; THAI CHARACTER MAI HAN-AKAT <indexterm>มั 0E21 0E31 sort under ม 0E21</indexterm>
+         </li>
+         <li>มัวะ 0E21 0E31 0E27 0E30 THAI CHARACTER MO MA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>มัวะ 0E21 0E31 0E27 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>มา 0E21 0E32 THAI CHARACTER MO MA; THAI CHARACTER SARA AA <indexterm>มา 0E21 0E32 sort under ม 0E21</indexterm>
+         </li>
+         <li>มำ 0E21 0E33 THAI CHARACTER MO MA; THAI CHARACTER SARA AM <indexterm>มำ 0E21 0E33 sort under ม 0E21</indexterm>
+         </li>
+         <li>มิ 0E21 0E34 THAI CHARACTER MO MA; THAI CHARACTER SARA I <indexterm>มิ 0E21 0E34 sort under ม 0E21</indexterm>
+         </li>
+         <li>มี 0E21 0E35 THAI CHARACTER MO MA; THAI CHARACTER SARA II <indexterm>มี 0E21 0E35 sort under ม 0E21</indexterm>
+         </li>
+         <li>มึ 0E21 0E36 THAI CHARACTER MO MA; THAI CHARACTER SARA UE <indexterm>มึ 0E21 0E36 sort under ม 0E21</indexterm>
+         </li>
+         <li>มื 0E21 0E37 THAI CHARACTER MO MA; THAI CHARACTER SARA UEE <indexterm>มื 0E21 0E37 sort under ม 0E21</indexterm>
+         </li>
+         <li>มุ 0E21 0E38 THAI CHARACTER MO MA; THAI CHARACTER SARA U <indexterm>มุ 0E21 0E38 sort under ม 0E21</indexterm>
+         </li>
+         <li>มู 0E21 0E39 THAI CHARACTER MO MA; THAI CHARACTER SARA UU <indexterm>มู 0E21 0E39 sort under ม 0E21</indexterm>
+         </li>
+         <li>เม 0E40 0E21 THAI CHARACTER SARA E; THAI CHARACTER MO MA <indexterm>เม 0E40 0E21 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมะ 0E40 0E21 0E30 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA A <indexterm>เมะ 0E40 0E21 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมา 0E40 0E21 0E32 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA AA <indexterm>เมา 0E40 0E21 0E32 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมาะ 0E40 0E21 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เมาะ 0E40 0E21 0E32 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมิ 0E40 0E21 0E34 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA I <indexterm>เมิ 0E40 0E21 0E34 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมีย 0E40 0E21 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เมีย 0E40 0E21 0E35 0E22 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมียะ 0E40 0E21 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เมียะ 0E40 0E21 0E35 0E22 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>เมือ 0E40 0E21 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เมือ 0E40 0E21 0E37 0E2D sort under ม 0E21</indexterm>
+         </li>
+         <li>เมือะ 0E40 0E21 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER MO MA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เมือะ 0E40 0E21 0E37 0E2D 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>แม 0E41 0E21 THAI CHARACTER SARA AE; THAI CHARACTER MO MA <indexterm>แม 0E41 0E21 sort under ม 0E21</indexterm>
+         </li>
+         <li>แมะ 0E41 0E21 0E30 THAI CHARACTER SARA AE; THAI CHARACTER MO MA; THAI CHARACTER SARA A <indexterm>แมะ 0E41 0E21 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>โม 0E42 0E21 THAI CHARACTER SARA O; THAI CHARACTER MO MA <indexterm>โม 0E42 0E21 sort under ม 0E21</indexterm>
+         </li>
+         <li>โมะ 0E42 0E21 0E30 THAI CHARACTER SARA O; THAI CHARACTER MO MA; THAI CHARACTER SARA A <indexterm>โมะ 0E42 0E21 0E30 sort under ม 0E21</indexterm>
+         </li>
+         <li>ใม 0E43 0E21 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER MO MA <indexterm>ใม 0E43 0E21 sort under ม 0E21</indexterm>
+         </li>
+         <li>ไม 0E44 0E21 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER MO MA <indexterm>ไม 0E44 0E21 sort under ม 0E21</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ย 0E22<ul>
+         <li>ย 0E22 THAI CHARACTER YO YAK <indexterm>ย 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยะ 0E22 0E30 THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>ยะ 0E22 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยั 0E22 0E31 THAI CHARACTER YO YAK; THAI CHARACTER MAI HAN-AKAT <indexterm>ยั 0E22 0E31 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยัวะ 0E22 0E31 0E27 0E30 THAI CHARACTER YO YAK; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ยัวะ 0E22 0E31 0E27 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยา 0E22 0E32 THAI CHARACTER YO YAK; THAI CHARACTER SARA AA <indexterm>ยา 0E22 0E32 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยำ 0E22 0E33 THAI CHARACTER YO YAK; THAI CHARACTER SARA AM <indexterm>ยำ 0E22 0E33 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยิ 0E22 0E34 THAI CHARACTER YO YAK; THAI CHARACTER SARA I <indexterm>ยิ 0E22 0E34 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยี 0E22 0E35 THAI CHARACTER YO YAK; THAI CHARACTER SARA II <indexterm>ยี 0E22 0E35 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยึ 0E22 0E36 THAI CHARACTER YO YAK; THAI CHARACTER SARA UE <indexterm>ยึ 0E22 0E36 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยื 0E22 0E37 THAI CHARACTER YO YAK; THAI CHARACTER SARA UEE <indexterm>ยื 0E22 0E37 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยุ 0E22 0E38 THAI CHARACTER YO YAK; THAI CHARACTER SARA U <indexterm>ยุ 0E22 0E38 sort under ย 0E22</indexterm>
+         </li>
+         <li>ยู 0E22 0E39 THAI CHARACTER YO YAK; THAI CHARACTER SARA UU <indexterm>ยู 0E22 0E39 sort under ย 0E22</indexterm>
+         </li>
+         <li>เย 0E40 0E22 THAI CHARACTER SARA E; THAI CHARACTER YO YAK <indexterm>เย 0E40 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยะ 0E40 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เยะ 0E40 0E22 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยา 0E40 0E22 0E32 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA AA <indexterm>เยา 0E40 0E22 0E32 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยาะ 0E40 0E22 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เยาะ 0E40 0E22 0E32 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยิ 0E40 0E22 0E34 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA I <indexterm>เยิ 0E40 0E22 0E34 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยีย 0E40 0E22 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เยีย 0E40 0E22 0E35 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยียะ 0E40 0E22 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เยียะ 0E40 0E22 0E35 0E22 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>เยือ 0E40 0E22 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เยือ 0E40 0E22 0E37 0E2D sort under ย 0E22</indexterm>
+         </li>
+         <li>เยือะ 0E40 0E22 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER YO YAK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เยือะ 0E40 0E22 0E37 0E2D 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>แย 0E41 0E22 THAI CHARACTER SARA AE; THAI CHARACTER YO YAK <indexterm>แย 0E41 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>แยะ 0E41 0E22 0E30 THAI CHARACTER SARA AE; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>แยะ 0E41 0E22 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>โย 0E42 0E22 THAI CHARACTER SARA O; THAI CHARACTER YO YAK <indexterm>โย 0E42 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>โยะ 0E42 0E22 0E30 THAI CHARACTER SARA O; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>โยะ 0E42 0E22 0E30 sort under ย 0E22</indexterm>
+         </li>
+         <li>ใย 0E43 0E22 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER YO YAK <indexterm>ใย 0E43 0E22 sort under ย 0E22</indexterm>
+         </li>
+         <li>ไย 0E44 0E22 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER YO YAK <indexterm>ไย 0E44 0E22 sort under ย 0E22</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ร 0E23<ul>
+         <li>ร 0E23 THAI CHARACTER RO RUA <indexterm>ร 0E23 sort under ร 0E23</indexterm>
+         </li>
+         <li>ระ 0E23 0E30 THAI CHARACTER RO RUA; THAI CHARACTER SARA A <indexterm>ระ 0E23 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>รั 0E23 0E31 THAI CHARACTER RO RUA; THAI CHARACTER MAI HAN-AKAT <indexterm>รั 0E23 0E31 sort under ร 0E23</indexterm>
+         </li>
+         <li>รัวะ 0E23 0E31 0E27 0E30 THAI CHARACTER RO RUA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>รัวะ 0E23 0E31 0E27 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>รา 0E23 0E32 THAI CHARACTER RO RUA; THAI CHARACTER SARA AA <indexterm>รา 0E23 0E32 sort under ร 0E23</indexterm>
+         </li>
+         <li>รำ 0E23 0E33 THAI CHARACTER RO RUA; THAI CHARACTER SARA AM <indexterm>รำ 0E23 0E33 sort under ร 0E23</indexterm>
+         </li>
+         <li>ริ 0E23 0E34 THAI CHARACTER RO RUA; THAI CHARACTER SARA I <indexterm>ริ 0E23 0E34 sort under ร 0E23</indexterm>
+         </li>
+         <li>รี 0E23 0E35 THAI CHARACTER RO RUA; THAI CHARACTER SARA II <indexterm>รี 0E23 0E35 sort under ร 0E23</indexterm>
+         </li>
+         <li>รึ 0E23 0E36 THAI CHARACTER RO RUA; THAI CHARACTER SARA UE <indexterm>รึ 0E23 0E36 sort under ร 0E23</indexterm>
+         </li>
+         <li>รื 0E23 0E37 THAI CHARACTER RO RUA; THAI CHARACTER SARA UEE <indexterm>รื 0E23 0E37 sort under ร 0E23</indexterm>
+         </li>
+         <li>รุ 0E23 0E38 THAI CHARACTER RO RUA; THAI CHARACTER SARA U <indexterm>รุ 0E23 0E38 sort under ร 0E23</indexterm>
+         </li>
+         <li>รู 0E23 0E39 THAI CHARACTER RO RUA; THAI CHARACTER SARA UU <indexterm>รู 0E23 0E39 sort under ร 0E23</indexterm>
+         </li>
+         <li>เร 0E40 0E23 THAI CHARACTER SARA E; THAI CHARACTER RO RUA <indexterm>เร 0E40 0E23 sort under ร 0E23</indexterm>
+         </li>
+         <li>เระ 0E40 0E23 0E30 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA A <indexterm>เระ 0E40 0E23 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>เรา 0E40 0E23 0E32 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA AA <indexterm>เรา 0E40 0E23 0E32 sort under ร 0E23</indexterm>
+         </li>
+         <li>เราะ 0E40 0E23 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เราะ 0E40 0E23 0E32 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>เริ 0E40 0E23 0E34 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA I <indexterm>เริ 0E40 0E23 0E34 sort under ร 0E23</indexterm>
+         </li>
+         <li>เรีย 0E40 0E23 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เรีย 0E40 0E23 0E35 0E22 sort under ร 0E23</indexterm>
+         </li>
+         <li>เรียะ 0E40 0E23 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เรียะ 0E40 0E23 0E35 0E22 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>เรือ 0E40 0E23 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เรือ 0E40 0E23 0E37 0E2D sort under ร 0E23</indexterm>
+         </li>
+         <li>เรือะ 0E40 0E23 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER RO RUA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เรือะ 0E40 0E23 0E37 0E2D 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>แร 0E41 0E23 THAI CHARACTER SARA AE; THAI CHARACTER RO RUA <indexterm>แร 0E41 0E23 sort under ร 0E23</indexterm>
+         </li>
+         <li>แระ 0E41 0E23 0E30 THAI CHARACTER SARA AE; THAI CHARACTER RO RUA; THAI CHARACTER SARA A <indexterm>แระ 0E41 0E23 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>โร 0E42 0E23 THAI CHARACTER SARA O; THAI CHARACTER RO RUA <indexterm>โร 0E42 0E23 sort under ร 0E23</indexterm>
+         </li>
+         <li>โระ 0E42 0E23 0E30 THAI CHARACTER SARA O; THAI CHARACTER RO RUA; THAI CHARACTER SARA A <indexterm>โระ 0E42 0E23 0E30 sort under ร 0E23</indexterm>
+         </li>
+         <li>ใร 0E43 0E23 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER RO RUA <indexterm>ใร 0E43 0E23 sort under ร 0E23</indexterm>
+         </li>
+         <li>ไร 0E44 0E23 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER RO RUA <indexterm>ไร 0E44 0E23 sort under ร 0E23</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฤ 0E24<ul>
+         <li>ฤ 0E24 THAI CHARACTER RU <indexterm>ฤ 0E24 sort under ฤ 0E24</indexterm>
+         </li>
+         <li>ฤๅ 0E24 0E45 THAI CHARACTER RU; THAI CHARACTER LAKKHANGYAO <indexterm>ฤๅ 0E24 0E45 sort under ฤ 0E24</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ล 0E25<ul>
+         <li>ล 0E25 THAI CHARACTER LO LING <indexterm>ล 0E25 sort under ล 0E25</indexterm>
+         </li>
+         <li>ละ 0E25 0E30 THAI CHARACTER LO LING; THAI CHARACTER SARA A <indexterm>ละ 0E25 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลั 0E25 0E31 THAI CHARACTER LO LING; THAI CHARACTER MAI HAN-AKAT <indexterm>ลั 0E25 0E31 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลัวะ 0E25 0E31 0E27 0E30 THAI CHARACTER LO LING; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ลัวะ 0E25 0E31 0E27 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลา 0E25 0E32 THAI CHARACTER LO LING; THAI CHARACTER SARA AA <indexterm>ลา 0E25 0E32 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลำ 0E25 0E33 THAI CHARACTER LO LING; THAI CHARACTER SARA AM <indexterm>ลำ 0E25 0E33 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลิ 0E25 0E34 THAI CHARACTER LO LING; THAI CHARACTER SARA I <indexterm>ลิ 0E25 0E34 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลี 0E25 0E35 THAI CHARACTER LO LING; THAI CHARACTER SARA II <indexterm>ลี 0E25 0E35 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลึ 0E25 0E36 THAI CHARACTER LO LING; THAI CHARACTER SARA UE <indexterm>ลึ 0E25 0E36 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลื 0E25 0E37 THAI CHARACTER LO LING; THAI CHARACTER SARA UEE <indexterm>ลื 0E25 0E37 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลุ 0E25 0E38 THAI CHARACTER LO LING; THAI CHARACTER SARA U <indexterm>ลุ 0E25 0E38 sort under ล 0E25</indexterm>
+         </li>
+         <li>ลู 0E25 0E39 THAI CHARACTER LO LING; THAI CHARACTER SARA UU <indexterm>ลู 0E25 0E39 sort under ล 0E25</indexterm>
+         </li>
+         <li>เล 0E40 0E25 THAI CHARACTER SARA E; THAI CHARACTER LO LING <indexterm>เล 0E40 0E25 sort under ล 0E25</indexterm>
+         </li>
+         <li>เละ 0E40 0E25 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA A <indexterm>เละ 0E40 0E25 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลา 0E40 0E25 0E32 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA AA <indexterm>เลา 0E40 0E25 0E32 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลาะ 0E40 0E25 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เลาะ 0E40 0E25 0E32 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลิ 0E40 0E25 0E34 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA I <indexterm>เลิ 0E40 0E25 0E34 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลีย 0E40 0E25 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เลีย 0E40 0E25 0E35 0E22 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลียะ 0E40 0E25 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เลียะ 0E40 0E25 0E35 0E22 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>เลือ 0E40 0E25 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เลือ 0E40 0E25 0E37 0E2D sort under ล 0E25</indexterm>
+         </li>
+         <li>เลือะ 0E40 0E25 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO LING; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เลือะ 0E40 0E25 0E37 0E2D 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>แล 0E41 0E25 THAI CHARACTER SARA AE; THAI CHARACTER LO LING <indexterm>แล 0E41 0E25 sort under ล 0E25</indexterm>
+         </li>
+         <li>และ 0E41 0E25 0E30 THAI CHARACTER SARA AE; THAI CHARACTER LO LING; THAI CHARACTER SARA A <indexterm>และ 0E41 0E25 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>โล 0E42 0E25 THAI CHARACTER SARA O; THAI CHARACTER LO LING <indexterm>โล 0E42 0E25 sort under ล 0E25</indexterm>
+         </li>
+         <li>โละ 0E42 0E25 0E30 THAI CHARACTER SARA O; THAI CHARACTER LO LING; THAI CHARACTER SARA A <indexterm>โละ 0E42 0E25 0E30 sort under ล 0E25</indexterm>
+         </li>
+         <li>ใล 0E43 0E25 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER LO LING <indexterm>ใล 0E43 0E25 sort under ล 0E25</indexterm>
+         </li>
+         <li>ไล 0E44 0E25 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER LO LING <indexterm>ไล 0E44 0E25 sort under ล 0E25</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฦ 0E26<ul>
+         <li>ฦ 0E26 THAI CHARACTER LU <indexterm>ฦ 0E26 sort under ฦ 0E26</indexterm>
+         </li>
+         <li>ฦๅ 0E26 0E45 THAI CHARACTER LU; THAI CHARACTER LAKKHANGYAO <indexterm>ฦๅ 0E26 0E45 sort under ฦ 0E26</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ว 0E27<ul>
+         <li>ว 0E27 THAI CHARACTER WO WAEN <indexterm>ว 0E27 sort under ว 0E27</indexterm>
+         </li>
+         <li>วะ 0E27 0E30 THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>วะ 0E27 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>วั 0E27 0E31 THAI CHARACTER WO WAEN; THAI CHARACTER MAI HAN-AKAT <indexterm>วั 0E27 0E31 sort under ว 0E27</indexterm>
+         </li>
+         <li>วัวะ 0E27 0E31 0E27 0E30 THAI CHARACTER WO WAEN; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>วัวะ 0E27 0E31 0E27 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>วา 0E27 0E32 THAI CHARACTER WO WAEN; THAI CHARACTER SARA AA <indexterm>วา 0E27 0E32 sort under ว 0E27</indexterm>
+         </li>
+         <li>วำ 0E27 0E33 THAI CHARACTER WO WAEN; THAI CHARACTER SARA AM <indexterm>วำ 0E27 0E33 sort under ว 0E27</indexterm>
+         </li>
+         <li>วิ 0E27 0E34 THAI CHARACTER WO WAEN; THAI CHARACTER SARA I <indexterm>วิ 0E27 0E34 sort under ว 0E27</indexterm>
+         </li>
+         <li>วี 0E27 0E35 THAI CHARACTER WO WAEN; THAI CHARACTER SARA II <indexterm>วี 0E27 0E35 sort under ว 0E27</indexterm>
+         </li>
+         <li>วึ 0E27 0E36 THAI CHARACTER WO WAEN; THAI CHARACTER SARA UE <indexterm>วึ 0E27 0E36 sort under ว 0E27</indexterm>
+         </li>
+         <li>วื 0E27 0E37 THAI CHARACTER WO WAEN; THAI CHARACTER SARA UEE <indexterm>วื 0E27 0E37 sort under ว 0E27</indexterm>
+         </li>
+         <li>วุ 0E27 0E38 THAI CHARACTER WO WAEN; THAI CHARACTER SARA U <indexterm>วุ 0E27 0E38 sort under ว 0E27</indexterm>
+         </li>
+         <li>วู 0E27 0E39 THAI CHARACTER WO WAEN; THAI CHARACTER SARA UU <indexterm>วู 0E27 0E39 sort under ว 0E27</indexterm>
+         </li>
+         <li>เว 0E40 0E27 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN <indexterm>เว 0E40 0E27 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวะ 0E40 0E27 0E30 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>เวะ 0E40 0E27 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวา 0E40 0E27 0E32 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA AA <indexterm>เวา 0E40 0E27 0E32 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวาะ 0E40 0E27 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เวาะ 0E40 0E27 0E32 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวิ 0E40 0E27 0E34 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA I <indexterm>เวิ 0E40 0E27 0E34 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวีย 0E40 0E27 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เวีย 0E40 0E27 0E35 0E22 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวียะ 0E40 0E27 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เวียะ 0E40 0E27 0E35 0E22 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>เวือ 0E40 0E27 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เวือ 0E40 0E27 0E37 0E2D sort under ว 0E27</indexterm>
+         </li>
+         <li>เวือะ 0E40 0E27 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER WO WAEN; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เวือะ 0E40 0E27 0E37 0E2D 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>แว 0E41 0E27 THAI CHARACTER SARA AE; THAI CHARACTER WO WAEN <indexterm>แว 0E41 0E27 sort under ว 0E27</indexterm>
+         </li>
+         <li>แวะ 0E41 0E27 0E30 THAI CHARACTER SARA AE; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>แวะ 0E41 0E27 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>โว 0E42 0E27 THAI CHARACTER SARA O; THAI CHARACTER WO WAEN <indexterm>โว 0E42 0E27 sort under ว 0E27</indexterm>
+         </li>
+         <li>โวะ 0E42 0E27 0E30 THAI CHARACTER SARA O; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>โวะ 0E42 0E27 0E30 sort under ว 0E27</indexterm>
+         </li>
+         <li>ใว 0E43 0E27 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER WO WAEN <indexterm>ใว 0E43 0E27 sort under ว 0E27</indexterm>
+         </li>
+         <li>ไว 0E44 0E27 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER WO WAEN <indexterm>ไว 0E44 0E27 sort under ว 0E27</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ศ 0E28<ul>
+         <li>ศ 0E28 THAI CHARACTER SO SALA <indexterm>ศ 0E28 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศะ 0E28 0E30 THAI CHARACTER SO SALA; THAI CHARACTER SARA A <indexterm>ศะ 0E28 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศั 0E28 0E31 THAI CHARACTER SO SALA; THAI CHARACTER MAI HAN-AKAT <indexterm>ศั 0E28 0E31 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศัวะ 0E28 0E31 0E27 0E30 THAI CHARACTER SO SALA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ศัวะ 0E28 0E31 0E27 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศา 0E28 0E32 THAI CHARACTER SO SALA; THAI CHARACTER SARA AA <indexterm>ศา 0E28 0E32 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศำ 0E28 0E33 THAI CHARACTER SO SALA; THAI CHARACTER SARA AM <indexterm>ศำ 0E28 0E33 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศิ 0E28 0E34 THAI CHARACTER SO SALA; THAI CHARACTER SARA I <indexterm>ศิ 0E28 0E34 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศี 0E28 0E35 THAI CHARACTER SO SALA; THAI CHARACTER SARA II <indexterm>ศี 0E28 0E35 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศึ 0E28 0E36 THAI CHARACTER SO SALA; THAI CHARACTER SARA UE <indexterm>ศึ 0E28 0E36 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศื 0E28 0E37 THAI CHARACTER SO SALA; THAI CHARACTER SARA UEE <indexterm>ศื 0E28 0E37 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศุ 0E28 0E38 THAI CHARACTER SO SALA; THAI CHARACTER SARA U <indexterm>ศุ 0E28 0E38 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ศู 0E28 0E39 THAI CHARACTER SO SALA; THAI CHARACTER SARA UU <indexterm>ศู 0E28 0E39 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศ 0E40 0E28 THAI CHARACTER SARA E; THAI CHARACTER SO SALA <indexterm>เศ 0E40 0E28 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศะ 0E40 0E28 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA A <indexterm>เศะ 0E40 0E28 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศา 0E40 0E28 0E32 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA AA <indexterm>เศา 0E40 0E28 0E32 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศาะ 0E40 0E28 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เศาะ 0E40 0E28 0E32 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศิ 0E40 0E28 0E34 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA I <indexterm>เศิ 0E40 0E28 0E34 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศีย 0E40 0E28 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เศีย 0E40 0E28 0E35 0E22 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศียะ 0E40 0E28 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เศียะ 0E40 0E28 0E35 0E22 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศือ 0E40 0E28 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เศือ 0E40 0E28 0E37 0E2D sort under ศ 0E28</indexterm>
+         </li>
+         <li>เศือะ 0E40 0E28 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SALA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เศือะ 0E40 0E28 0E37 0E2D 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>แศ 0E41 0E28 THAI CHARACTER SARA AE; THAI CHARACTER SO SALA <indexterm>แศ 0E41 0E28 sort under ศ 0E28</indexterm>
+         </li>
+         <li>แศะ 0E41 0E28 0E30 THAI CHARACTER SARA AE; THAI CHARACTER SO SALA; THAI CHARACTER SARA A <indexterm>แศะ 0E41 0E28 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>โศ 0E42 0E28 THAI CHARACTER SARA O; THAI CHARACTER SO SALA <indexterm>โศ 0E42 0E28 sort under ศ 0E28</indexterm>
+         </li>
+         <li>โศะ 0E42 0E28 0E30 THAI CHARACTER SARA O; THAI CHARACTER SO SALA; THAI CHARACTER SARA A <indexterm>โศะ 0E42 0E28 0E30 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ใศ 0E43 0E28 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER SO SALA <indexterm>ใศ 0E43 0E28 sort under ศ 0E28</indexterm>
+         </li>
+         <li>ไศ 0E44 0E28 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER SO SALA <indexterm>ไศ 0E44 0E28 sort under ศ 0E28</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ษ 0E29<ul>
+         <li>ษ 0E29 THAI CHARACTER SO RUSI <indexterm>ษ 0E29 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษะ 0E29 0E30 THAI CHARACTER SO RUSI; THAI CHARACTER SARA A <indexterm>ษะ 0E29 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษั 0E29 0E31 THAI CHARACTER SO RUSI; THAI CHARACTER MAI HAN-AKAT <indexterm>ษั 0E29 0E31 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษัวะ 0E29 0E31 0E27 0E30 THAI CHARACTER SO RUSI; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ษัวะ 0E29 0E31 0E27 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษา 0E29 0E32 THAI CHARACTER SO RUSI; THAI CHARACTER SARA AA <indexterm>ษา 0E29 0E32 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษำ 0E29 0E33 THAI CHARACTER SO RUSI; THAI CHARACTER SARA AM <indexterm>ษำ 0E29 0E33 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษิ 0E29 0E34 THAI CHARACTER SO RUSI; THAI CHARACTER SARA I <indexterm>ษิ 0E29 0E34 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษี 0E29 0E35 THAI CHARACTER SO RUSI; THAI CHARACTER SARA II <indexterm>ษี 0E29 0E35 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษึ 0E29 0E36 THAI CHARACTER SO RUSI; THAI CHARACTER SARA UE <indexterm>ษึ 0E29 0E36 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษื 0E29 0E37 THAI CHARACTER SO RUSI; THAI CHARACTER SARA UEE <indexterm>ษื 0E29 0E37 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษุ 0E29 0E38 THAI CHARACTER SO RUSI; THAI CHARACTER SARA U <indexterm>ษุ 0E29 0E38 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ษู 0E29 0E39 THAI CHARACTER SO RUSI; THAI CHARACTER SARA UU <indexterm>ษู 0E29 0E39 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษ 0E40 0E29 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI <indexterm>เษ 0E40 0E29 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษะ 0E40 0E29 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA A <indexterm>เษะ 0E40 0E29 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษา 0E40 0E29 0E32 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA AA <indexterm>เษา 0E40 0E29 0E32 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษาะ 0E40 0E29 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เษาะ 0E40 0E29 0E32 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษิ 0E40 0E29 0E34 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA I <indexterm>เษิ 0E40 0E29 0E34 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษีย 0E40 0E29 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เษีย 0E40 0E29 0E35 0E22 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษียะ 0E40 0E29 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เษียะ 0E40 0E29 0E35 0E22 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษือ 0E40 0E29 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เษือ 0E40 0E29 0E37 0E2D sort under ษ 0E29</indexterm>
+         </li>
+         <li>เษือะ 0E40 0E29 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO RUSI; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เษือะ 0E40 0E29 0E37 0E2D 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>แษ 0E41 0E29 THAI CHARACTER SARA AE; THAI CHARACTER SO RUSI <indexterm>แษ 0E41 0E29 sort under ษ 0E29</indexterm>
+         </li>
+         <li>แษะ 0E41 0E29 0E30 THAI CHARACTER SARA AE; THAI CHARACTER SO RUSI; THAI CHARACTER SARA A <indexterm>แษะ 0E41 0E29 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>โษ 0E42 0E29 THAI CHARACTER SARA O; THAI CHARACTER SO RUSI <indexterm>โษ 0E42 0E29 sort under ษ 0E29</indexterm>
+         </li>
+         <li>โษะ 0E42 0E29 0E30 THAI CHARACTER SARA O; THAI CHARACTER SO RUSI; THAI CHARACTER SARA A <indexterm>โษะ 0E42 0E29 0E30 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ใษ 0E43 0E29 THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER SO RUSI <indexterm>ใษ 0E43 0E29 sort under ษ 0E29</indexterm>
+         </li>
+         <li>ไษ 0E44 0E29 THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER SO RUSI <indexterm>ไษ 0E44 0E29 sort under ษ 0E29</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ส 0E2A<ul>
+         <li>ส 0E2A THAI CHARACTER SO SUA <indexterm>ส 0E2A sort under ส 0E2A</indexterm>
+         </li>
+         <li>สะ 0E2A 0E30 THAI CHARACTER SO SUA; THAI CHARACTER SARA A <indexterm>สะ 0E2A 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สั 0E2A 0E31 THAI CHARACTER SO SUA; THAI CHARACTER MAI HAN-AKAT <indexterm>สั 0E2A 0E31 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สัวะ 0E2A 0E31 0E27 0E30 THAI CHARACTER SO SUA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>สัวะ 0E2A 0E31 0E27 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สา 0E2A 0E32 THAI CHARACTER SO SUA; THAI CHARACTER SARA AA <indexterm>สา 0E2A 0E32 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สำ 0E2A 0E33 THAI CHARACTER SO SUA; THAI CHARACTER SARA AM <indexterm>สำ 0E2A 0E33 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สิ 0E2A 0E34 THAI CHARACTER SO SUA; THAI CHARACTER SARA I <indexterm>สิ 0E2A 0E34 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สี 0E2A 0E35 THAI CHARACTER SO SUA; THAI CHARACTER SARA II <indexterm>สี 0E2A 0E35 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สึ 0E2A 0E36 THAI CHARACTER SO SUA; THAI CHARACTER SARA UE <indexterm>สึ 0E2A 0E36 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สื 0E2A 0E37 THAI CHARACTER SO SUA; THAI CHARACTER SARA UEE <indexterm>สื 0E2A 0E37 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สุ 0E2A 0E38 THAI CHARACTER SO SUA; THAI CHARACTER SARA U <indexterm>สุ 0E2A 0E38 sort under ส 0E2A</indexterm>
+         </li>
+         <li>สู 0E2A 0E39 THAI CHARACTER SO SUA; THAI CHARACTER SARA UU <indexterm>สู 0E2A 0E39 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เส 0E40 0E2A THAI CHARACTER SARA E; THAI CHARACTER SO SUA <indexterm>เส 0E40 0E2A sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสะ 0E40 0E2A 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA A <indexterm>เสะ 0E40 0E2A 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสา 0E40 0E2A 0E32 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA AA <indexterm>เสา 0E40 0E2A 0E32 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสาะ 0E40 0E2A 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เสาะ 0E40 0E2A 0E32 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสิ 0E40 0E2A 0E34 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA I <indexterm>เสิ 0E40 0E2A 0E34 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสีย 0E40 0E2A 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เสีย 0E40 0E2A 0E35 0E22 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสียะ 0E40 0E2A 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เสียะ 0E40 0E2A 0E35 0E22 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสือ 0E40 0E2A 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เสือ 0E40 0E2A 0E37 0E2D sort under ส 0E2A</indexterm>
+         </li>
+         <li>เสือะ 0E40 0E2A 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER SO SUA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เสือะ 0E40 0E2A 0E37 0E2D 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>แส 0E41 0E2A THAI CHARACTER SARA AE; THAI CHARACTER SO SUA <indexterm>แส 0E41 0E2A sort under ส 0E2A</indexterm>
+         </li>
+         <li>แสะ 0E41 0E2A 0E30 THAI CHARACTER SARA AE; THAI CHARACTER SO SUA; THAI CHARACTER SARA A <indexterm>แสะ 0E41 0E2A 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>โส 0E42 0E2A THAI CHARACTER SARA O; THAI CHARACTER SO SUA <indexterm>โส 0E42 0E2A sort under ส 0E2A</indexterm>
+         </li>
+         <li>โสะ 0E42 0E2A 0E30 THAI CHARACTER SARA O; THAI CHARACTER SO SUA; THAI CHARACTER SARA A <indexterm>โสะ 0E42 0E2A 0E30 sort under ส 0E2A</indexterm>
+         </li>
+         <li>ใส 0E43 0E2A THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER SO SUA <indexterm>ใส 0E43 0E2A sort under ส 0E2A</indexterm>
+         </li>
+         <li>ไส 0E44 0E2A THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER SO SUA <indexterm>ไส 0E44 0E2A sort under ส 0E2A</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ห 0E2B<ul>
+         <li>ห 0E2B THAI CHARACTER HO HIP <indexterm>ห 0E2B sort under ห 0E2B</indexterm>
+         </li>
+         <li>หะ 0E2B 0E30 THAI CHARACTER HO HIP; THAI CHARACTER SARA A <indexterm>หะ 0E2B 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หั 0E2B 0E31 THAI CHARACTER HO HIP; THAI CHARACTER MAI HAN-AKAT <indexterm>หั 0E2B 0E31 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หัวะ 0E2B 0E31 0E27 0E30 THAI CHARACTER HO HIP; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>หัวะ 0E2B 0E31 0E27 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หา 0E2B 0E32 THAI CHARACTER HO HIP; THAI CHARACTER SARA AA <indexterm>หา 0E2B 0E32 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หำ 0E2B 0E33 THAI CHARACTER HO HIP; THAI CHARACTER SARA AM <indexterm>หำ 0E2B 0E33 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หิ 0E2B 0E34 THAI CHARACTER HO HIP; THAI CHARACTER SARA I <indexterm>หิ 0E2B 0E34 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หี 0E2B 0E35 THAI CHARACTER HO HIP; THAI CHARACTER SARA II <indexterm>หี 0E2B 0E35 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หึ 0E2B 0E36 THAI CHARACTER HO HIP; THAI CHARACTER SARA UE <indexterm>หึ 0E2B 0E36 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หื 0E2B 0E37 THAI CHARACTER HO HIP; THAI CHARACTER SARA UEE <indexterm>หื 0E2B 0E37 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หุ 0E2B 0E38 THAI CHARACTER HO HIP; THAI CHARACTER SARA U <indexterm>หุ 0E2B 0E38 sort under ห 0E2B</indexterm>
+         </li>
+         <li>หู 0E2B 0E39 THAI CHARACTER HO HIP; THAI CHARACTER SARA UU <indexterm>หู 0E2B 0E39 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เห 0E40 0E2B THAI CHARACTER SARA E; THAI CHARACTER HO HIP <indexterm>เห 0E40 0E2B sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหะ 0E40 0E2B 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA A <indexterm>เหะ 0E40 0E2B 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหา 0E40 0E2B 0E32 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA AA <indexterm>เหา 0E40 0E2B 0E32 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหาะ 0E40 0E2B 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เหาะ 0E40 0E2B 0E32 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหิ 0E40 0E2B 0E34 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA I <indexterm>เหิ 0E40 0E2B 0E34 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหีย 0E40 0E2B 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เหีย 0E40 0E2B 0E35 0E22 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหียะ 0E40 0E2B 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เหียะ 0E40 0E2B 0E35 0E22 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหือ 0E40 0E2B 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เหือ 0E40 0E2B 0E37 0E2D sort under ห 0E2B</indexterm>
+         </li>
+         <li>เหือะ 0E40 0E2B 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO HIP; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เหือะ 0E40 0E2B 0E37 0E2D 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>แห 0E41 0E2B THAI CHARACTER SARA AE; THAI CHARACTER HO HIP <indexterm>แห 0E41 0E2B sort under ห 0E2B</indexterm>
+         </li>
+         <li>แหะ 0E41 0E2B 0E30 THAI CHARACTER SARA AE; THAI CHARACTER HO HIP; THAI CHARACTER SARA A <indexterm>แหะ 0E41 0E2B 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>โห 0E42 0E2B THAI CHARACTER SARA O; THAI CHARACTER HO HIP <indexterm>โห 0E42 0E2B sort under ห 0E2B</indexterm>
+         </li>
+         <li>โหะ 0E42 0E2B 0E30 THAI CHARACTER SARA O; THAI CHARACTER HO HIP; THAI CHARACTER SARA A <indexterm>โหะ 0E42 0E2B 0E30 sort under ห 0E2B</indexterm>
+         </li>
+         <li>ให 0E43 0E2B THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER HO HIP <indexterm>ให 0E43 0E2B sort under ห 0E2B</indexterm>
+         </li>
+         <li>ไห 0E44 0E2B THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER HO HIP <indexterm>ไห 0E44 0E2B sort under ห 0E2B</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฬ 0E2C<ul>
+         <li>ฬ 0E2C THAI CHARACTER LO CHULA <indexterm>ฬ 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬะ 0E2C 0E30 THAI CHARACTER LO CHULA; THAI CHARACTER SARA A <indexterm>ฬะ 0E2C 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬั 0E2C 0E31 THAI CHARACTER LO CHULA; THAI CHARACTER MAI HAN-AKAT <indexterm>ฬั 0E2C 0E31 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬัวะ 0E2C 0E31 0E27 0E30 THAI CHARACTER LO CHULA; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฬัวะ 0E2C 0E31 0E27 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬา 0E2C 0E32 THAI CHARACTER LO CHULA; THAI CHARACTER SARA AA <indexterm>ฬา 0E2C 0E32 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬำ 0E2C 0E33 THAI CHARACTER LO CHULA; THAI CHARACTER SARA AM <indexterm>ฬำ 0E2C 0E33 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬิ 0E2C 0E34 THAI CHARACTER LO CHULA; THAI CHARACTER SARA I <indexterm>ฬิ 0E2C 0E34 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬี 0E2C 0E35 THAI CHARACTER LO CHULA; THAI CHARACTER SARA II <indexterm>ฬี 0E2C 0E35 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬึ 0E2C 0E36 THAI CHARACTER LO CHULA; THAI CHARACTER SARA UE <indexterm>ฬึ 0E2C 0E36 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬื 0E2C 0E37 THAI CHARACTER LO CHULA; THAI CHARACTER SARA UEE <indexterm>ฬื 0E2C 0E37 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬุ 0E2C 0E38 THAI CHARACTER LO CHULA; THAI CHARACTER SARA U <indexterm>ฬุ 0E2C 0E38 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ฬู 0E2C 0E39 THAI CHARACTER LO CHULA; THAI CHARACTER SARA UU <indexterm>ฬู 0E2C 0E39 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬ 0E40 0E2C THAI CHARACTER SARA E; THAI CHARACTER LO CHULA <indexterm>เฬ 0E40 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬะ 0E40 0E2C 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA A <indexterm>เฬะ 0E40 0E2C 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬา 0E40 0E2C 0E32 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA AA <indexterm>เฬา 0E40 0E2C 0E32 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬาะ 0E40 0E2C 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฬาะ 0E40 0E2C 0E32 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬิ 0E40 0E2C 0E34 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA I <indexterm>เฬิ 0E40 0E2C 0E34 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬีย 0E40 0E2C 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฬีย 0E40 0E2C 0E35 0E22 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬียะ 0E40 0E2C 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฬียะ 0E40 0E2C 0E35 0E22 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬือ 0E40 0E2C 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฬือ 0E40 0E2C 0E37 0E2D sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>เฬือะ 0E40 0E2C 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER LO CHULA; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฬือะ 0E40 0E2C 0E37 0E2D 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>แฬ 0E41 0E2C THAI CHARACTER SARA AE; THAI CHARACTER LO CHULA <indexterm>แฬ 0E41 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>แฬะ 0E41 0E2C 0E30 THAI CHARACTER SARA AE; THAI CHARACTER LO CHULA; THAI CHARACTER SARA A <indexterm>แฬะ 0E41 0E2C 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>โฬ 0E42 0E2C THAI CHARACTER SARA O; THAI CHARACTER LO CHULA <indexterm>โฬ 0E42 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>โฬะ 0E42 0E2C 0E30 THAI CHARACTER SARA O; THAI CHARACTER LO CHULA; THAI CHARACTER SARA A <indexterm>โฬะ 0E42 0E2C 0E30 sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ใฬ 0E43 0E2C THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER LO CHULA <indexterm>ใฬ 0E43 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+         <li>ไฬ 0E44 0E2C THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER LO CHULA <indexterm>ไฬ 0E44 0E2C sort under ฬ 0E2C</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for อ 0E2D<ul>
+         <li>อ 0E2D THAI CHARACTER O ANG <indexterm>อ 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>อะ 0E2D 0E30 THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>อะ 0E2D 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อั 0E2D 0E31 THAI CHARACTER O ANG; THAI CHARACTER MAI HAN-AKAT <indexterm>อั 0E2D 0E31 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อัวะ 0E2D 0E31 0E27 0E30 THAI CHARACTER O ANG; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>อัวะ 0E2D 0E31 0E27 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อา 0E2D 0E32 THAI CHARACTER O ANG; THAI CHARACTER SARA AA <indexterm>อา 0E2D 0E32 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อำ 0E2D 0E33 THAI CHARACTER O ANG; THAI CHARACTER SARA AM <indexterm>อำ 0E2D 0E33 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อิ 0E2D 0E34 THAI CHARACTER O ANG; THAI CHARACTER SARA I <indexterm>อิ 0E2D 0E34 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อี 0E2D 0E35 THAI CHARACTER O ANG; THAI CHARACTER SARA II <indexterm>อี 0E2D 0E35 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อึ 0E2D 0E36 THAI CHARACTER O ANG; THAI CHARACTER SARA UE <indexterm>อึ 0E2D 0E36 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อื 0E2D 0E37 THAI CHARACTER O ANG; THAI CHARACTER SARA UEE <indexterm>อื 0E2D 0E37 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อุ 0E2D 0E38 THAI CHARACTER O ANG; THAI CHARACTER SARA U <indexterm>อุ 0E2D 0E38 sort under อ 0E2D</indexterm>
+         </li>
+         <li>อู 0E2D 0E39 THAI CHARACTER O ANG; THAI CHARACTER SARA UU <indexterm>อู 0E2D 0E39 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอ 0E40 0E2D THAI CHARACTER SARA E; THAI CHARACTER O ANG <indexterm>เอ 0E40 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอะ 0E40 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เอะ 0E40 0E2D 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอา 0E40 0E2D 0E32 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA AA <indexterm>เอา 0E40 0E2D 0E32 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอาะ 0E40 0E2D 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เอาะ 0E40 0E2D 0E32 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอิ 0E40 0E2D 0E34 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA I <indexterm>เอิ 0E40 0E2D 0E34 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอีย 0E40 0E2D 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เอีย 0E40 0E2D 0E35 0E22 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอียะ 0E40 0E2D 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เอียะ 0E40 0E2D 0E35 0E22 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอือ 0E40 0E2D 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เอือ 0E40 0E2D 0E37 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>เอือะ 0E40 0E2D 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER O ANG; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เอือะ 0E40 0E2D 0E37 0E2D 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>แอ 0E41 0E2D THAI CHARACTER SARA AE; THAI CHARACTER O ANG <indexterm>แอ 0E41 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>แอะ 0E41 0E2D 0E30 THAI CHARACTER SARA AE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>แอะ 0E41 0E2D 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>โอ 0E42 0E2D THAI CHARACTER SARA O; THAI CHARACTER O ANG <indexterm>โอ 0E42 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>โอะ 0E42 0E2D 0E30 THAI CHARACTER SARA O; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>โอะ 0E42 0E2D 0E30 sort under อ 0E2D</indexterm>
+         </li>
+         <li>ใอ 0E43 0E2D THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER O ANG <indexterm>ใอ 0E43 0E2D sort under อ 0E2D</indexterm>
+         </li>
+         <li>ไอ 0E44 0E2D THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER O ANG <indexterm>ไอ 0E44 0E2D sort under อ 0E2D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ฮ 0E2E<ul>
+         <li>ฮ 0E2E THAI CHARACTER HO NOKHUK <indexterm>ฮ 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮะ 0E2E 0E30 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA A <indexterm>ฮะ 0E2E 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮั 0E2E 0E31 THAI CHARACTER HO NOKHUK; THAI CHARACTER MAI HAN-AKAT <indexterm>ฮั 0E2E 0E31 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮัวะ 0E2E 0E31 0E27 0E30 THAI CHARACTER HO NOKHUK; THAI CHARACTER MAI HAN-AKAT; THAI CHARACTER WO WAEN; THAI CHARACTER SARA A <indexterm>ฮัวะ 0E2E 0E31 0E27 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮา 0E2E 0E32 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA AA <indexterm>ฮา 0E2E 0E32 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮำ 0E2E 0E33 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA AM <indexterm>ฮำ 0E2E 0E33 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮิ 0E2E 0E34 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA I <indexterm>ฮิ 0E2E 0E34 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮี 0E2E 0E35 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA II <indexterm>ฮี 0E2E 0E35 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮึ 0E2E 0E36 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA UE <indexterm>ฮึ 0E2E 0E36 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮื 0E2E 0E37 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA UEE <indexterm>ฮื 0E2E 0E37 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮุ 0E2E 0E38 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA U <indexterm>ฮุ 0E2E 0E38 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ฮู 0E2E 0E39 THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA UU <indexterm>ฮู 0E2E 0E39 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮ 0E40 0E2E THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK <indexterm>เฮ 0E40 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮะ 0E40 0E2E 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA A <indexterm>เฮะ 0E40 0E2E 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮา 0E40 0E2E 0E32 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA AA <indexterm>เฮา 0E40 0E2E 0E32 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮาะ 0E40 0E2E 0E32 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA AA; THAI CHARACTER SARA A <indexterm>เฮาะ 0E40 0E2E 0E32 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮิ 0E40 0E2E 0E34 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA I <indexterm>เฮิ 0E40 0E2E 0E34 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮีย 0E40 0E2E 0E35 0E22 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK <indexterm>เฮีย 0E40 0E2E 0E35 0E22 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮียะ 0E40 0E2E 0E35 0E22 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA II; THAI CHARACTER YO YAK; THAI CHARACTER SARA A <indexterm>เฮียะ 0E40 0E2E 0E35 0E22 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮือ 0E40 0E2E 0E37 0E2D THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG <indexterm>เฮือ 0E40 0E2E 0E37 0E2D sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>เฮือะ 0E40 0E2E 0E37 0E2D 0E30 THAI CHARACTER SARA E; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA UEE; THAI CHARACTER O ANG; THAI CHARACTER SARA A <indexterm>เฮือะ 0E40 0E2E 0E37 0E2D 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>แฮ 0E41 0E2E THAI CHARACTER SARA AE; THAI CHARACTER HO NOKHUK <indexterm>แฮ 0E41 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>แฮะ 0E41 0E2E 0E30 THAI CHARACTER SARA AE; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA A <indexterm>แฮะ 0E41 0E2E 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>โฮ 0E42 0E2E THAI CHARACTER SARA O; THAI CHARACTER HO NOKHUK <indexterm>โฮ 0E42 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>โฮะ 0E42 0E2E 0E30 THAI CHARACTER SARA O; THAI CHARACTER HO NOKHUK; THAI CHARACTER SARA A <indexterm>โฮะ 0E42 0E2E 0E30 sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ใฮ 0E43 0E2E THAI CHARACTER SARA AI MAIMUAN; THAI CHARACTER HO NOKHUK <indexterm>ใฮ 0E43 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+         <li>ไฮ 0E44 0E2E THAI CHARACTER SARA AI MAIMALAI; THAI CHARACTER HO NOKHUK <indexterm>ไฮ 0E44 0E2E sort under ฮ 0E2E</indexterm>
+         </li>
+      </ul>
+   </li>
+</ul>
+</body>
+</topic>

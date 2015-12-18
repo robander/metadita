@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
-<bookmap xml:lang="en">
+<bookmap xml:lang="el">
 <booktitle>
-<mainbooktitle>English Test</mainbooktitle>
+<mainbooktitle>Greek Test</mainbooktitle>
 </booktitle>
 <frontmatter conref="bookmap.ditamap#front"/>
-<part conref="bookmap.ditamap#p1"/>
-<part conref="bookmap.ditamap#p2"/>
-<part href="en.dita"/>
+<part conref="bookmap.ditamap#p1"/><part conref="bookmap.ditamap#p2"/><part href="el.dita"/>
 <appendices href="bookapp-wrapper.dita">
 <appendix href="bookapp1.dita"/>
 <appendix href="bookapp2.dita"/>

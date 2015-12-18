@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="el" xml:lang="el">
+<title>Greek</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul>
+   <li>Collation for α 03B1<ul>
+         <li>α 03B1 GREEK SMALL LETTER ALPHA <indexterm>α 03B1 sort under α 03B1</indexterm>
+         </li>
+         <li>Α 0391 GREEK CAPITAL LETTER ALPHA <indexterm>Α 0391 sort under α 03B1</indexterm>
+         </li>
+         <li>ά 03AC GREEK SMALL LETTER ALPHA WITH TONOS <indexterm>ά 03AC sort under α 03B1</indexterm>
+         </li>
+         <li>Ά 0386 GREEK CAPITAL LETTER ALPHA WITH TONOS <indexterm>Ά 0386 sort under α 03B1</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for β 03B2<ul>
+         <li>β 03B2 GREEK SMALL LETTER BETA <indexterm>β 03B2 sort under β 03B2</indexterm>
+         </li>
+         <li>Β 0392 GREEK CAPITAL LETTER BETA <indexterm>Β 0392 sort under β 03B2</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for γ 03B3<ul>
+         <li>γ 03B3 GREEK SMALL LETTER GAMMA <indexterm>γ 03B3 sort under γ 03B3</indexterm>
+         </li>
+         <li>Γ 0393 GREEK CAPITAL LETTER GAMMA <indexterm>Γ 0393 sort under γ 03B3</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for δ 03B4<ul>
+         <li>δ 03B4 GREEK SMALL LETTER DELTA <indexterm>δ 03B4 sort under δ 03B4</indexterm>
+         </li>
+         <li>Δ 0394 GREEK CAPITAL LETTER DELTA <indexterm>Δ 0394 sort under δ 03B4</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ε 03B5<ul>
+         <li>ε 03B5 GREEK SMALL LETTER EPSILON <indexterm>ε 03B5 sort under ε 03B5</indexterm>
+         </li>
+         <li>Ε 0395 GREEK CAPITAL LETTER EPSILON <indexterm>Ε 0395 sort under ε 03B5</indexterm>
+         </li>
+         <li>έ 03AD GREEK SMALL LETTER EPSILON WITH TONOS <indexterm>έ 03AD sort under ε 03B5</indexterm>
+         </li>
+         <li>Έ 0388 GREEK CAPITAL LETTER EPSILON WITH TONOS <indexterm>Έ 0388 sort under ε 03B5</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ζ 03B6<ul>
+         <li>ζ 03B6 GREEK SMALL LETTER ZETA <indexterm>ζ 03B6 sort under ζ 03B6</indexterm>
+         </li>
+         <li>Ζ 0396 GREEK CAPITAL LETTER ZETA <indexterm>Ζ 0396 sort under ζ 03B6</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for η 03B7<ul>
+         <li>η 03B7 GREEK SMALL LETTER ETA <indexterm>η 03B7 sort under η 03B7</indexterm>
+         </li>
+         <li>Η 0397 GREEK CAPITAL LETTER ETA <indexterm>Η 0397 sort under η 03B7</indexterm>
+         </li>
+         <li>ή 03AE GREEK SMALL LETTER ETA WITH TONOS <indexterm>ή 03AE sort under η 03B7</indexterm>
+         </li>
+         <li>Ή 0389 GREEK CAPITAL LETTER ETA WITH TONOS <indexterm>Ή 0389 sort under η 03B7</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for θ 03B8<ul>
+         <li>θ 03B8 GREEK SMALL LETTER THETA <indexterm>θ 03B8 sort under θ 03B8</indexterm>
+         </li>
+         <li>Θ 0398 GREEK CAPITAL LETTER THETA <indexterm>Θ 0398 sort under θ 03B8</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ι 03B9<ul>
+         <li>ι 03B9 GREEK SMALL LETTER IOTA <indexterm>ι 03B9 sort under ι 03B9</indexterm>
+         </li>
+         <li>Ι 0399 GREEK CAPITAL LETTER IOTA <indexterm>Ι 0399 sort under ι 03B9</indexterm>
+         </li>
+         <li>ί 03AF GREEK SMALL LETTER IOTA WITH TONOS <indexterm>ί 03AF sort under ι 03B9</indexterm>
+         </li>
+         <li>Ί 038A GREEK CAPITAL LETTER IOTA WITH TONOS <indexterm>Ί 038A sort under ι 03B9</indexterm>
+         </li>
+         <li>ϊ 03CA GREEK SMALL LETTER IOTA WITH DIALYTIKA <indexterm>ϊ 03CA sort under ι 03B9</indexterm>
+         </li>
+         <li>Ϊ 03AA GREEK CAPITAL LETTER IOTA WITH DIALYTIKA <indexterm>Ϊ 03AA sort under ι 03B9</indexterm>
+         </li>
+         <li>ΐ 0390 GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS <indexterm>ΐ 0390 sort under ι 03B9</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for κ 03BA<ul>
+         <li>κ 03BA GREEK SMALL LETTER KAPPA <indexterm>κ 03BA sort under κ 03BA</indexterm>
+         </li>
+         <li>Κ 039A GREEK CAPITAL LETTER KAPPA <indexterm>Κ 039A sort under κ 03BA</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for λ 03BB<ul>
+         <li>λ 03BB GREEK SMALL LETTER LAMDA <indexterm>λ 03BB sort under λ 03BB</indexterm>
+         </li>
+         <li>Λ 039B GREEK CAPITAL LETTER LAMDA <indexterm>Λ 039B sort under λ 03BB</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for μ 03BC<ul>
+         <li>μ 03BC GREEK SMALL LETTER MU <indexterm>μ 03BC sort under μ 03BC</indexterm>
+         </li>
+         <li>Μ 039C GREEK CAPITAL LETTER MU <indexterm>Μ 039C sort under μ 03BC</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ν 03BD<ul>
+         <li>ν 03BD GREEK SMALL LETTER NU <indexterm>ν 03BD sort under ν 03BD</indexterm>
+         </li>
+         <li>Ν 039D GREEK CAPITAL LETTER NU <indexterm>Ν 039D sort under ν 03BD</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ξ 03BE<ul>
+         <li>ξ 03BE GREEK SMALL LETTER XI <indexterm>ξ 03BE sort under ξ 03BE</indexterm>
+         </li>
+         <li>Ξ 039E GREEK CAPITAL LETTER XI <indexterm>Ξ 039E sort under ξ 03BE</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ο 03BF<ul>
+         <li>ο 03BF GREEK SMALL LETTER OMICRON <indexterm>ο 03BF sort under ο 03BF</indexterm>
+         </li>
+         <li>Ο 039F GREEK CAPITAL LETTER OMICRON <indexterm>Ο 039F sort under ο 03BF</indexterm>
+         </li>
+         <li>ό 03CC GREEK SMALL LETTER OMICRON WITH TONOS <indexterm>ό 03CC sort under ο 03BF</indexterm>
+         </li>
+         <li>Ό 038C GREEK CAPITAL LETTER OMICRON WITH TONOS <indexterm>Ό 038C sort under ο 03BF</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for π 03C0<ul>
+         <li>π 03C0 GREEK SMALL LETTER PI <indexterm>π 03C0 sort under π 03C0</indexterm>
+         </li>
+         <li>Π 03A0 GREEK CAPITAL LETTER PI <indexterm>Π 03A0 sort under π 03C0</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ρ 03C1<ul>
+         <li>ρ 03C1 GREEK SMALL LETTER RHO <indexterm>ρ 03C1 sort under ρ 03C1</indexterm>
+         </li>
+         <li>Ρ 03A1 GREEK CAPITAL LETTER RHO <indexterm>Ρ 03A1 sort under ρ 03C1</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for σ 03C3<ul>
+         <li>σ 03C3 GREEK SMALL LETTER SIGMA <indexterm>σ 03C3 sort under σ 03C3</indexterm>
+         </li>
+         <li>Σ 03A3 GREEK CAPITAL LETTER SIGMA <indexterm>Σ 03A3 sort under σ 03C3</indexterm>
+         </li>
+         <li>ς 03C2 GREEK SMALL LETTER FINAL SIGMA <indexterm>ς 03C2 sort under σ 03C3</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for τ 03C4<ul>
+         <li>τ 03C4 GREEK SMALL LETTER TAU <indexterm>τ 03C4 sort under τ 03C4</indexterm>
+         </li>
+         <li>Τ 03A4 GREEK CAPITAL LETTER TAU <indexterm>Τ 03A4 sort under τ 03C4</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for υ 03C5<ul>
+         <li>υ 03C5 GREEK SMALL LETTER UPSILON <indexterm>υ 03C5 sort under υ 03C5</indexterm>
+         </li>
+         <li>Υ 03A5 GREEK CAPITAL LETTER UPSILON <indexterm>Υ 03A5 sort under υ 03C5</indexterm>
+         </li>
+         <li>ύ 03CD GREEK SMALL LETTER UPSILON WITH TONOS <indexterm>ύ 03CD sort under υ 03C5</indexterm>
+         </li>
+         <li>Ύ 038E GREEK CAPITAL LETTER UPSILON WITH TONOS <indexterm>Ύ 038E sort under υ 03C5</indexterm>
+         </li>
+         <li>ϋ 03CB GREEK SMALL LETTER UPSILON WITH DIALYTIKA <indexterm>ϋ 03CB sort under υ 03C5</indexterm>
+         </li>
+         <li>Ϋ 03AB GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA <indexterm>Ϋ 03AB sort under υ 03C5</indexterm>
+         </li>
+         <li>ΰ 03B0 GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS <indexterm>ΰ 03B0 sort under υ 03C5</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for φ 03C6<ul>
+         <li>φ 03C6 GREEK SMALL LETTER PHI <indexterm>φ 03C6 sort under φ 03C6</indexterm>
+         </li>
+         <li>Φ 03A6 GREEK CAPITAL LETTER PHI <indexterm>Φ 03A6 sort under φ 03C6</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for χ 03C7<ul>
+         <li>χ 03C7 GREEK SMALL LETTER CHI <indexterm>χ 03C7 sort under χ 03C7</indexterm>
+         </li>
+         <li>Χ 03A7 GREEK CAPITAL LETTER CHI <indexterm>Χ 03A7 sort under χ 03C7</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ψ 03C8<ul>
+         <li>ψ 03C8 GREEK SMALL LETTER PSI <indexterm>ψ 03C8 sort under ψ 03C8</indexterm>
+         </li>
+         <li>Ψ 03A8 GREEK CAPITAL LETTER PSI <indexterm>Ψ 03A8 sort under ψ 03C8</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ω 03C9<ul>
+         <li>ω 03C9 GREEK SMALL LETTER OMEGA <indexterm>ω 03C9 sort under ω 03C9</indexterm>
+         </li>
+         <li>Ω 03A9 GREEK CAPITAL LETTER OMEGA <indexterm>Ω 03A9 sort under ω 03C9</indexterm>
+         </li>
+         <li>ώ 03CE GREEK SMALL LETTER OMEGA WITH TONOS <indexterm>ώ 03CE sort under ω 03C9</indexterm>
+         </li>
+         <li>Ώ 038F GREEK CAPITAL LETTER OMEGA WITH TONOS <indexterm>Ώ 038F sort under ω 03C9</indexterm>
+         </li>
+      </ul>
+   </li>
+</ul>
+</body>
+</topic>

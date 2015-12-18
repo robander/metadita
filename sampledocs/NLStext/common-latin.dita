@@ -163,7 +163,7 @@ SECONDARY</indexterm></indexterm></li>
 <li>) <indexterm>) right paren (16)</indexterm></li>
 </ul></li>
 <li>Trying some sort-as:<ul>
-<li>8-ball sorted as "eight-ball"<indexterm><index-sort-as>eight-ball</index-sort-as>8-ball</indexterm> </li>
+<li>8-ball sorted as "eight-ball"<indexterm><index-sort-as>eight-ball</index-sort-as>8-ball, with sort key set to "eight ball"</indexterm> </li>
 </ul></li>
 </ul>
 </body>

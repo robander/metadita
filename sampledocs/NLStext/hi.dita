@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="hi" xml:lang="hi">
+<title>Hindi</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul>
+   <li>Collation for ं 0902<ul>
+         <li>ं 0902 DEVANAGARI SIGN ANUSVARA <indexterm>ं 0902 sort under ???</indexterm>
+         </li>
+         <li>ँ 0901 DEVANAGARI SIGN CANDRABINDU <indexterm>ँ 0901 sort under ???</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ः 0903<ul>
+         <li>ः 0903 DEVANAGARI SIGN VISARGA <indexterm>ः 0903 sort under ???</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for अ 0905<ul>
+         <li>अ 0905 DEVANAGARI LETTER A <indexterm>अ 0905 sort under अ 0905</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for आ 0906<ul>
+         <li>आ 0906 DEVANAGARI LETTER AA <indexterm>आ 0906 sort under आ 0906</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for इ 0907<ul>
+         <li>इ 0907 DEVANAGARI LETTER I <indexterm>इ 0907 sort under इ 0907</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ई 0908<ul>
+         <li>ई 0908 DEVANAGARI LETTER II <indexterm>ई 0908 sort under ई 0908</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for उ 0909<ul>
+         <li>उ 0909 DEVANAGARI LETTER U <indexterm>उ 0909 sort under उ 0909</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ऊ 090A<ul>
+         <li>ऊ 090A DEVANAGARI LETTER UU <indexterm>ऊ 090A sort under ऊ 090A</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ऋ 090B<ul>
+         <li>ऋ 090B DEVANAGARI LETTER VOCALIC R <indexterm>ऋ 090B sort under ऋ 090B</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ए 090F<ul>
+         <li>ए 090F DEVANAGARI LETTER E <indexterm>ए 090F sort under ए 090F</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ऐ 0910<ul>
+         <li>ऐ 0910 DEVANAGARI LETTER AI <indexterm>ऐ 0910 sort under ऐ 0910</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ओ 0913<ul>
+         <li>ओ 0913 DEVANAGARI LETTER O <indexterm>ओ 0913 sort under ओ 0913</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for औ 0914<ul>
+         <li>औ 0914 DEVANAGARI LETTER AU <indexterm>औ 0914 sort under औ 0914</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for क् 0915 094D<ul>
+         <li>क् 0915 094D DEVANAGARI LETTER KA; DEVANAGARI SIGN VIRAMA <indexterm>क् 0915 094D sort under क् 0915 094D</indexterm>
+         </li>
+         <li>क 0915 DEVANAGARI LETTER KA <indexterm>क 0915 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>क़ 0915 093C DEVANAGARI LETTER KA; DEVANAGARI SIGN NUKTA <indexterm>क़ 0915 093C sort under क् 0915 094D</indexterm>
+         </li>
+         <li>का 0915 093E DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN AA <indexterm>का 0915 093E sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कि 0915 093F DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN I <indexterm>कि 0915 093F sort under क् 0915 094D</indexterm>
+         </li>
+         <li>की 0915 0940 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN II <indexterm>की 0915 0940 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कु 0915 0941 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN U <indexterm>कु 0915 0941 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कू 0915 0942 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN UU <indexterm>कू 0915 0942 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कृ 0915 0943 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>कृ 0915 0943 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>के 0915 0947 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN E <indexterm>के 0915 0947 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कै 0915 0948 DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN AI <indexterm>कै 0915 0948 sort under क् 0915 094D</indexterm>
+         </li>
+         <li>को 0915 094B DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN O <indexterm>को 0915 094B sort under क् 0915 094D</indexterm>
+         </li>
+         <li>कौ 0915 094C DEVANAGARI LETTER KA; DEVANAGARI VOWEL SIGN AU <indexterm>कौ 0915 094C sort under क् 0915 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ख् 0916 094D<ul>
+         <li>ख् 0916 094D DEVANAGARI LETTER KHA; DEVANAGARI SIGN VIRAMA <indexterm>ख् 0916 094D sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>ख 0916 DEVANAGARI LETTER KHA <indexterm>ख 0916 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>ख़ 0916 093C DEVANAGARI LETTER KHA; DEVANAGARI SIGN NUKTA <indexterm>ख़ 0916 093C sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खा 0916 093E DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN AA <indexterm>खा 0916 093E sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खि 0916 093F DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN I <indexterm>खि 0916 093F sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खी 0916 0940 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN II <indexterm>खी 0916 0940 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खु 0916 0941 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN U <indexterm>खु 0916 0941 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खू 0916 0942 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN UU <indexterm>खू 0916 0942 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खृ 0916 0943 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>खृ 0916 0943 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खे 0916 0947 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN E <indexterm>खे 0916 0947 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खै 0916 0948 DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN AI <indexterm>खै 0916 0948 sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खो 0916 094B DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN O <indexterm>खो 0916 094B sort under ख् 0916 094D</indexterm>
+         </li>
+         <li>खौ 0916 094C DEVANAGARI LETTER KHA; DEVANAGARI VOWEL SIGN AU <indexterm>खौ 0916 094C sort under ख् 0916 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ग् 0917 094D<ul>
+         <li>ग् 0917 094D DEVANAGARI LETTER GA; DEVANAGARI SIGN VIRAMA <indexterm>ग् 0917 094D sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>ग 0917 DEVANAGARI LETTER GA <indexterm>ग 0917 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>ग़ 0917 093C DEVANAGARI LETTER GA; DEVANAGARI SIGN NUKTA <indexterm>ग़ 0917 093C sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गा 0917 093E DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN AA <indexterm>गा 0917 093E sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गि 0917 093F DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN I <indexterm>गि 0917 093F sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गी 0917 0940 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN II <indexterm>गी 0917 0940 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गु 0917 0941 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN U <indexterm>गु 0917 0941 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गू 0917 0942 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN UU <indexterm>गू 0917 0942 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गृ 0917 0943 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>गृ 0917 0943 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गे 0917 0947 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN E <indexterm>गे 0917 0947 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गै 0917 0948 DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN AI <indexterm>गै 0917 0948 sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गो 0917 094B DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN O <indexterm>गो 0917 094B sort under ग् 0917 094D</indexterm>
+         </li>
+         <li>गौ 0917 094C DEVANAGARI LETTER GA; DEVANAGARI VOWEL SIGN AU <indexterm>गौ 0917 094C sort under ग् 0917 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for घ् 0918 094D<ul>
+         <li>घ् 0918 094D DEVANAGARI LETTER GHA; DEVANAGARI SIGN VIRAMA <indexterm>घ् 0918 094D sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घ 0918 DEVANAGARI LETTER GHA <indexterm>घ 0918 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घा 0918 093E DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN AA <indexterm>घा 0918 093E sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घि 0918 093F DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN I <indexterm>घि 0918 093F sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घी 0918 0940 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN II <indexterm>घी 0918 0940 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घु 0918 0941 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN U <indexterm>घु 0918 0941 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घू 0918 0942 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN UU <indexterm>घू 0918 0942 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घृ 0918 0943 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>घृ 0918 0943 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घे 0918 0947 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN E <indexterm>घे 0918 0947 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घै 0918 0948 DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN AI <indexterm>घै 0918 0948 sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घो 0918 094B DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN O <indexterm>घो 0918 094B sort under घ् 0918 094D</indexterm>
+         </li>
+         <li>घौ 0918 094C DEVANAGARI LETTER GHA; DEVANAGARI VOWEL SIGN AU <indexterm>घौ 0918 094C sort under घ् 0918 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ङ् 0919 094D<ul>
+         <li>ङ् 0919 094D DEVANAGARI LETTER NGA; DEVANAGARI SIGN VIRAMA <indexterm>ङ् 0919 094D sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङ 0919 DEVANAGARI LETTER NGA <indexterm>ङ 0919 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङा 0919 093E DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN AA <indexterm>ङा 0919 093E sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङि 0919 093F DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN I <indexterm>ङि 0919 093F sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङी 0919 0940 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN II <indexterm>ङी 0919 0940 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङु 0919 0941 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN U <indexterm>ङु 0919 0941 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङू 0919 0942 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN UU <indexterm>ङू 0919 0942 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङृ 0919 0943 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>ङृ 0919 0943 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङे 0919 0947 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN E <indexterm>ङे 0919 0947 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङै 0919 0948 DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN AI <indexterm>ङै 0919 0948 sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङो 0919 094B DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN O <indexterm>ङो 0919 094B sort under ङ् 0919 094D</indexterm>
+         </li>
+         <li>ङौ 0919 094C DEVANAGARI LETTER NGA; DEVANAGARI VOWEL SIGN AU <indexterm>ङौ 0919 094C sort under ङ् 0919 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for च् 091A 094D<ul>
+         <li>च् 091A 094D DEVANAGARI LETTER CA; DEVANAGARI SIGN VIRAMA <indexterm>च् 091A 094D sort under च् 091A 094D</indexterm>
+         </li>
+         <li>च 091A DEVANAGARI LETTER CA <indexterm>च 091A sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चा 091A 093E DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN AA <indexterm>चा 091A 093E sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चि 091A 093F DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN I <indexterm>चि 091A 093F sort under च् 091A 094D</indexterm>
+         </li>
+         <li>ची 091A 0940 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN II <indexterm>ची 091A 0940 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चु 091A 0941 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN U <indexterm>चु 091A 0941 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चू 091A 0942 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN UU <indexterm>चू 091A 0942 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चृ 091A 0943 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>चृ 091A 0943 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चे 091A 0947 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN E <indexterm>चे 091A 0947 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चै 091A 0948 DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN AI <indexterm>चै 091A 0948 sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चो 091A 094B DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN O <indexterm>चो 091A 094B sort under च् 091A 094D</indexterm>
+         </li>
+         <li>चौ 091A 094C DEVANAGARI LETTER CA; DEVANAGARI VOWEL SIGN AU <indexterm>चौ 091A 094C sort under च् 091A 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for छ् 091B 094D<ul>
+         <li>छ् 091B 094D DEVANAGARI LETTER CHA; DEVANAGARI SIGN VIRAMA <indexterm>छ् 091B 094D sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छ 091B DEVANAGARI LETTER CHA <indexterm>छ 091B sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छा 091B 093E DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN AA <indexterm>छा 091B 093E sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छि 091B 093F DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN I <indexterm>छि 091B 093F sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छी 091B 0940 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN II <indexterm>छी 091B 0940 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छु 091B 0941 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN U <indexterm>छु 091B 0941 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छू 091B 0942 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN UU <indexterm>छू 091B 0942 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छृ 091B 0943 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>छृ 091B 0943 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छे 091B 0947 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN E <indexterm>छे 091B 0947 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छै 091B 0948 DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN AI <indexterm>छै 091B 0948 sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छो 091B 094B DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN O <indexterm>छो 091B 094B sort under छ् 091B 094D</indexterm>
+         </li>
+         <li>छौ 091B 094C DEVANAGARI LETTER CHA; DEVANAGARI VOWEL SIGN AU <indexterm>छौ 091B 094C sort under छ् 091B 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ज् 091C 094D<ul>
+         <li>ज् 091C 094D DEVANAGARI LETTER JA; DEVANAGARI SIGN VIRAMA <indexterm>ज् 091C 094D sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>ज 091C DEVANAGARI LETTER JA <indexterm>ज 091C sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>ज़ 091C 093C DEVANAGARI LETTER JA; DEVANAGARI SIGN NUKTA <indexterm>ज़ 091C 093C sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जा 091C 093E DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN AA <indexterm>जा 091C 093E sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जि 091C 093F DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN I <indexterm>जि 091C 093F sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जी 091C 0940 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN II <indexterm>जी 091C 0940 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जु 091C 0941 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN U <indexterm>जु 091C 0941 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जू 091C 0942 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN UU <indexterm>जू 091C 0942 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जृ 091C 0943 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>जृ 091C 0943 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जे 091C 0947 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN E <indexterm>जे 091C 0947 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जै 091C 0948 DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN AI <indexterm>जै 091C 0948 sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जो 091C 094B DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN O <indexterm>जो 091C 094B sort under ज् 091C 094D</indexterm>
+         </li>
+         <li>जौ 091C 094C DEVANAGARI LETTER JA; DEVANAGARI VOWEL SIGN AU <indexterm>जौ 091C 094C sort under ज् 091C 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for झ् 091D 094D<ul>
+         <li>झ् 091D 094D DEVANAGARI LETTER JHA; DEVANAGARI SIGN VIRAMA <indexterm>झ् 091D 094D sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झ 091D DEVANAGARI LETTER JHA <indexterm>झ 091D sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झा 091D 093E DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN AA <indexterm>झा 091D 093E sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झि 091D 093F DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN I <indexterm>झि 091D 093F sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झी 091D 0940 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN II <indexterm>झी 091D 0940 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झु 091D 0941 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN U <indexterm>झु 091D 0941 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झू 091D 0942 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN UU <indexterm>झू 091D 0942 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झृ 091D 0943 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>झृ 091D 0943 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झे 091D 0947 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN E <indexterm>झे 091D 0947 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झै 091D 0948 DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN AI <indexterm>झै 091D 0948 sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झो 091D 094B DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN O <indexterm>झो 091D 094B sort under झ् 091D 094D</indexterm>
+         </li>
+         <li>झौ 091D 094C DEVANAGARI LETTER JHA; DEVANAGARI VOWEL SIGN AU <indexterm>झौ 091D 094C sort under झ् 091D 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ञ् 091E 094D<ul>
+         <li>ञ् 091E 094D DEVANAGARI LETTER NYA; DEVANAGARI SIGN VIRAMA <indexterm>ञ् 091E 094D sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञ 091E DEVANAGARI LETTER NYA <indexterm>ञ 091E sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञा 091E 093E DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN AA <indexterm>ञा 091E 093E sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञि 091E 093F DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN I <indexterm>ञि 091E 093F sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञी 091E 0940 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN II <indexterm>ञी 091E 0940 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञु 091E 0941 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN U <indexterm>ञु 091E 0941 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञू 091E 0942 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN UU <indexterm>ञू 091E 0942 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञृ 091E 0943 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>ञृ 091E 0943 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञे 091E 0947 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN E <indexterm>ञे 091E 0947 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञै 091E 0948 DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN AI <indexterm>ञै 091E 0948 sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञो 091E 094B DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN O <indexterm>ञो 091E 094B sort under ञ् 091E 094D</indexterm>
+         </li>
+         <li>ञौ 091E 094C DEVANAGARI LETTER NYA; DEVANAGARI VOWEL SIGN AU <indexterm>ञौ 091E 094C sort under ञ् 091E 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ट् 091F 094D<ul>
+         <li>ट् 091F 094D DEVANAGARI LETTER TTA; DEVANAGARI SIGN VIRAMA <indexterm>ट् 091F 094D sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>ट 091F DEVANAGARI LETTER TTA <indexterm>ट 091F sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टा 091F 093E DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN AA <indexterm>टा 091F 093E sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टि 091F 093F DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN I <indexterm>टि 091F 093F sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टी 091F 0940 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN II <indexterm>टी 091F 0940 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टु 091F 0941 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN U <indexterm>टु 091F 0941 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टू 091F 0942 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN UU <indexterm>टू 091F 0942 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टृ 091F 0943 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>टृ 091F 0943 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टे 091F 0947 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN E <indexterm>टे 091F 0947 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टै 091F 0948 DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN AI <indexterm>टै 091F 0948 sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टो 091F 094B DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN O <indexterm>टो 091F 094B sort under ट् 091F 094D</indexterm>
+         </li>
+         <li>टौ 091F 094C DEVANAGARI LETTER TTA; DEVANAGARI VOWEL SIGN AU <indexterm>टौ 091F 094C sort under ट् 091F 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ठ् 0920 094D<ul>
+         <li>ठ् 0920 094D DEVANAGARI LETTER TTHA; DEVANAGARI SIGN VIRAMA <indexterm>ठ् 0920 094D sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठ 0920 DEVANAGARI LETTER TTHA <indexterm>ठ 0920 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठा 0920 093E DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN AA <indexterm>ठा 0920 093E sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठि 0920 093F DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN I <indexterm>ठि 0920 093F sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठी 0920 0940 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN II <indexterm>ठी 0920 0940 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठु 0920 0941 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN U <indexterm>ठु 0920 0941 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठू 0920 0942 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN UU <indexterm>ठू 0920 0942 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठृ 0920 0943 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>ठृ 0920 0943 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठे 0920 0947 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN E <indexterm>ठे 0920 0947 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठै 0920 0948 DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN AI <indexterm>ठै 0920 0948 sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठो 0920 094B DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN O <indexterm>ठो 0920 094B sort under ठ् 0920 094D</indexterm>
+         </li>
+         <li>ठौ 0920 094C DEVANAGARI LETTER TTHA; DEVANAGARI VOWEL SIGN AU <indexterm>ठौ 0920 094C sort under ठ् 0920 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ड् 0921 094D<ul>
+         <li>ड् 0921 094D DEVANAGARI LETTER DDA; DEVANAGARI SIGN VIRAMA <indexterm>ड् 0921 094D sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>ड 0921 DEVANAGARI LETTER DDA <indexterm>ड 0921 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>ड़ 0921 093C DEVANAGARI LETTER DDA; DEVANAGARI SIGN NUKTA <indexterm>ड़ 0921 093C sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डा 0921 093E DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN AA <indexterm>डा 0921 093E sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डि 0921 093F DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN I <indexterm>डि 0921 093F sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डी 0921 0940 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN II <indexterm>डी 0921 0940 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डु 0921 0941 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN U <indexterm>डु 0921 0941 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डू 0921 0942 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN UU <indexterm>डू 0921 0942 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डृ 0921 0943 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>डृ 0921 0943 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डे 0921 0947 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN E <indexterm>डे 0921 0947 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डै 0921 0948 DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN AI <indexterm>डै 0921 0948 sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डो 0921 094B DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN O <indexterm>डो 0921 094B sort under ड् 0921 094D</indexterm>
+         </li>
+         <li>डौ 0921 094C DEVANAGARI LETTER DDA; DEVANAGARI VOWEL SIGN AU <indexterm>डौ 0921 094C sort under ड् 0921 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ढ् 0922 094D<ul>
+         <li>ढ् 0922 094D DEVANAGARI LETTER DDHA; DEVANAGARI SIGN VIRAMA <indexterm>ढ् 0922 094D sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढ 0922 DEVANAGARI LETTER DDHA <indexterm>ढ 0922 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढ़ 0922 093C DEVANAGARI LETTER DDHA; DEVANAGARI SIGN NUKTA <indexterm>ढ़ 0922 093C sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढा 0922 093E DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN AA <indexterm>ढा 0922 093E sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढि 0922 093F DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN I <indexterm>ढि 0922 093F sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढी 0922 0940 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN II <indexterm>ढी 0922 0940 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढु 0922 0941 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN U <indexterm>ढु 0922 0941 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढू 0922 0942 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN UU <indexterm>ढू 0922 0942 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढृ 0922 0943 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>ढृ 0922 0943 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढे 0922 0947 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN E <indexterm>ढे 0922 0947 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढै 0922 0948 DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN AI <indexterm>ढै 0922 0948 sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढो 0922 094B DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN O <indexterm>ढो 0922 094B sort under ढ् 0922 094D</indexterm>
+         </li>
+         <li>ढौ 0922 094C DEVANAGARI LETTER DDHA; DEVANAGARI VOWEL SIGN AU <indexterm>ढौ 0922 094C sort under ढ् 0922 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ण् 0923 094D<ul>
+         <li>ण् 0923 094D DEVANAGARI LETTER NNA; DEVANAGARI SIGN VIRAMA <indexterm>ण् 0923 094D sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>ण 0923 DEVANAGARI LETTER NNA <indexterm>ण 0923 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णा 0923 093E DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN AA <indexterm>णा 0923 093E sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णि 0923 093F DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN I <indexterm>णि 0923 093F sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णी 0923 0940 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN II <indexterm>णी 0923 0940 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णु 0923 0941 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN U <indexterm>णु 0923 0941 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णू 0923 0942 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN UU <indexterm>णू 0923 0942 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णृ 0923 0943 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>णृ 0923 0943 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णे 0923 0947 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN E <indexterm>णे 0923 0947 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णै 0923 0948 DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN AI <indexterm>णै 0923 0948 sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णो 0923 094B DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN O <indexterm>णो 0923 094B sort under ण् 0923 094D</indexterm>
+         </li>
+         <li>णौ 0923 094C DEVANAGARI LETTER NNA; DEVANAGARI VOWEL SIGN AU <indexterm>णौ 0923 094C sort under ण् 0923 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for त् 0924 094D<ul>
+         <li>त् 0924 094D DEVANAGARI LETTER TA; DEVANAGARI SIGN VIRAMA <indexterm>त् 0924 094D sort under त् 0924 094D</indexterm>
+         </li>
+         <li>त 0924 DEVANAGARI LETTER TA <indexterm>त 0924 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>ता 0924 093E DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN AA <indexterm>ता 0924 093E sort under त् 0924 094D</indexterm>
+         </li>
+         <li>ति 0924 093F DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN I <indexterm>ति 0924 093F sort under त् 0924 094D</indexterm>
+         </li>
+         <li>ती 0924 0940 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN II <indexterm>ती 0924 0940 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तु 0924 0941 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN U <indexterm>तु 0924 0941 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तू 0924 0942 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN UU <indexterm>तू 0924 0942 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तृ 0924 0943 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>तृ 0924 0943 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>ते 0924 0947 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN E <indexterm>ते 0924 0947 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तै 0924 0948 DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN AI <indexterm>तै 0924 0948 sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तो 0924 094B DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN O <indexterm>तो 0924 094B sort under त् 0924 094D</indexterm>
+         </li>
+         <li>तौ 0924 094C DEVANAGARI LETTER TA; DEVANAGARI VOWEL SIGN AU <indexterm>तौ 0924 094C sort under त् 0924 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for थ् 0925 094D<ul>
+         <li>थ् 0925 094D DEVANAGARI LETTER THA; DEVANAGARI SIGN VIRAMA <indexterm>थ् 0925 094D sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थ 0925 DEVANAGARI LETTER THA <indexterm>थ 0925 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>था 0925 093E DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN AA <indexterm>था 0925 093E sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थि 0925 093F DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN I <indexterm>थि 0925 093F sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थी 0925 0940 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN II <indexterm>थी 0925 0940 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थु 0925 0941 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN U <indexterm>थु 0925 0941 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थू 0925 0942 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN UU <indexterm>थू 0925 0942 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थृ 0925 0943 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>थृ 0925 0943 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थे 0925 0947 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN E <indexterm>थे 0925 0947 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थै 0925 0948 DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN AI <indexterm>थै 0925 0948 sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थो 0925 094B DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN O <indexterm>थो 0925 094B sort under थ् 0925 094D</indexterm>
+         </li>
+         <li>थौ 0925 094C DEVANAGARI LETTER THA; DEVANAGARI VOWEL SIGN AU <indexterm>थौ 0925 094C sort under थ् 0925 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for द् 0926 094D<ul>
+         <li>द् 0926 094D DEVANAGARI LETTER DA; DEVANAGARI SIGN VIRAMA <indexterm>द् 0926 094D sort under द् 0926 094D</indexterm>
+         </li>
+         <li>द 0926 DEVANAGARI LETTER DA <indexterm>द 0926 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दा 0926 093E DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN AA <indexterm>दा 0926 093E sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दि 0926 093F DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN I <indexterm>दि 0926 093F sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दी 0926 0940 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN II <indexterm>दी 0926 0940 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दु 0926 0941 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN U <indexterm>दु 0926 0941 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दू 0926 0942 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN UU <indexterm>दू 0926 0942 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दृ 0926 0943 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>दृ 0926 0943 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दे 0926 0947 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN E <indexterm>दे 0926 0947 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दै 0926 0948 DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN AI <indexterm>दै 0926 0948 sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दो 0926 094B DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN O <indexterm>दो 0926 094B sort under द् 0926 094D</indexterm>
+         </li>
+         <li>दौ 0926 094C DEVANAGARI LETTER DA; DEVANAGARI VOWEL SIGN AU <indexterm>दौ 0926 094C sort under द् 0926 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ध् 0927 094D<ul>
+         <li>ध् 0927 094D DEVANAGARI LETTER DHA; DEVANAGARI SIGN VIRAMA <indexterm>ध् 0927 094D sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>ध 0927 DEVANAGARI LETTER DHA <indexterm>ध 0927 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धा 0927 093E DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN AA <indexterm>धा 0927 093E sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धि 0927 093F DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN I <indexterm>धि 0927 093F sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धी 0927 0940 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN II <indexterm>धी 0927 0940 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धु 0927 0941 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN U <indexterm>धु 0927 0941 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धू 0927 0942 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN UU <indexterm>धू 0927 0942 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धृ 0927 0943 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>धृ 0927 0943 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धे 0927 0947 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN E <indexterm>धे 0927 0947 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धै 0927 0948 DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN AI <indexterm>धै 0927 0948 sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धो 0927 094B DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN O <indexterm>धो 0927 094B sort under ध् 0927 094D</indexterm>
+         </li>
+         <li>धौ 0927 094C DEVANAGARI LETTER DHA; DEVANAGARI VOWEL SIGN AU <indexterm>धौ 0927 094C sort under ध् 0927 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for न् 0928 094D<ul>
+         <li>न् 0928 094D DEVANAGARI LETTER NA; DEVANAGARI SIGN VIRAMA <indexterm>न् 0928 094D sort under न् 0928 094D</indexterm>
+         </li>
+         <li>न 0928 DEVANAGARI LETTER NA <indexterm>न 0928 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>ना 0928 093E DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN AA <indexterm>ना 0928 093E sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नि 0928 093F DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN I <indexterm>नि 0928 093F sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नी 0928 0940 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN II <indexterm>नी 0928 0940 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नु 0928 0941 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN U <indexterm>नु 0928 0941 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नू 0928 0942 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN UU <indexterm>नू 0928 0942 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नृ 0928 0943 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>नृ 0928 0943 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>ने 0928 0947 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN E <indexterm>ने 0928 0947 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नै 0928 0948 DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN AI <indexterm>नै 0928 0948 sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नो 0928 094B DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN O <indexterm>नो 0928 094B sort under न् 0928 094D</indexterm>
+         </li>
+         <li>नौ 0928 094C DEVANAGARI LETTER NA; DEVANAGARI VOWEL SIGN AU <indexterm>नौ 0928 094C sort under न् 0928 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for प् 092A 094D<ul>
+         <li>प् 092A 094D DEVANAGARI LETTER PA; DEVANAGARI SIGN VIRAMA <indexterm>प् 092A 094D sort under प् 092A 094D</indexterm>
+         </li>
+         <li>प 092A DEVANAGARI LETTER PA <indexterm>प 092A sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पा 092A 093E DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN AA <indexterm>पा 092A 093E sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पि 092A 093F DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN I <indexterm>पि 092A 093F sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पी 092A 0940 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN II <indexterm>पी 092A 0940 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पु 092A 0941 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN U <indexterm>पु 092A 0941 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पू 092A 0942 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN UU <indexterm>पू 092A 0942 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पृ 092A 0943 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>पृ 092A 0943 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पे 092A 0947 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN E <indexterm>पे 092A 0947 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पै 092A 0948 DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN AI <indexterm>पै 092A 0948 sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पो 092A 094B DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN O <indexterm>पो 092A 094B sort under प् 092A 094D</indexterm>
+         </li>
+         <li>पौ 092A 094C DEVANAGARI LETTER PA; DEVANAGARI VOWEL SIGN AU <indexterm>पौ 092A 094C sort under प् 092A 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for फ् 092B 094D<ul>
+         <li>फ् 092B 094D DEVANAGARI LETTER PHA; DEVANAGARI SIGN VIRAMA <indexterm>फ् 092B 094D sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फ 092B DEVANAGARI LETTER PHA <indexterm>फ 092B sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फ़ 092B 093C DEVANAGARI LETTER PHA; DEVANAGARI SIGN NUKTA <indexterm>फ़ 092B 093C sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फा 092B 093E DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN AA <indexterm>फा 092B 093E sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फि 092B 093F DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN I <indexterm>फि 092B 093F sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फी 092B 0940 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN II <indexterm>फी 092B 0940 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फु 092B 0941 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN U <indexterm>फु 092B 0941 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फू 092B 0942 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN UU <indexterm>फू 092B 0942 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फृ 092B 0943 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>फृ 092B 0943 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फे 092B 0947 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN E <indexterm>फे 092B 0947 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फै 092B 0948 DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN AI <indexterm>फै 092B 0948 sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फो 092B 094B DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN O <indexterm>फो 092B 094B sort under फ् 092B 094D</indexterm>
+         </li>
+         <li>फौ 092B 094C DEVANAGARI LETTER PHA; DEVANAGARI VOWEL SIGN AU <indexterm>फौ 092B 094C sort under फ् 092B 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ब् 092C 094D<ul>
+         <li>ब् 092C 094D DEVANAGARI LETTER BA; DEVANAGARI SIGN VIRAMA <indexterm>ब् 092C 094D sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>ब 092C DEVANAGARI LETTER BA <indexterm>ब 092C sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बा 092C 093E DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN AA <indexterm>बा 092C 093E sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बि 092C 093F DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN I <indexterm>बि 092C 093F sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बी 092C 0940 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN II <indexterm>बी 092C 0940 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बु 092C 0941 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN U <indexterm>बु 092C 0941 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बू 092C 0942 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN UU <indexterm>बू 092C 0942 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बृ 092C 0943 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>बृ 092C 0943 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बे 092C 0947 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN E <indexterm>बे 092C 0947 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बै 092C 0948 DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN AI <indexterm>बै 092C 0948 sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बो 092C 094B DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN O <indexterm>बो 092C 094B sort under ब् 092C 094D</indexterm>
+         </li>
+         <li>बौ 092C 094C DEVANAGARI LETTER BA; DEVANAGARI VOWEL SIGN AU <indexterm>बौ 092C 094C sort under ब् 092C 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for भ् 092D 094D<ul>
+         <li>भ् 092D 094D DEVANAGARI LETTER BHA; DEVANAGARI SIGN VIRAMA <indexterm>भ् 092D 094D sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भ 092D DEVANAGARI LETTER BHA <indexterm>भ 092D sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भा 092D 093E DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN AA <indexterm>भा 092D 093E sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भि 092D 093F DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN I <indexterm>भि 092D 093F sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भी 092D 0940 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN II <indexterm>भी 092D 0940 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भु 092D 0941 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN U <indexterm>भु 092D 0941 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भू 092D 0942 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN UU <indexterm>भू 092D 0942 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भृ 092D 0943 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>भृ 092D 0943 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भे 092D 0947 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN E <indexterm>भे 092D 0947 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भै 092D 0948 DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN AI <indexterm>भै 092D 0948 sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भो 092D 094B DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN O <indexterm>भो 092D 094B sort under भ् 092D 094D</indexterm>
+         </li>
+         <li>भौ 092D 094C DEVANAGARI LETTER BHA; DEVANAGARI VOWEL SIGN AU <indexterm>भौ 092D 094C sort under भ् 092D 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for म् 092E 094D<ul>
+         <li>म् 092E 094D DEVANAGARI LETTER MA; DEVANAGARI SIGN VIRAMA <indexterm>म् 092E 094D sort under म् 092E 094D</indexterm>
+         </li>
+         <li>म 092E DEVANAGARI LETTER MA <indexterm>म 092E sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मा 092E 093E DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN AA <indexterm>मा 092E 093E sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मि 092E 093F DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN I <indexterm>मि 092E 093F sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मी 092E 0940 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN II <indexterm>मी 092E 0940 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मु 092E 0941 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN U <indexterm>मु 092E 0941 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मू 092E 0942 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN UU <indexterm>मू 092E 0942 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मृ 092E 0943 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>मृ 092E 0943 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मे 092E 0947 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN E <indexterm>मे 092E 0947 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मै 092E 0948 DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN AI <indexterm>मै 092E 0948 sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मो 092E 094B DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN O <indexterm>मो 092E 094B sort under म् 092E 094D</indexterm>
+         </li>
+         <li>मौ 092E 094C DEVANAGARI LETTER MA; DEVANAGARI VOWEL SIGN AU <indexterm>मौ 092E 094C sort under म् 092E 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for य् 092F 094D<ul>
+         <li>य् 092F 094D DEVANAGARI LETTER YA; DEVANAGARI SIGN VIRAMA <indexterm>य् 092F 094D sort under य् 092F 094D</indexterm>
+         </li>
+         <li>य 092F DEVANAGARI LETTER YA <indexterm>य 092F sort under य् 092F 094D</indexterm>
+         </li>
+         <li>य़ 092F 093C DEVANAGARI LETTER YA; DEVANAGARI SIGN NUKTA <indexterm>य़ 092F 093C sort under य् 092F 094D</indexterm>
+         </li>
+         <li>या 092F 093E DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN AA <indexterm>या 092F 093E sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यि 092F 093F DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN I <indexterm>यि 092F 093F sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यी 092F 0940 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN II <indexterm>यी 092F 0940 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यु 092F 0941 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN U <indexterm>यु 092F 0941 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यू 092F 0942 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN UU <indexterm>यू 092F 0942 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यृ 092F 0943 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>यृ 092F 0943 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>ये 092F 0947 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN E <indexterm>ये 092F 0947 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यै 092F 0948 DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN AI <indexterm>यै 092F 0948 sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यो 092F 094B DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN O <indexterm>यो 092F 094B sort under य् 092F 094D</indexterm>
+         </li>
+         <li>यौ 092F 094C DEVANAGARI LETTER YA; DEVANAGARI VOWEL SIGN AU <indexterm>यौ 092F 094C sort under य् 092F 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for र् 0930 094D<ul>
+         <li>र् 0930 094D DEVANAGARI LETTER RA; DEVANAGARI SIGN VIRAMA <indexterm>र् 0930 094D sort under र् 0930 094D</indexterm>
+         </li>
+         <li>र 0930 DEVANAGARI LETTER RA <indexterm>र 0930 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रा 0930 093E DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN AA <indexterm>रा 0930 093E sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रि 0930 093F DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN I <indexterm>रि 0930 093F sort under र् 0930 094D</indexterm>
+         </li>
+         <li>री 0930 0940 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN II <indexterm>री 0930 0940 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रु 0930 0941 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN U <indexterm>रु 0930 0941 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रू 0930 0942 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN UU <indexterm>रू 0930 0942 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रृ 0930 0943 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>रृ 0930 0943 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रे 0930 0947 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN E <indexterm>रे 0930 0947 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रै 0930 0948 DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN AI <indexterm>रै 0930 0948 sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रो 0930 094B DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN O <indexterm>रो 0930 094B sort under र् 0930 094D</indexterm>
+         </li>
+         <li>रौ 0930 094C DEVANAGARI LETTER RA; DEVANAGARI VOWEL SIGN AU <indexterm>रौ 0930 094C sort under र् 0930 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ल् 0932 094D<ul>
+         <li>ल् 0932 094D DEVANAGARI LETTER LA; DEVANAGARI SIGN VIRAMA <indexterm>ल् 0932 094D sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>ल 0932 DEVANAGARI LETTER LA <indexterm>ल 0932 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>ला 0932 093E DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN AA <indexterm>ला 0932 093E sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लि 0932 093F DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN I <indexterm>लि 0932 093F sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>ली 0932 0940 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN II <indexterm>ली 0932 0940 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लु 0932 0941 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN U <indexterm>लु 0932 0941 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लू 0932 0942 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN UU <indexterm>लू 0932 0942 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लृ 0932 0943 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>लृ 0932 0943 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>ले 0932 0947 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN E <indexterm>ले 0932 0947 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लै 0932 0948 DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN AI <indexterm>लै 0932 0948 sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लो 0932 094B DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN O <indexterm>लो 0932 094B sort under ल् 0932 094D</indexterm>
+         </li>
+         <li>लौ 0932 094C DEVANAGARI LETTER LA; DEVANAGARI VOWEL SIGN AU <indexterm>लौ 0932 094C sort under ल् 0932 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for व् 0935 094D<ul>
+         <li>व् 0935 094D DEVANAGARI LETTER VA; DEVANAGARI SIGN VIRAMA <indexterm>व् 0935 094D sort under व् 0935 094D</indexterm>
+         </li>
+         <li>व 0935 DEVANAGARI LETTER VA <indexterm>व 0935 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वा 0935 093E DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN AA <indexterm>वा 0935 093E sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वि 0935 093F DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN I <indexterm>वि 0935 093F sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वी 0935 0940 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN II <indexterm>वी 0935 0940 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वु 0935 0941 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN U <indexterm>वु 0935 0941 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वू 0935 0942 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN UU <indexterm>वू 0935 0942 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वृ 0935 0943 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>वृ 0935 0943 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वे 0935 0947 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN E <indexterm>वे 0935 0947 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वै 0935 0948 DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN AI <indexterm>वै 0935 0948 sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वो 0935 094B DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN O <indexterm>वो 0935 094B sort under व् 0935 094D</indexterm>
+         </li>
+         <li>वौ 0935 094C DEVANAGARI LETTER VA; DEVANAGARI VOWEL SIGN AU <indexterm>वौ 0935 094C sort under व् 0935 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for श् 0936 094D<ul>
+         <li>श् 0936 094D DEVANAGARI LETTER SHA; DEVANAGARI SIGN VIRAMA <indexterm>श् 0936 094D sort under श् 0936 094D</indexterm>
+         </li>
+         <li>श 0936 DEVANAGARI LETTER SHA <indexterm>श 0936 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शा 0936 093E DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN AA <indexterm>शा 0936 093E sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शि 0936 093F DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN I <indexterm>शि 0936 093F sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शी 0936 0940 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN II <indexterm>शी 0936 0940 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शु 0936 0941 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN U <indexterm>शु 0936 0941 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शू 0936 0942 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN UU <indexterm>शू 0936 0942 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शृ 0936 0943 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>शृ 0936 0943 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शे 0936 0947 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN E <indexterm>शे 0936 0947 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शै 0936 0948 DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN AI <indexterm>शै 0936 0948 sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शो 0936 094B DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN O <indexterm>शो 0936 094B sort under श् 0936 094D</indexterm>
+         </li>
+         <li>शौ 0936 094C DEVANAGARI LETTER SHA; DEVANAGARI VOWEL SIGN AU <indexterm>शौ 0936 094C sort under श् 0936 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ष् 0937 094D<ul>
+         <li>ष् 0937 094D DEVANAGARI LETTER SSA; DEVANAGARI SIGN VIRAMA <indexterm>ष् 0937 094D sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>ष 0937 DEVANAGARI LETTER SSA <indexterm>ष 0937 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षा 0937 093E DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN AA <indexterm>षा 0937 093E sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षि 0937 093F DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN I <indexterm>षि 0937 093F sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षी 0937 0940 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN II <indexterm>षी 0937 0940 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षु 0937 0941 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN U <indexterm>षु 0937 0941 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षू 0937 0942 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN UU <indexterm>षू 0937 0942 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षृ 0937 0943 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>षृ 0937 0943 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षे 0937 0947 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN E <indexterm>षे 0937 0947 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षै 0937 0948 DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN AI <indexterm>षै 0937 0948 sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षो 0937 094B DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN O <indexterm>षो 0937 094B sort under ष् 0937 094D</indexterm>
+         </li>
+         <li>षौ 0937 094C DEVANAGARI LETTER SSA; DEVANAGARI VOWEL SIGN AU <indexterm>षौ 0937 094C sort under ष् 0937 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for स् 0938 094D<ul>
+         <li>स् 0938 094D DEVANAGARI LETTER SA; DEVANAGARI SIGN VIRAMA <indexterm>स् 0938 094D sort under स् 0938 094D</indexterm>
+         </li>
+         <li>स 0938 DEVANAGARI LETTER SA <indexterm>स 0938 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सा 0938 093E DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN AA <indexterm>सा 0938 093E sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सि 0938 093F DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN I <indexterm>सि 0938 093F sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सी 0938 0940 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN II <indexterm>सी 0938 0940 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सु 0938 0941 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN U <indexterm>सु 0938 0941 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सू 0938 0942 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN UU <indexterm>सू 0938 0942 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सृ 0938 0943 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>सृ 0938 0943 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>से 0938 0947 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN E <indexterm>से 0938 0947 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सै 0938 0948 DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN AI <indexterm>सै 0938 0948 sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सो 0938 094B DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN O <indexterm>सो 0938 094B sort under स् 0938 094D</indexterm>
+         </li>
+         <li>सौ 0938 094C DEVANAGARI LETTER SA; DEVANAGARI VOWEL SIGN AU <indexterm>सौ 0938 094C sort under स् 0938 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+   <li>Collation for ह् 0939 094D<ul>
+         <li>ह् 0939 094D DEVANAGARI LETTER HA; DEVANAGARI SIGN VIRAMA <indexterm>ह् 0939 094D sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>ह 0939 DEVANAGARI LETTER HA <indexterm>ह 0939 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हा 0939 093E DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN AA <indexterm>हा 0939 093E sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हि 0939 093F DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN I <indexterm>हि 0939 093F sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>ही 0939 0940 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN II <indexterm>ही 0939 0940 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हु 0939 0941 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN U <indexterm>हु 0939 0941 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हू 0939 0942 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN UU <indexterm>हू 0939 0942 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हृ 0939 0943 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN VOCALIC R <indexterm>हृ 0939 0943 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हे 0939 0947 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN E <indexterm>हे 0939 0947 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>है 0939 0948 DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN AI <indexterm>है 0939 0948 sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हो 0939 094B DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN O <indexterm>हो 0939 094B sort under ह् 0939 094D</indexterm>
+         </li>
+         <li>हौ 0939 094C DEVANAGARI LETTER HA; DEVANAGARI VOWEL SIGN AU <indexterm>हौ 0939 094C sort under ह् 0939 094D</indexterm>
+         </li>
+      </ul>
+   </li>
+</ul>
+</body>
+</topic>
