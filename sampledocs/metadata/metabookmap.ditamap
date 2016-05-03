@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>metadata library</booklibrary>
+        <mainbooktitle>Bookmap map</mainbooktitle>
+<booktitlealt>alternate book title</booktitlealt>
+    </booktitle>
+<bookmeta>
+<linktext>this is link text for the bookmap?</linktext>
+<searchtitle>this is search title for the bookmap?</searchtitle>
+<shortdesc>this is short description for the bookmap?</shortdesc>
+<author>Robert Anderson claims credit for this silly sample</author>
+  <authorinformation id="rcf">
+    <organizationinfo>
+      <namedetails>
+        <organizationnamedetails>
+          <organizationname>METADITA</organizationname>
+        </organizationnamedetails>
+      </namedetails>
+      <addressdetails>ATTN: metaRobert<thoroughfare>this is thorough NW</thoroughfare>
+        <locality>Glenburn, ND<postalcode>55410</postalcode></locality>
+        <country>USA</country>
+      </addressdetails>
+      <contactnumbers>
+        <contactnumber type="telephone">800-555-1212</contactnumber>
+        <contactnumber type="fax">800-555-1213</contactnumber>
+      </contactnumbers>
+      <emailaddresses><emailaddress>george@example.com</emailaddress></emailaddresses>
+      <urls><url>http://www.example.com/georgethecat</url></urls>
+   </organizationinfo>
+  </authorinformation>
+<author>AnotherAuthor</author>
+<source href="https://github.com/robander/metadita/tree/master/sampledocs" format="html"
+scope="external">source at github</source>
+<publisherinformation>
+<organization>Example Publisher Org</organization>
+<person>Example Person</person>
+<printlocation>Austin, TX</printlocation>
+<published>
+<publishtype value="first run!"/>
+<completed>
+<day>13</day>
+<month>10</month>
+<year>2222</year>
+</completed>
+</published>
+</publisherinformation>
+<critdates>
+<created date="2016-05-01" expiry="2099-12-12"/>
+<revised modified="2016-05-03" golive="2016-05-03"/>
+</critdates>
+<permissions view="all"/>
+<metadata>
+<category>testing metadata category</category>
+</metadata>
+<metadata>
+<keywords>
+<keyword>testing metadata keyword</keyword>
+</keywords>
+</metadata>
+<audience name="AUDIENCENAME" otherjob="other job?" job="other" type="audience type"
+experiencelevel="some experience" audience="set the audience" othertype="and another type"/>
+<audience audience="second audience"/>
+<category>category: sample documents</category>
+<category>category: metadata overload</category>
+<keywords>
+<keyword>sample keyword</keyword>
+<indexterm>sample indexterm</indexterm>
+</keywords>
+<keywords>
+<keyword>another sample keyword</keyword>
+<indexterm>another sample indexterm</indexterm>
+</keywords>
+<prodinfo>
+<prodname>PRODUCT NAME</prodname>
+<vrmlist>
+<vrm version="1" release="3" modification="3"/>
+</vrmlist>
+<brand>PRODUCT BRAND</brand>
+<component>PRODUCT COMPONENT</component>
+<featnum>PRODUCT FEATURE NUMBER</featnum>
+<platform platform="productPlatform">PRODUCT PLATFORM</platform>
+<prognum>PRODUCT PROGNUM</prognum>
+<series>PRODUCT SERIES</series>
+</prodinfo>
+<prodinfo>
+<prodname>PRODUCT NAME2</prodname>
+<vrmlist>
+<vrm version="12" release="32" modification="32"/>
+</vrmlist>
+<brand>PRODUCT BRAND 2</brand>
+<component>PRODUCT COMPONENT 2</component>
+<featnum>PRODUCT FEATURE NUMBER 2</featnum>
+<platform platform="productPlatform">PRODUCT PLATFORM 2</platform>
+<prognum>PRODUCT PROGNUM 2</prognum>
+<series>PRODUCT SERIES 2</series>
+</prodinfo>
+<othermeta name="mapMetadata" content="someContent"/>
+<othermeta name="moreMapMetadata" content="moreContent"/>
+<resourceid id="oneID" appname="application ONE"/>
+<resourceid appname="application TWO" id="twoID"/>
+  <bookid>
+    <bookpartno>1234abcd7890</bookpartno>
+    <booknumber>ABCD-0000-13</booknumber>
+    <maintainer href="#rcf"></maintainer>
+  </bookid>
+<bookchangehistory>
+    <reviewed>
+      <started>
+<year>2015</year>
+<month>10</month>
+</started>
+      <completed>
+<year>2016</year>
+<month>01</month>
+</completed>
+    </reviewed>
+    <edited>
+      <person>Robert the First</person>
+      <completed>
+<year>2016</year>
+<month>03</month>
+<day>15</day>
+</completed>
+    </edited>
+    <tested>
+      <organization>robert's laptop</organization>
+      <completed>
+<year>2016</year>
+<month>04</month>
+</completed>
+    </tested>
+    <approved>
+      <organization>George the Cat</organization>
+      <completed>
+<year>2016</year>
+<month>05</month>
+</completed>
+    </approved>
+    <bookevent>
+      <bookeventtype name="Decimation of issue backlog"/>
+      <completed><year>2009</year></completed>
+    </bookevent>
+  </bookchangehistory>
+<bookrights>
+<copyrfirst>
+<year>2016</year>
+</copyrfirst>
+<copyrlast>
+<year>2016</year>
+</copyrlast>
+<bookowner>
+<person>Owning Person</person>
+<organization>Owning Org</organization>
+</bookowner>
+</bookrights>
+
+<data name="test">data in topicmeta</data>
+<data name="test">more data in topicmeta</data>
+</bookmeta>
+<chapter href="simpletopic.dita">
+<topicref href="simplechildtopic.dita"/>
+</chapter>
+</bookmap>
