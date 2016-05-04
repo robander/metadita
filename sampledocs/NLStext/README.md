@@ -17,9 +17,6 @@ For each supported language:
 
 ## What's missing
 
-The following languages still need to be added to cover all languages with support in any part of DITA-OT:
- * Kazakh
-
 The following languages (at least) need index coverage that includes terms with their own character set:
  * Korean
  * Japanese
