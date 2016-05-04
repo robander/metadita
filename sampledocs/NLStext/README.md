@@ -14,3 +14,10 @@ For each supported language:
  * Sections of the bookmap are reused by conref
  * A topic specific to the language is referenced as a chapter
  * Within the topic, index terms are defined or reused by conref
+
+## Missing languages
+
+The following languages still need to be added to cover all languages with support in any part of DITA-OT:
+ * Kazakh
+ * Korean
+ * Traditional Chinese (zh-TW)
