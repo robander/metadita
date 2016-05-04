@@ -15,9 +15,12 @@ For each supported language:
  * A topic specific to the language is referenced as a chapter
  * Within the topic, index terms are defined or reused by conref
 
-## Missing languages
+## What's missing
 
 The following languages still need to be added to cover all languages with support in any part of DITA-OT:
  * Kazakh
+
+The following languages (at least) need index coverage that includes terms with their own character set:
  * Korean
- * Traditional Chinese (zh-TW)
+ * Japanese
+ * Chinese (Traditional and Simplified)
