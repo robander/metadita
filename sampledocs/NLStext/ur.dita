@@ -4,6 +4,158 @@
 <topic id="ur" xml:lang="ur">
 <title>Urdu</title>
 <shortdesc>index test</shortdesc>
+<prolog>
+<metadata>
+<keywords>
+<indexterm>أ alef with hamza above - Isolated</indexterm>
+<indexterm>إ alef with hamza below - Isolated</indexterm>
+<indexterm>آ alef with madda above - Isolated</indexterm>
+<indexterm>ى alef maksura - Isolated</indexterm>
+<indexterm>ا alef - Isolated</indexterm>
+<indexterm>ب beh - Isolated</indexterm>
+<indexterm>بھ beh + heh doachashmee</indexterm>
+<indexterm>پ peh</indexterm>
+<indexterm>پھ peh + heh doachashmee</indexterm>
+<indexterm>ت teh - Isolated</indexterm>
+<indexterm>تھ teh + heh doachashmee</indexterm>
+<indexterm>ٹ tteh</indexterm>
+<indexterm>ٹھ tteh + heh doachashmee</indexterm>
+<indexterm>ث theh - Isolated</indexterm>
+<indexterm>ج jeem - Isolated</indexterm>
+<indexterm>جھ jeem + heh doachashmee</indexterm>
+<indexterm>چ tcheh</indexterm>
+<indexterm>چھ tcheh + heh doachashmee</indexterm>
+<indexterm>ح hah - Isolated</indexterm>
+<indexterm>خ khah - Isolated</indexterm>
+<indexterm>د dal - Isolated</indexterm>
+<indexterm>دھ dal + heh doachashmee</indexterm>
+<indexterm>ڈ dhal</indexterm>
+<indexterm>ڈھ dhal + heh doachashmee</indexterm>
+<indexterm>ذ thal - Isolated</indexterm>
+<indexterm>ر reh - Isolated</indexterm>
+<indexterm>رھ reh + heh doachashmee</indexterm>
+<indexterm>ڑ rreh</indexterm>
+<indexterm>ڑھ rreh + heh doachashmee</indexterm>
+<indexterm>ز zain - Isolated</indexterm>
+<indexterm>ژ jeh</indexterm>
+<indexterm>س seen - Isolated</indexterm>
+<indexterm>ش sheen - Isolated</indexterm>
+<indexterm>ص sad</indexterm>
+<indexterm>ص tsadi - Isolated</indexterm>
+<indexterm>ض dad - Isolated</indexterm>
+<indexterm>ط tah - Isolated</indexterm>
+<indexterm>ظ zah - Isolated</indexterm>
+<indexterm>ع ain - Isolated</indexterm>
+<indexterm>غ ghain - Isolated</indexterm>
+<indexterm>ف feh - Isolated</indexterm>
+<indexterm>ک keheh</indexterm>
+<indexterm>کھ keheh + heh doachashmee</indexterm>
+<indexterm>گ gaf</indexterm>
+<indexterm>گھ gaf + heh doachashmee</indexterm>
+<indexterm>ق qaf - Isolated</indexterm>
+<indexterm>ك kaf - Isolated</indexterm>
+<indexterm>ل lam - Isolated</indexterm>
+<indexterm>لھ lam + heh doachashmee</indexterm>
+<indexterm>م meem - Isolated</indexterm>
+<indexterm>مھ meem + heh doachashmee</indexterm>
+<indexterm>ن noon - Isolated</indexterm>
+<indexterm>نھ noon + heh doachashmee</indexterm>
+<indexterm>ں noon ghunna</indexterm>
+<indexterm>ںھ noon ghunna + heh doachashmee</indexterm>
+<indexterm>ه heh - Isolated</indexterm>
+<indexterm>و waw - Isolated</indexterm>
+<indexterm>ؤ waw with hamza above - Isolated</indexterm>
+<indexterm>وھ waw + heh doachashmee</indexterm>
+<indexterm>ہ heh goal</indexterm>
+<indexterm>ۂ heh goal with hamza above</indexterm>
+<indexterm>ھ heh doachashmee</indexterm>
+<indexterm>ۃ teh marbuta goal</indexterm>
+<indexterm>ء hamza</indexterm>
+<indexterm>ی farsi yeh</indexterm>
+<indexterm>ئ arabic yeh with hamza above</indexterm>
+<indexterm>یھ farsi yeh + heh doachashmee</indexterm>
+<indexterm>ے yeh barree</indexterm>
+<indexterm>ۓ yeh barree with hamza above</indexterm>
+<indexterm>ي yeh - Isolated</indexterm>
+<indexterm>ئ yeh with hamza above - Isolated</indexterm>
+<indexterm>أب alef with hamza above - Beginning</indexterm>
+<indexterm>إب alef with hamza below - Beginning</indexterm>
+<indexterm>آب alef with madda above - Beginning</indexterm>
+<indexterm>ىب alef maksura - Beginning</indexterm>
+<indexterm>اب alef - Beginning</indexterm>
+<indexterm>بب beh - Beginning</indexterm>
+<indexterm>تب tah - Beginning</indexterm>
+<indexterm>ثب theh - Beginning</indexterm>
+<indexterm>جب jeem - Beginning</indexterm>
+<indexterm>حب hah - Beginning</indexterm>
+<indexterm>خب khah - Beginning</indexterm>
+<indexterm>دب dal - Beginning</indexterm>
+<indexterm>ذب dhal - Beginning</indexterm>
+<indexterm>رب reh - Beginning</indexterm>
+<indexterm>زب zain - Beginning</indexterm>
+<indexterm>سب seen - Beginning</indexterm>
+<indexterm>شب sheen - Beginning</indexterm>
+<indexterm>صب tsadi - Beginning</indexterm>
+<indexterm>ضب dad - Beginning</indexterm>
+<indexterm>طب tah - Beginning</indexterm>
+<indexterm>ظب zah - Beginning</indexterm>
+<indexterm>عب ain - Beginning</indexterm>
+<indexterm>غب ghain - Beginning</indexterm>
+<indexterm>فب feh - Beginning</indexterm>
+<indexterm>قب qaf - Beginning</indexterm>
+<indexterm>كب kaf - Beginning</indexterm>
+<indexterm>لب lam - Beginning</indexterm>
+<indexterm>مب meem - Beginning</indexterm>
+<indexterm>نب noon - Beginning</indexterm>
+<indexterm>هب heh - Beginning</indexterm>
+<indexterm>وب waw - Beginning</indexterm>
+<indexterm>ؤب waw with hamza above - Beginning</indexterm>
+<indexterm>يب yeh - Beginning</indexterm>
+<indexterm>ئب yeh with hamza above - Beginning</indexterm>
+<indexterm>A Alpha</indexterm>
+<indexterm>B Bravo</indexterm>
+<indexterm>C Charlie</indexterm>
+<indexterm>D Delta</indexterm>
+<indexterm>E Echo</indexterm>
+<indexterm>F Foxtrot</indexterm>
+<indexterm>G Golf</indexterm>
+<indexterm>H Hotel</indexterm>
+<indexterm>I India</indexterm>
+<indexterm>J Juliet</indexterm>
+<indexterm>K Kilo</indexterm>
+<indexterm>L Lima</indexterm>
+<indexterm>M Mike</indexterm>
+<indexterm>N November</indexterm>
+<indexterm>O Oscar</indexterm>
+<indexterm>P Papa</indexterm>
+<indexterm>Q Quebec</indexterm>
+<indexterm>R Romeo</indexterm>
+<indexterm>S Sierra</indexterm>
+<indexterm>T Tango</indexterm>
+<indexterm>U Uniform</indexterm>
+<indexterm>V Victor</indexterm>
+<indexterm>W Whiskey</indexterm>
+<indexterm>X X-ray</indexterm>
+<indexterm>Y Yankee</indexterm>
+<indexterm>Z Zulu</indexterm>
+<indexterm>0 Zero</indexterm>
+<indexterm>1 One</indexterm>
+<indexterm>2 Two</indexterm>
+<indexterm>3 Three</indexterm>
+<indexterm>4 Four</indexterm>
+<indexterm>5 Five</indexterm>
+<indexterm>6 Six</indexterm>
+<indexterm>7 Seven</indexterm>
+<indexterm>8 Eight</indexterm>
+<indexterm>9 Nine</indexterm>
+<indexterm>$ Dollar</indexterm>
+<indexterm>* Asterisk</indexterm>
+<indexterm>? Question Mark</indexterm>
+<indexterm>+ Plus</indexterm>
+<indexterm>- Minus</indexterm>
+</keywords>
+</metadata>
+</prolog>
 <body>
 <ul conref="common-latin.dita#latin/allchars">
 <li>conref</li>
