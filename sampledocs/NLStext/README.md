@@ -21,4 +21,3 @@ The following languages (at least) need index coverage that includes terms with 
  * Korean
  * Japanese
  * Chinese (Traditional and Simplified)
- * Urdu
