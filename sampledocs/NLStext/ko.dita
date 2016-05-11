@@ -5,6 +5,44 @@
 <title>Korean</title>
 <shortdesc>index test</shortdesc>
 <body>
+<ul>
+<li>ᄀ (x1100)<indexterm>ᄀ (x1100)</indexterm> 가 (xAC00)<indexterm>가 (xAC00)</indexterm> 낗 (xB097)
+<indexterm>낗 (xB097)</indexterm>
+</li>
+<li>ᄁ (x1101)<indexterm>ᄁ (x1101)</indexterm> 까 (xAE4C)<indexterm>까 (xAE4C)</indexterm></li>
+<li>ᄂ (x1102)<indexterm>ᄂ (x1102)</indexterm> 나 (xB098)<indexterm>나 (xB098)</indexterm> 닣 (xB2E3)
+<indexterm>닣 (xB2E3)</indexterm></li>
+<li>ᄃ (x1103)<indexterm>ᄃ (x1103)</indexterm> 다 (xB2E4)<indexterm>다 (xB2E4)</indexterm></li>
+<li>ᄄ (x1104)<indexterm>ᄄ (x1104)</indexterm> 따 (xB530)<indexterm>따 (xB530)</indexterm>  띻 (xB77B)
+<indexterm>띻 (xB77B)</indexterm></li>
+<li>ᄅ (x1105)<indexterm>ᄅ (x1105)</indexterm> 라 (xB77C)<indexterm>라 (xB77C)</indexterm> 맇 (xB9C7)
+<indexterm>맇 (xB9C7)</indexterm></li>
+<li>ᄆ (x1106)<indexterm>ᄆ (x1106)</indexterm> 마 (xB9C8)<indexterm>마 (xB9C8)</indexterm>밓 (xBC13)
+<indexterm>밓 (xBC13)</indexterm></li>
+<li>ᄇ (x1107)<indexterm>ᄇ (x1107)</indexterm> 바 (xBC14)<indexterm>바 (xBC14)</indexterm></li>
+<li>ᄈ (x1108)<indexterm>ᄈ (x1108)</indexterm> 빠 (xBE60)<indexterm>빠 (xBE60)</indexterm> 삫
+(xC0AB)<indexterm>삫 (xC0AB)</indexterm></li>
+<li>ᄉ (x1109)<indexterm>ᄉ (x1109)</indexterm> 사 (xC0AC)<indexterm>사 (xC0AC)</indexterm></li>
+<li>ᄊ (x110A)<indexterm>ᄊ (x110A)</indexterm> 싸 (xC2F8)<indexterm>싸 (xC2F8)</indexterm>  앃
+(xC543)<indexterm>앃 (xC543)</indexterm></li>
+<li>ᄋ (x110B)<indexterm>ᄋ (x110B)</indexterm> 아 (xC544)<indexterm>아 (xC544)</indexterm>
+</li>
+<li>ᄌ (x110C)<indexterm>ᄌ (x110C)</indexterm> 자 (xC790)<indexterm>자 (xC790)</indexterm> 잏
+(xC78F)<indexterm>잏 (xC78F)</indexterm></li>
+<li>ᄍ (x110D)<indexterm>ᄍ (x110D)</indexterm> 짜 (xC9DC)<indexterm>짜 (xC9DC)</indexterm> 찧
+(xCC27)<indexterm>찧 (xCC27)</indexterm></li>
+<li>ᄎ (x110E)<indexterm>ᄎ (x110E)</indexterm> 차 (xCC28)<indexterm>차 (xCC28)</indexterm>  칳
+(xCE73)<indexterm>칳 (xCE73)</indexterm></li>
+<li>ᄏ (x110F)<indexterm>ᄏ (x110F)</indexterm> 카 (xCE74)<indexterm>카 (xCE74)</indexterm> 킿
+(xD0BF)<indexterm>킿 (xD0BF)</indexterm></li>
+<li>ᄐ (x1110)<indexterm>ᄐ (x1110)</indexterm> 타 (xD0C0)<indexterm>타 (xD0C0)</indexterm> 팋
+(xD30B)<indexterm>팋 (xD30B)</indexterm></li>
+<li>ᄑ (x1111)<indexterm>ᄑ (x1111)</indexterm> 파 (xD30C)<indexterm>파 (xD30C)</indexterm> 핗
+(xD557)<indexterm>핗 (xD557)</indexterm></li>
+<li>ᄒ (x1112)<indexterm>ᄒ (x1112)</indexterm> 하 (xD558)<indexterm>하 (xD558)</indexterm> 힣
+(xD7A3)<indexterm>힣 (xD7A3)</indexterm></li>
+</ul>
+
 <ul conref="common-latin.dita#latin/allchars">
 <li>conref</li>
 </ul>
