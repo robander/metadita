@@ -5,6 +5,177 @@
 <title>Traditional Chinese</title>
 <shortdesc>index test</shortdesc>
 <body>
+<ul>
+<li>String: 圖 表 下一個主題 前一個主題 上層主題 必要修正 草稿註解 選項 敘述 選擇性的 必要性的 略過語法圖表 讀取語法圖表 蜊曹羲宎 蜊曹賦旰 索引 特殊字元 數字 結尾附註
+插圖 語法 類型 值 註 註 提示 捷徑 重要 小心 注意 危險 記住 限制 警告 目錄 相關概念 相關工作 相關參考 相關資訊 必讀 必讀 或 <indexterm> </indexterm>
+<indexterm>圖</indexterm>
+<indexterm>表</indexterm>
+<indexterm>下</indexterm>
+<indexterm>一</indexterm>
+<indexterm>個</indexterm>
+<indexterm>主</indexterm>
+<indexterm>題</indexterm>
+<indexterm>前</indexterm>
+<indexterm>上</indexterm>
+<indexterm>層</indexterm>
+<indexterm>必</indexterm>
+<indexterm>要</indexterm>
+<indexterm>修</indexterm>
+<indexterm>正</indexterm>
+<indexterm>草</indexterm>
+<indexterm>稿</indexterm>
+<indexterm>註</indexterm>
+<indexterm>解</indexterm>
+<indexterm>選</indexterm>
+<indexterm>項</indexterm>
+<indexterm>敘</indexterm>
+<indexterm>述</indexterm>
+<indexterm>擇</indexterm>
+<indexterm>性</indexterm>
+<indexterm>的</indexterm>
+<indexterm>略</indexterm>
+<indexterm>過</indexterm>
+<indexterm>語</indexterm>
+<indexterm>法</indexterm>
+<indexterm>讀</indexterm>
+<indexterm>取</indexterm>
+<indexterm>蜊</indexterm>
+<indexterm>曹</indexterm>
+<indexterm>羲</indexterm>
+<indexterm>宎</indexterm>
+<indexterm>賦</indexterm>
+<indexterm>旰</indexterm>
+<indexterm>索</indexterm>
+<indexterm>引</indexterm>
+<indexterm>特</indexterm>
+<indexterm>殊</indexterm>
+<indexterm>字</indexterm>
+<indexterm>元</indexterm>
+<indexterm>數</indexterm>
+<indexterm>結</indexterm>
+<indexterm>尾</indexterm>
+<indexterm>附</indexterm>
+<indexterm>插</indexterm>
+<indexterm>類</indexterm>
+<indexterm>型</indexterm>
+<indexterm>值</indexterm>
+<indexterm>提</indexterm>
+<indexterm>示</indexterm>
+<indexterm>捷</indexterm>
+<indexterm>徑</indexterm>
+<indexterm>重</indexterm>
+<indexterm>小</indexterm>
+<indexterm>心</indexterm>
+<indexterm>注</indexterm>
+<indexterm>意</indexterm>
+<indexterm>危</indexterm>
+<indexterm>險</indexterm>
+<indexterm>記</indexterm>
+<indexterm>住</indexterm>
+<indexterm>限</indexterm>
+<indexterm>制</indexterm>
+<indexterm>警</indexterm>
+<indexterm>告</indexterm>
+<indexterm>目</indexterm>
+<indexterm>錄</indexterm>
+<indexterm>相</indexterm>
+<indexterm>關</indexterm>
+<indexterm>概</indexterm>
+<indexterm>念</indexterm>
+<indexterm>工</indexterm>
+<indexterm>作</indexterm>
+<indexterm>參</indexterm>
+<indexterm>考</indexterm>
+<indexterm>資</indexterm>
+<indexterm>訊</indexterm>
+<indexterm>或</indexterm>
+</li>
+<li>String: 執行這項作業的原因和時機 範例 開始之前 下一步 程序 程序 結果 <indexterm>執</indexterm>
+<indexterm>行</indexterm>
+<indexterm>這</indexterm>
+<indexterm>業</indexterm>
+<indexterm>原</indexterm>
+<indexterm>因</indexterm>
+<indexterm>和</indexterm>
+<indexterm>時</indexterm>
+<indexterm>機</indexterm>
+<indexterm>範</indexterm>
+<indexterm>例</indexterm>
+<indexterm>開</indexterm>
+<indexterm>始</indexterm>
+<indexterm>之</indexterm>
+<indexterm>步</indexterm>
+<indexterm>程</indexterm>
+<indexterm>序</indexterm>
+<indexterm>果</indexterm>
+</li>
+<li>String:  |  |  <indexterm> </indexterm>
+<indexterm>|</indexterm>
+</li>
+<li>String:  | 前言 |  <indexterm>言</indexterm>
+</li>
+<li>String: • <indexterm>•</indexterm>
+</li>
+<li>String: 繼續 <indexterm>繼</indexterm>
+<indexterm>續</indexterm>
+</li>
+<li>String: 請參閱<indexterm>請</indexterm>
+<indexterm>閱</indexterm>
+</li>
+<li>String: 請亦參閱<indexterm>亦</indexterm>
+</li>
+<li>String: 第 <indexterm>第</indexterm>
+</li>
+<li>String: 章  <indexterm>章</indexterm>
+</li>
+<li>String: 附錄 :  <indexterm>:</indexterm>
+</li>
+<li>String: 篇  <indexterm>篇</indexterm>
+</li>
+<li>String: [必要修正] <indexterm>[</indexterm>
+<indexterm>]</indexterm>
+</li>
+<li>String: 頁<indexterm>頁</indexterm>
+</li>
+<li>String: 名詞解釋 <indexterm>名</indexterm>
+<indexterm>詞</indexterm>
+<indexterm>釋</indexterm></li>
+</ul>
+<ul>
+<li>Headings from the IBM index sort output</li>
+<li>一劃 <indexterm>一劃 heading 1</indexterm></li>
+<li>二劃 <indexterm>二劃 heading 2</indexterm></li>
+<li>三劃 <indexterm>三劃 heading 3</indexterm></li>
+<li>四劃 <indexterm>四劃 heading 4</indexterm></li>
+<li>五劃 <indexterm>五劃 heading 5</indexterm></li>
+<li>六劃<indexterm>六劃 heading 6</indexterm></li>
+<li>七劃<indexterm>七劃 heading 7</indexterm></li>
+<li>八劃 <indexterm>八劃 heading 8</indexterm></li>
+<li>九劃 <indexterm>九劃 heading 9</indexterm></li>
+<li>十劃 <indexterm>十劃 heading 10</indexterm></li>
+<li>十一劃 <indexterm>十一劃 heading 11</indexterm></li>
+<li>十二劃 <indexterm>十二劃 heading 12</indexterm></li>
+<li>十三劃 <indexterm>十三劃 heading 13</indexterm></li>
+<li>十四劃 <indexterm>十四劃 heading14</indexterm></li>
+<li>十五劃 <indexterm>十五劃 heading15</indexterm></li>
+<li>十六劃<indexterm>十六劃 heading16</indexterm></li>
+<li>十七劃<indexterm>十七劃 heading17</indexterm></li>
+<li>十八劃 <indexterm>十八劃 heading18</indexterm></li>
+<li>十九劃 <indexterm>十九劃 heading19</indexterm></li>
+<li>二十劃 <indexterm>二十劃 heading20</indexterm></li>
+<li>二十一劃 <indexterm>二十一劃 heading 21</indexterm></li>
+<li>二十二劃 <indexterm>二十二劃 heading 22</indexterm></li>
+<li>二十三劃 <indexterm>二十三劃 heading 23</indexterm></li>
+<li>二十四劃 <indexterm>二十四劃 heading24</indexterm></li>
+<li>二十五劃 <indexterm>二十五劃 heading25</indexterm></li>
+<li>二十六劃<indexterm>二十六劃 heading26</indexterm></li>
+<li>二十七劃<indexterm>二十七劃 heading27</indexterm></li>
+<li>二十八劃 <indexterm>二十八劃 heading28</indexterm></li>
+<li>二十九劃 <indexterm>二十九劃 heading29</indexterm></li>
+<li>特殊字元 <indexterm>特殊字元 special characters</indexterm></li>
+<li>數字 <indexterm>數字 numerics</indexterm></li>
+</ul>
+
 <ul conref="common-latin.dita#latin/allchars">
 <li>conref</li>
 </ul>
