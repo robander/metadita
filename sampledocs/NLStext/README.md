@@ -20,4 +20,4 @@ For each supported language:
 The following languages (at least) need index coverage that includes terms with their own character set:
  * Korean
  * Japanese
- * Chinese (Traditional and Simplified)
+ * Simplified Chinese
