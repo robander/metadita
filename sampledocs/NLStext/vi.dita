@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="vi" xml:lang="vi">
+<title>Vietnamese</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul>
+<li>a (x0061)<indexterm>a (x0061)</indexterm> A (x0041)<indexterm>A (x0041)</indexterm> A
+(x0041)<indexterm>A (x0041)</indexterm> à (x00E0)<indexterm>à (x00E0)</indexterm> à
+(x00E0)<indexterm>à (x00E0)</indexterm> À (x00C0)<indexterm>À (x00C0)</indexterm> À
+(x00C0)<indexterm>À (x00C0)</indexterm> ả (x1EA3)<indexterm>ả (x1EA3)</indexterm> ả
+(x1EA3)<indexterm>ả (x1EA3)</indexterm> Ả (x1EA2)<indexterm>Ả (x1EA2)</indexterm> Ả
+(x1EA2)<indexterm>Ả (x1EA2)</indexterm> ã (x00E3)<indexterm>ã (x00E3)</indexterm> ã
+(x00E3)<indexterm>ã (x00E3)</indexterm> Ã (x00C3)<indexterm>Ã (x00C3)</indexterm> Ã
+(x00C3)<indexterm>Ã (x00C3)</indexterm> á (x00E1)<indexterm>á (x00E1)</indexterm> á
+(x00E1)<indexterm>á (x00E1)</indexterm> Á (x00C1)<indexterm>Á (x00C1)</indexterm> Á
+(x00C1)<indexterm>Á (x00C1)</indexterm> ạ (x1EA1)<indexterm>ạ (x1EA1)</indexterm> ạ
+(x1EA1)<indexterm>ạ (x1EA1)</indexterm> Ạ (x1EA0)<indexterm>Ạ (x1EA0)</indexterm> Ạ
+(x1EA0)<indexterm>Ạ (x1EA0)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>ă (x0103)<indexterm>ă (x0103)</indexterm> Ă (x0102)<indexterm>Ă (x0102)</indexterm> Ă
+(x0102)<indexterm>Ă (x0102)</indexterm> ằ (x1EB1)<indexterm>ằ (x1EB1)</indexterm> ằ
+(x1EB1)<indexterm>ằ (x1EB1)</indexterm> Ằ (x1EB0)<indexterm>Ằ (x1EB0)</indexterm> Ằ
+(x1EB0)<indexterm>Ằ (x1EB0)</indexterm> ẳ (x1EB3)<indexterm>ẳ (x1EB3)</indexterm> ẳ
+(x1EB3)<indexterm>ẳ (x1EB3)</indexterm> Ẳ (x1EB2)<indexterm>Ẳ (x1EB2)</indexterm> Ẳ
+(x1EB2)<indexterm>Ẳ (x1EB2)</indexterm> ẵ (x1EB5)<indexterm>ẵ (x1EB5)</indexterm> ẵ
+(x1EB5)<indexterm>ẵ (x1EB5)</indexterm> Ẵ (x1EB4)<indexterm>Ẵ (x1EB4)</indexterm> Ẵ
+(x1EB4)<indexterm>Ẵ (x1EB4)</indexterm> ắ (x1EAF)<indexterm>ắ (x1EAF)</indexterm> ắ
+(x1EAF)<indexterm>ắ (x1EAF)</indexterm> Ắ (x1EAE)<indexterm>Ắ (x1EAE)</indexterm> Ắ
+(x1EAE)<indexterm>Ắ (x1EAE)</indexterm> ặ (x1EB7)<indexterm>ặ (x1EB7)</indexterm> ặ
+(x1EB7)<indexterm>ặ (x1EB7)</indexterm> Ặ (x1EB6)<indexterm>Ặ (x1EB6)</indexterm> Ặ
+(x1EB6)<indexterm>Ặ (x1EB6)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>â (x00E2)<indexterm>â (x00E2)</indexterm> Â (x00C2)<indexterm>Â (x00C2)</indexterm> Â
+(x00C2)<indexterm>Â (x00C2)</indexterm> ầ (x1EA7)<indexterm>ầ (x1EA7)</indexterm> ầ
+(x1EA7)<indexterm>ầ (x1EA7)</indexterm> Ầ (x1EA6)<indexterm>Ầ (x1EA6)</indexterm> Ầ
+(x1EA6)<indexterm>Ầ (x1EA6)</indexterm> ẩ (x1EA9)<indexterm>ẩ (x1EA9)</indexterm> ẩ
+(x1EA9)<indexterm>ẩ (x1EA9)</indexterm> Ẩ (x1EA8)<indexterm>Ẩ (x1EA8)</indexterm> Ẩ
+(x1EA8)<indexterm>Ẩ (x1EA8)</indexterm> ẫ (x1EAB)<indexterm>ẫ (x1EAB)</indexterm> ẫ
+(x1EAB)<indexterm>ẫ (x1EAB)</indexterm> Ẫ (x1EAA)<indexterm>Ẫ (x1EAA)</indexterm> Ẫ
+(x1EAA)<indexterm>Ẫ (x1EAA)</indexterm> ấ (x1EA5)<indexterm>ấ (x1EA5)</indexterm> ấ
+(x1EA5)<indexterm>ấ (x1EA5)</indexterm> Ấ (x1EA4)<indexterm>Ấ (x1EA4)</indexterm> Ấ
+(x1EA4)<indexterm>Ấ (x1EA4)</indexterm> ậ (x1EAD)<indexterm>ậ (x1EAD)</indexterm> ậ
+(x1EAD)<indexterm>ậ (x1EAD)</indexterm> Ậ (x1EAC)<indexterm>Ậ (x1EAC)</indexterm> Ậ
+(x1EAC)<indexterm>Ậ (x1EAC)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>b (x0062)<indexterm>b (x0062)</indexterm> B (x0042)<indexterm>B (x0042)</indexterm> B
+(x0042)<indexterm>B (x0042)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>c (x0063)<indexterm>c (x0063)</indexterm> C (x0043)<indexterm>C (x0043)</indexterm> C
+(x0043)<indexterm>C (x0043)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>d (x0064)<indexterm>d (x0064)</indexterm> D (x0044)<indexterm>D (x0044)</indexterm> D
+(x0044)<indexterm>D (x0044)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>đ (x0111)<indexterm>đ (x0111)</indexterm> Đ (x0110)<indexterm>Đ (x0110)</indexterm> Đ
+(x0110)<indexterm>Đ (x0110)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>e (x0065)<indexterm>e (x0065)</indexterm> E (x0045)<indexterm>E (x0045)</indexterm> E
+(x0045)<indexterm>E (x0045)</indexterm> è (x00E8)<indexterm>è (x00E8)</indexterm> è
+(x00E8)<indexterm>è (x00E8)</indexterm> È (x00C8)<indexterm>È (x00C8)</indexterm> È
+(x00C8)<indexterm>È (x00C8)</indexterm> ẻ (x1EBB)<indexterm>ẻ (x1EBB)</indexterm> ẻ
+(x1EBB)<indexterm>ẻ (x1EBB)</indexterm> Ẻ (x1EBA)<indexterm>Ẻ (x1EBA)</indexterm> Ẻ
+(x1EBA)<indexterm>Ẻ (x1EBA)</indexterm> ẽ (x1EBD)<indexterm>ẽ (x1EBD)</indexterm> ẽ
+(x1EBD)<indexterm>ẽ (x1EBD)</indexterm> Ẽ (x1EBC)<indexterm>Ẽ (x1EBC)</indexterm> Ẽ
+(x1EBC)<indexterm>Ẽ (x1EBC)</indexterm> é (x00E9)<indexterm>é (x00E9)</indexterm> é
+(x00E9)<indexterm>é (x00E9)</indexterm> É (x00C9)<indexterm>É (x00C9)</indexterm> É
+(x00C9)<indexterm>É (x00C9)</indexterm> ẹ (x1EB9)<indexterm>ẹ (x1EB9)</indexterm> ẹ
+(x1EB9)<indexterm>ẹ (x1EB9)</indexterm> Ẹ (x1EB8)<indexterm>Ẹ (x1EB8)</indexterm> Ẹ
+(x1EB8)<indexterm>Ẹ (x1EB8)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>ê (x00EA)<indexterm>ê (x00EA)</indexterm> Ê (x00CA)<indexterm>Ê (x00CA)</indexterm> Ê
+(x00CA)<indexterm>Ê (x00CA)</indexterm> ề (x1EC1)<indexterm>ề (x1EC1)</indexterm> ề
+(x1EC1)<indexterm>ề (x1EC1)</indexterm> Ề (x1EC0)<indexterm>Ề (x1EC0)</indexterm> Ề
+(x1EC0)<indexterm>Ề (x1EC0)</indexterm> ể (x1EC3)<indexterm>ể (x1EC3)</indexterm> ể
+(x1EC3)<indexterm>ể (x1EC3)</indexterm> Ể (x1EC2)<indexterm>Ể (x1EC2)</indexterm> Ể
+(x1EC2)<indexterm>Ể (x1EC2)</indexterm> ễ (x1EC5)<indexterm>ễ (x1EC5)</indexterm> ễ
+(x1EC5)<indexterm>ễ (x1EC5)</indexterm> Ễ (x1EC4)<indexterm>Ễ (x1EC4)</indexterm> Ễ
+(x1EC4)<indexterm>Ễ (x1EC4)</indexterm> ế (x1EBF)<indexterm>ế (x1EBF)</indexterm> ế
+(x1EBF)<indexterm>ế (x1EBF)</indexterm> Ế (x1EBE)<indexterm>Ế (x1EBE)</indexterm> Ế
+(x1EBE)<indexterm>Ế (x1EBE)</indexterm> ệ (x1EC7)<indexterm>ệ (x1EC7)</indexterm> ệ
+(x1EC7)<indexterm>ệ (x1EC7)</indexterm> Ệ (x1EC6)<indexterm>Ệ (x1EC6)</indexterm> Ệ
+(x1EC6)<indexterm>Ệ (x1EC6)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>g (x0067)<indexterm>g (x0067)</indexterm> G (x0047)<indexterm>G (x0047)</indexterm> G
+(x0047)<indexterm>G (x0047)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>h (x0068)<indexterm>h (x0068)</indexterm> H (x0048)<indexterm>H (x0048)</indexterm> H
+(x0048)<indexterm>H (x0048)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>i (x0069)<indexterm>i (x0069)</indexterm> I (x0049)<indexterm>I (x0049)</indexterm> I
+(x0049)<indexterm>I (x0049)</indexterm> ì (x00EC)<indexterm>ì (x00EC)</indexterm> ì
+(x00EC)<indexterm>ì (x00EC)</indexterm> Ì (x00CC)<indexterm>Ì (x00CC)</indexterm> Ì
+(x00CC)<indexterm>Ì (x00CC)</indexterm> ỉ (x1EC9)<indexterm>ỉ (x1EC9)</indexterm> ỉ
+(x1EC9)<indexterm>ỉ (x1EC9)</indexterm> Ỉ (x1EC8)<indexterm>Ỉ (x1EC8)</indexterm> Ỉ
+(x1EC8)<indexterm>Ỉ (x1EC8)</indexterm> ĩ (x0129)<indexterm>ĩ (x0129)</indexterm> ĩ
+(x0129)<indexterm>ĩ (x0129)</indexterm> Ĩ (x0128)<indexterm>Ĩ (x0128)</indexterm> Ĩ
+(x0128)<indexterm>Ĩ (x0128)</indexterm> í (x00ED)<indexterm>í (x00ED)</indexterm> í
+(x00ED)<indexterm>í (x00ED)</indexterm> Í (x00CD)<indexterm>Í (x00CD)</indexterm> Í
+(x00CD)<indexterm>Í (x00CD)</indexterm> ị (x1ECB)<indexterm>ị (x1ECB)</indexterm> ị
+(x1ECB)<indexterm>ị (x1ECB)</indexterm> Ị (x1ECA)<indexterm>Ị (x1ECA)</indexterm> Ị
+(x1ECA)<indexterm>Ị (x1ECA)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>k (x006B)<indexterm>k (x006B)</indexterm> K (x004B)<indexterm>K (x004B)</indexterm> K
+(x004B)<indexterm>K (x004B)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>l (x006C)<indexterm>l (x006C)</indexterm> L (x004C)<indexterm>L (x004C)</indexterm> L
+(x004C)<indexterm>L (x004C)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>m (x006D)<indexterm>m (x006D)</indexterm> M (x004D)<indexterm>M (x004D)</indexterm> M
+(x004D)<indexterm>M (x004D)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>n (x006E)<indexterm>n (x006E)</indexterm> N (x004E)<indexterm>N (x004E)</indexterm> N
+(x004E)<indexterm>N (x004E)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>o (x006F)<indexterm>o (x006F)</indexterm> O (x004F)<indexterm>O (x004F)</indexterm> O
+(x004F)<indexterm>O (x004F)</indexterm> ò (x00F2)<indexterm>ò (x00F2)</indexterm> ò
+(x00F2)<indexterm>ò (x00F2)</indexterm> Ò (x00D2)<indexterm>Ò (x00D2)</indexterm> Ò
+(x00D2)<indexterm>Ò (x00D2)</indexterm> ỏ (x1ECF)<indexterm>ỏ (x1ECF)</indexterm> ỏ
+(x1ECF)<indexterm>ỏ (x1ECF)</indexterm> Ỏ (x1ECE)<indexterm>Ỏ (x1ECE)</indexterm> Ỏ
+(x1ECE)<indexterm>Ỏ (x1ECE)</indexterm> õ (x00F5)<indexterm>õ (x00F5)</indexterm> õ
+(x00F5)<indexterm>õ (x00F5)</indexterm> Õ (x00D5)<indexterm>Õ (x00D5)</indexterm> Õ
+(x00D5)<indexterm>Õ (x00D5)</indexterm> ó (x00F3)<indexterm>ó (x00F3)</indexterm> ó
+(x00F3)<indexterm>ó (x00F3)</indexterm> Ó (x00D3)<indexterm>Ó (x00D3)</indexterm> Ó
+(x00D3)<indexterm>Ó (x00D3)</indexterm> ọ (x1ECD)<indexterm>ọ (x1ECD)</indexterm> ọ
+(x1ECD)<indexterm>ọ (x1ECD)</indexterm> Ọ (x1ECC)<indexterm>Ọ (x1ECC)</indexterm> Ọ
+(x1ECC)<indexterm>Ọ (x1ECC)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>ô (x00F4)<indexterm>ô (x00F4)</indexterm> Ô (x00D4)<indexterm>Ô (x00D4)</indexterm> Ô
+(x00D4)<indexterm>Ô (x00D4)</indexterm> ồ (x1ED3)<indexterm>ồ (x1ED3)</indexterm> ồ
+(x1ED3)<indexterm>ồ (x1ED3)</indexterm> Ồ (x1ED2)<indexterm>Ồ (x1ED2)</indexterm> Ồ
+(x1ED2)<indexterm>Ồ (x1ED2)</indexterm> ổ (x1ED5)<indexterm>ổ (x1ED5)</indexterm> ổ
+(x1ED5)<indexterm>ổ (x1ED5)</indexterm> Ổ (x1ED4)<indexterm>Ổ (x1ED4)</indexterm> Ổ
+(x1ED4)<indexterm>Ổ (x1ED4)</indexterm> ỗ (x1ED7)<indexterm>ỗ (x1ED7)</indexterm> ỗ
+(x1ED7)<indexterm>ỗ (x1ED7)</indexterm> Ỗ (x1ED6)<indexterm>Ỗ (x1ED6)</indexterm> Ỗ
+(x1ED6)<indexterm>Ỗ (x1ED6)</indexterm> ố (x1ED1)<indexterm>ố (x1ED1)</indexterm> ố
+(x1ED1)<indexterm>ố (x1ED1)</indexterm> Ố (x1ED0)<indexterm>Ố (x1ED0)</indexterm> Ố
+(x1ED0)<indexterm>Ố (x1ED0)</indexterm> ộ (x1ED9)<indexterm>ộ (x1ED9)</indexterm> ộ
+(x1ED9)<indexterm>ộ (x1ED9)</indexterm> Ộ (x1ED8)<indexterm>Ộ (x1ED8)</indexterm> Ộ
+(x1ED8)<indexterm>Ộ (x1ED8)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>ơ (x01A1)<indexterm>ơ (x01A1)</indexterm> Ơ (x01A0)<indexterm>Ơ (x01A0)</indexterm> Ơ
+(x01A0)<indexterm>Ơ (x01A0)</indexterm> ờ (x1EDD)<indexterm>ờ (x1EDD)</indexterm> ờ
+(x1EDD)<indexterm>ờ (x1EDD)</indexterm> Ờ (x1EDC)<indexterm>Ờ (x1EDC)</indexterm> Ờ
+(x1EDC)<indexterm>Ờ (x1EDC)</indexterm> ở (x1EDF)<indexterm>ở (x1EDF)</indexterm> ở
+(x1EDF)<indexterm>ở (x1EDF)</indexterm> Ở (x1EDE)<indexterm>Ở (x1EDE)</indexterm> Ở
+(x1EDE)<indexterm>Ở (x1EDE)</indexterm> ỡ (x1EE1)<indexterm>ỡ (x1EE1)</indexterm> ỡ
+(x1EE1)<indexterm>ỡ (x1EE1)</indexterm> Ỡ (x1EE0)<indexterm>Ỡ (x1EE0)</indexterm> Ỡ
+(x1EE0)<indexterm>Ỡ (x1EE0)</indexterm> ớ (x1EDB)<indexterm>ớ (x1EDB)</indexterm> ớ
+(x1EDB)<indexterm>ớ (x1EDB)</indexterm> Ớ (x1EDA)<indexterm>Ớ (x1EDA)</indexterm> Ớ
+(x1EDA)<indexterm>Ớ (x1EDA)</indexterm> ợ (x1EE3)<indexterm>ợ (x1EE3)</indexterm> ợ
+(x1EE3)<indexterm>ợ (x1EE3)</indexterm> Ợ (x1EE2)<indexterm>Ợ (x1EE2)</indexterm> Ợ
+(x1EE2)<indexterm>Ợ (x1EE2)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>p (x0070)<indexterm>p (x0070)</indexterm> P (x0050)<indexterm>P (x0050)</indexterm> P
+(x0050)<indexterm>P (x0050)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>q (x0071)<indexterm>q (x0071)</indexterm> Q (x0051)<indexterm>Q (x0051)</indexterm> Q
+(x0051)<indexterm>Q (x0051)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>r (x0072)<indexterm>r (x0072)</indexterm> R (x0052)<indexterm>R (x0052)</indexterm> R
+(x0052)<indexterm>R (x0052)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>s (x0073)<indexterm>s (x0073)</indexterm> S (x0053)<indexterm>S (x0053)</indexterm> S
+(x0053)<indexterm>S (x0053)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>t (x0074)<indexterm>t (x0074)</indexterm> T (x0054)<indexterm>T (x0054)</indexterm> T
+(x0054)<indexterm>T (x0054)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>u (x0075)<indexterm>u (x0075)</indexterm> U (x0055)<indexterm>U (x0055)</indexterm> U
+(x0055)<indexterm>U (x0055)</indexterm> ù (x00F9)<indexterm>ù (x00F9)</indexterm> ù
+(x00F9)<indexterm>ù (x00F9)</indexterm> Ù (x00D9)<indexterm>Ù (x00D9)</indexterm> Ù
+(x00D9)<indexterm>Ù (x00D9)</indexterm> ủ (x1EE7)<indexterm>ủ (x1EE7)</indexterm> ủ
+(x1EE7)<indexterm>ủ (x1EE7)</indexterm> Ủ (x1EE6)<indexterm>Ủ (x1EE6)</indexterm> Ủ
+(x1EE6)<indexterm>Ủ (x1EE6)</indexterm> ũ (x0169)<indexterm>ũ (x0169)</indexterm> ũ
+(x0169)<indexterm>ũ (x0169)</indexterm> Ũ (x0168)<indexterm>Ũ (x0168)</indexterm> Ũ
+(x0168)<indexterm>Ũ (x0168)</indexterm> ú (x00FA)<indexterm>ú (x00FA)</indexterm> ú
+(x00FA)<indexterm>ú (x00FA)</indexterm> Ú (x00DA)<indexterm>Ú (x00DA)</indexterm> Ú
+(x00DA)<indexterm>Ú (x00DA)</indexterm> ụ (x1EE5)<indexterm>ụ (x1EE5)</indexterm> ụ
+(x1EE5)<indexterm>ụ (x1EE5)</indexterm> Ụ (x1EE4)<indexterm>Ụ (x1EE4)</indexterm> Ụ
+(x1EE4)<indexterm>Ụ (x1EE4)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>ư (x01B0)<indexterm>ư (x01B0)</indexterm> Ư (x01AF)<indexterm>Ư (x01AF)</indexterm> Ư
+(x01AF)<indexterm>Ư (x01AF)</indexterm> ừ (x1EEB)<indexterm>ừ (x1EEB)</indexterm> ừ
+(x1EEB)<indexterm>ừ (x1EEB)</indexterm> Ừ (x1EEA)<indexterm>Ừ (x1EEA)</indexterm> Ừ
+(x1EEA)<indexterm>Ừ (x1EEA)</indexterm> ử (x1EED)<indexterm>ử (x1EED)</indexterm> ử
+(x1EED)<indexterm>ử (x1EED)</indexterm> Ử (x1EEC)<indexterm>Ử (x1EEC)</indexterm> Ử
+(x1EEC)<indexterm>Ử (x1EEC)</indexterm> ữ (x1EEF)<indexterm>ữ (x1EEF)</indexterm> ữ
+(x1EEF)<indexterm>ữ (x1EEF)</indexterm> Ữ (x1EEE)<indexterm>Ữ (x1EEE)</indexterm> Ữ
+(x1EEE)<indexterm>Ữ (x1EEE)</indexterm> ứ (x1EE9)<indexterm>ứ (x1EE9)</indexterm> ứ
+(x1EE9)<indexterm>ứ (x1EE9)</indexterm> Ứ (x1EE8)<indexterm>Ứ (x1EE8)</indexterm> Ứ
+(x1EE8)<indexterm>Ứ (x1EE8)</indexterm> ự (x1EF1)<indexterm>ự (x1EF1)</indexterm> ự
+(x1EF1)<indexterm>ự (x1EF1)</indexterm> Ự (x1EF0)<indexterm>Ự (x1EF0)</indexterm> Ự
+(x1EF0)<indexterm>Ự (x1EF0)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>v (x0076)<indexterm>v (x0076)</indexterm> V (x0056)<indexterm>V (x0056)</indexterm> V
+(x0056)<indexterm>V (x0056)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>x (x0078)<indexterm>x (x0078)</indexterm> X (x0058)<indexterm>X (x0058)</indexterm> X
+(x0058)<indexterm>X (x0058)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+<li>y (x0079)<indexterm>y (x0079)</indexterm> Y (x0059)<indexterm>Y (x0059)</indexterm> Y
+(x0059)<indexterm>Y (x0059)</indexterm> ỳ (x1EF3)<indexterm>ỳ (x1EF3)</indexterm> ỳ
+(x1EF3)<indexterm>ỳ (x1EF3)</indexterm> Ỳ (x1EF2)<indexterm>Ỳ (x1EF2)</indexterm> Ỳ
+(x1EF2)<indexterm>Ỳ (x1EF2)</indexterm> ỷ (x1EF7)<indexterm>ỷ (x1EF7)</indexterm> ỷ
+(x1EF7)<indexterm>ỷ (x1EF7)</indexterm> Ỷ (x1EF6)<indexterm>Ỷ (x1EF6)</indexterm> Ỷ
+(x1EF6)<indexterm>Ỷ (x1EF6)</indexterm> ỹ (x1EF9)<indexterm>ỹ (x1EF9)</indexterm> ỹ
+(x1EF9)<indexterm>ỹ (x1EF9)</indexterm> Ỹ (x1EF8)<indexterm>Ỹ (x1EF8)</indexterm> Ỹ
+(x1EF8)<indexterm>Ỹ (x1EF8)</indexterm> ý (x00FD)<indexterm>ý (x00FD)</indexterm> ý
+(x00FD)<indexterm>ý (x00FD)</indexterm> Ý (x00DD)<indexterm>Ý (x00DD)</indexterm> Ý
+(x00DD)<indexterm>Ý (x00DD)</indexterm> ỵ (x1EF5)<indexterm>ỵ (x1EF5)</indexterm> ỵ
+(x1EF5)<indexterm>ỵ (x1EF5)</indexterm> Ỵ (x1EF4)<indexterm>Ỵ (x1EF4)</indexterm> Ỵ
+(x1EF4)<indexterm>Ỵ (x1EF4)</indexterm> (x)<indexterm> (x)</indexterm>
+</li>
+</ul>
+
+</body>
+</topic>
