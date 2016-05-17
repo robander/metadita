@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ant build script to build each NLS test document into PDF, XHTML, or HTML5.
+To use:
+  Set ${nls.samples.dir} to the location of your clone of the test documents.
+  Set ${dita.dir} to the location of DITA-OT, or copy this script to the DITA-OT directory.
+
+  To generate a PDF of every language: ant -f build_nls.xml 
+  To generate XHTML of every language: ant -f build_nls.xml xhtml
+  To generate HTML5 of every language: ant -f build_nls.xml html5
+  To generate all of the above: ant -f build_nls.xml all
+
+  To test just one language, select target onepdf (or onexhtml, or onehtml5), 
+  and set ${lang} to the desired language. For example, to test Icelandic PDF:
+  ant -f build_nls.xml onepdf -Dlang=is
+
+-->
+<project name="build-NLS-samples" default="pdf" basedir=".">
+
+<property name="nls.samples.dir" value="/Users/IBM_ADMIN/github/metadita/sampledocs/NLStext/"/>
+<property name="nls.output.dir" value="nlsOUT"/>
+<!--<property name="pdf.formatter" value="ah"/>-->
+<property name="axf.path" value="C:\Program Files\Antenna House\AHFormatterV61"/>
+<property name="pdf.formatter" value="fop"/>
+  <property name="dita.dir" value="${basedir}"/>
+
+<target name="all" depends="pdf, xhtml, html5"></target>
+
+<target name="pdf">
+  <antcall target="onepdf"><param name="lang" value="ar"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="be"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="bg"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="bs"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ca"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="cs"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="da"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="de"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="el"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="en"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="es"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="et"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="fi"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="fr"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="he"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="hi"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="hr"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="hu"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="id"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="is"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="it"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ja"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="kk"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ko"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="lt"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="lv"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="mk"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ms"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="nl"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="no"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="pl"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="pt"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="pt-BR"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ro"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ru"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sk"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sl"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sr"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sr-latn-me"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sr-latn-rs"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="sv"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="th"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="tr"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="uk"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="ur"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="vi"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="zh-CN"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="zh-TW"/></antcall>
+</target>
+
+<target name="onepdf">
+<echo>Generate PDF: ${nls.samples.dir}${lang}.ditamap</echo>
+    <ant antfile="${dita.dir}${file.separator}build.xml" target="init">
+      <property name="args.input" value="${nls.samples.dir}${lang}.ditamap"/>
+      <!--<property name="args.logdir" value="${nls.output.dir}${file.separator}${lang}"/>-->
+      <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
+      <property name="transtype" value="pdf"/>
+      <property name="args.draft" value="yes"/> 
+    </ant>
+</target>
+
+<target name="xhtml">
+  <antcall target="onexhtml"><param name="lang" value="ar"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="be"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="bg"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="bs"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ca"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="cs"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="da"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="de"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="el"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="en"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="es"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="et"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="fi"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="fr"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="he"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="hi"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="hr"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="hu"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="id"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="is"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="it"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ja"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="kk"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ko"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="lt"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="lv"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="mk"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ms"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="nl"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="no"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="pl"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="pt"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="pt-BR"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ro"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ru"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sk"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sl"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sr"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sr-latn-me"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sr-latn-rs"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="sv"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="th"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="tr"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="uk"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="ur"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="vi"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="zh-CN"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="zh-TW"/></antcall>
+</target>
+
+<target name="onexhtml">
+<echo>Generate XHTML: ${nls.samples.dir}${lang}.ditamap</echo>
+    <ant antfile="${dita.dir}${file.separator}build.xml" target="init">
+      <property name="args.input" value="${nls.samples.dir}${lang}.ditamap"/>
+      <!--<property name="args.logdir" value="${nls.output.dir}${file.separator}${lang}"/>-->
+      <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
+      <property name="transtype" value="xhtml"/>
+      <property name="args.draft" value="yes"/> 
+    </ant>
+</target>
+
+<target name="html5">
+  <antcall target="onehtml5"><param name="lang" value="ar"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="be"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="bg"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="bs"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ca"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="cs"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="da"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="de"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="el"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="en"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="es"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="et"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="fi"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="fr"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="he"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="hi"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="hr"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="hu"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="id"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="is"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="it"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ja"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="kk"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ko"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="lt"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="lv"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="mk"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ms"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="nl"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="no"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="pl"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="pt"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="pt-BR"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ro"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ru"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sk"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sl"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sr"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sr-latn-me"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sr-latn-rs"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="sv"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="th"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="tr"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="uk"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="ur"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="vi"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="zh-CN"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="zh-TW"/></antcall>
+</target>
+
+<target name="onehtml5">
+<echo>Generate XHTML: ${nls.samples.dir}${lang}.ditamap</echo>
+    <ant antfile="${dita.dir}${file.separator}build.xml" target="init">
+      <property name="args.input" value="${nls.samples.dir}${lang}.ditamap"/>
+      <!--<property name="args.logdir" value="${nls.output.dir}${file.separator}${lang}"/>-->
+      <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
+      <property name="transtype" value="html5"/>
+      <property name="args.draft" value="yes"/> 
+    </ant>
+</target>
+
+</project>
