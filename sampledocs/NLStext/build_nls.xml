@@ -85,6 +85,7 @@ To use:
       <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
       <property name="transtype" value="pdf"/>
       <property name="args.draft" value="yes"/> 
+      <property name="default.language" value="${lang}"/>
     </ant>
 </target>
 
@@ -147,6 +148,7 @@ To use:
       <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
       <property name="transtype" value="xhtml"/>
       <property name="args.draft" value="yes"/> 
+      <property name="default.language" value="${lang}"/>
     </ant>
 </target>
 
@@ -209,6 +211,7 @@ To use:
       <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
       <property name="transtype" value="html5"/>
       <property name="args.draft" value="yes"/> 
+      <property name="default.language" value="${lang}"/>
     </ant>
 </target>
 
