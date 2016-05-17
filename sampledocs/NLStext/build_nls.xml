@@ -202,7 +202,7 @@ To use:
 </target>
 
 <target name="onehtml5">
-<echo>Generate XHTML: ${nls.samples.dir}${lang}.ditamap</echo>
+<echo>Generate HTML5: ${nls.samples.dir}${lang}.ditamap</echo>
     <ant antfile="${dita.dir}${file.separator}build.xml" target="init">
       <property name="args.input" value="${nls.samples.dir}${lang}.ditamap"/>
       <!--<property name="args.logdir" value="${nls.output.dir}${file.separator}${lang}"/>-->
