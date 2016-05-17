@@ -18,6 +18,5 @@ For each supported language:
 ## What's missing
 
 The following languages (at least) need index coverage that includes terms with their own character set:
- * Korean
  * Japanese
  * Simplified Chinese
