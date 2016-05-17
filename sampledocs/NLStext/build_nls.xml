@@ -10,9 +10,13 @@ To use:
   To generate HTML5 of every language: ant -f build_nls.xml html5
   To generate all of the above: ant -f build_nls.xml all
 
-  To test just one language, select target onepdf (or onexhtml, or onehtml5), 
+  To test just one language + one format, select target onepdf (or onexhtml, or onehtml5), 
   and set ${lang} to the desired language. For example, to test Icelandic PDF:
   ant -f build_nls.xml onepdf -Dlang=is
+  
+  To test just one language (all formats), select target onelang.
+  For example, to test all covered formats for Icelandic:
+  ant -f build_nls.xml onelang -Dlang=vi
 
 -->
 <project name="build-NLS-samples" default="pdf" basedir=".">
@@ -25,6 +29,12 @@ To use:
   <property name="dita.dir" value="${basedir}"/>
 
 <target name="all" depends="pdf, xhtml, html5"></target>
+
+<target name="onelang">
+  <antcall target="onepdf"><param name="lang" value="${lang}"/></antcall>
+  <antcall target="onexhtml"><param name="lang" value="${lang}"/></antcall>
+  <antcall target="onehtml5"><param name="lang" value="${lang}"/></antcall>
+</target>
 
 <target name="pdf">
   <antcall target="onepdf"><param name="lang" value="ar"/></antcall>
