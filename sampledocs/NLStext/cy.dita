@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "..\dtd\topic.dtd">
+<topic id="cy" xml:lang="cy">
+<title>Welsh (currently unsupported</title>
+<shortdesc>index test</shortdesc>
+<body>
+<ul conref="common-latin.dita#latin/allchars">
+<li>conref</li>
+</ul>
+<ul>
+<li>ch collated term <indexterm>ch welsh collation ch</indexterm><indexterm>candy before welsh collation ch</indexterm><indexterm>coordinate before welsh collation ch</indexterm></li>
+<li>dd collated term <indexterm>dd welsh collation dd</indexterm><indexterm>day before welsh collation dd</indexterm><indexterm>door before welsh collation dd</indexterm></li>
+<li>ff collated term <indexterm>ff welsh collation ff</indexterm><indexterm>fan welsh collation ff</indexterm><indexterm>funky before welsh collation ff</indexterm></li>
+<li>ng collated term <indexterm>ng welsh collation ng</indexterm><indexterm>nattering before welsh collation nn</indexterm><indexterm>nosy before welsh collation nn</indexterm></li>
+<li>ll collated term <indexterm>ll welsh collation ll</indexterm><indexterm>large before welsh collation ll</indexterm><indexterm>loose before welsh collation ll</indexterm></li>
+<li>ph collated term <indexterm>ph welsh collation ph</indexterm><indexterm>pardon welsh collation ph</indexterm><indexterm>poof! before welsh collation ph</indexterm></li>
+<li>rh collated term <indexterm>rh welsh collation rh</indexterm><indexterm>rancid before welsh collation rh</indexterm><indexterm>rowdy before welsh collation rh</indexterm></li>
+<li>th collated term <indexterm>th welsh collation th</indexterm><indexterm>tank before welsh collation th</indexterm><indexterm>tooth before welsh collation th</indexterm></li>
+</ul>
+</body>
+</topic>

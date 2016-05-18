@@ -18,6 +18,9 @@ To use:
   For example, to test all covered formats for Icelandic:
   ant -f build_nls.xml onelang -Dlang=vi
 
+  To test what happens with unsupported languages, use one of the following targets:
+  "unsupported" (generates all formats), "unsupportedpdf", "unsupportedhtml5", or "unsupportedxhtml"
+
 -->
 <project name="build-NLS-samples" default="pdf" basedir=".">
 
@@ -26,7 +29,8 @@ To use:
 <!--<property name="pdf.formatter" value="ah"/>-->
 <property name="axf.path" value="C:\Program Files\Antenna House\AHFormatterV61"/>
 <property name="pdf.formatter" value="fop"/>
-  <property name="dita.dir" value="${basedir}"/>
+<property name="dita.dir" value="${basedir}"/>
+
 
 <target name="all" depends="pdf, xhtml, html5"></target>
 
@@ -35,6 +39,20 @@ To use:
   <antcall target="onexhtml"><param name="lang" value="${lang}"/></antcall>
   <antcall target="onehtml5"><param name="lang" value="${lang}"/></antcall>
 </target>
+
+<property name="unsupportedlang" value="cy"/>
+<target name="unsupportedpdf">
+  <antcall target="onepdf"><param name="lang" value="${unsupportedlang}"/></antcall>
+</target>
+<target name="unsupportedhtml5">
+  <antcall target="onehtml5"><param name="lang" value="${unsupportedlang}"/></antcall>
+</target>
+<target name="unsupportedxhtml">
+  <antcall target="onexhtml"><param name="lang" value="${unsupportedlang}"/></antcall>
+</target>
+<target name="unsupported" depends="unsupportedhtml5, unsupportedxhtml, unsupportedpdf"></target>
+
+
 
 <target name="pdf">
   <antcall target="onepdf"><param name="lang" value="ar"/></antcall>
