@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap xml:lang="cy">
 <booktitle>
-<mainbooktitle>Welsh Test (currently unsupported</mainbooktitle>
+<mainbooktitle>Welsh Test (currently unsupported)</mainbooktitle>
 </booktitle>
 <frontmatter conref="bookmap.ditamap#front"/>
 <part conref="bookmap.ditamap#p1"/>
