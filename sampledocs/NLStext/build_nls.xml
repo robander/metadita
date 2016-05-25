@@ -35,14 +35,14 @@ To use:
 <target name="all" depends="pdf, xhtml, html5"></target>
 
 <target name="onelang">
-  <antcall target="onepdf"><param name="lang" value="${lang}"/></antcall>
+  <antcall target="onepdf-unsupported"><param name="lang" value="${lang}"/></antcall>
   <antcall target="onexhtml"><param name="lang" value="${lang}"/></antcall>
   <antcall target="onehtml5"><param name="lang" value="${lang}"/></antcall>
 </target>
 
 <property name="unsupportedlang" value="cy"/>
 <target name="unsupportedpdf">
-  <antcall target="onepdf"><param name="lang" value="${unsupportedlang}"/></antcall>
+  <antcall target="onepdf-unsupported"><param name="lang" value="${unsupportedlang}"/></antcall>
 </target>
 <target name="unsupportedhtml5">
   <antcall target="onehtml5"><param name="lang" value="${unsupportedlang}"/></antcall>
@@ -114,6 +114,18 @@ To use:
       <property name="transtype" value="pdf"/>
       <property name="args.draft" value="yes"/> 
       <property name="default.language" value="${lang}"/>
+    </ant>
+</target>
+
+<target name="onepdf-unsupported">
+<echo>Generate PDF for unsupported language: ${nls.samples.dir}${lang}.ditamap</echo>
+    <ant antfile="${dita.dir}${file.separator}build.xml" target="init">
+      <property name="args.input" value="${nls.samples.dir}${lang}.ditamap"/>
+      <!--<property name="args.logdir" value="${nls.output.dir}${file.separator}${lang}"/>-->
+      <property name="output.dir" value="${nls.output.dir}${file.separator}${lang}"/>
+      <property name="transtype" value="pdf"/>
+      <property name="args.draft" value="yes"/> 
+      <!-- Do not override default. Using an unsupported value as default will crash PDF index sort. -->
     </ant>
 </target>
 
