@@ -15,14 +15,14 @@ For each supported language:
  * A topic specific to the language is referenced as a chapter
  * Within the topic, index terms are defined or reused by conref
 
-## How to test
+## How to use
 
 The Ant build file has a variety of targets to test any of the following:
  * Build a single language to PDF, XHTML, or HTML5
  * Build a single language to PDF, XHTML, and HTML5
  * Build PDF, HTML5, or XHTML of all supported languages
  * Build PDF, HTML5, and XHTML of all supported languages
- * To test unsupported languages, build an unsupported language to any or all of PDF, XHTML, or HTML5
+ * To test an unsupported language by building an unsupported language (Welsh) to any or all of PDF, XHTML, or HTML5
 
 See comments in the build file for instructions.
 

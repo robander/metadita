@@ -35,7 +35,7 @@ To use:
 <target name="all" depends="pdf, xhtml, html5"></target>
 
 <target name="onelang">
-  <antcall target="onepdf-unsupported"><param name="lang" value="${lang}"/></antcall>
+  <antcall target="onepdf"><param name="lang" value="${lang}"/></antcall>
   <antcall target="onexhtml"><param name="lang" value="${lang}"/></antcall>
   <antcall target="onehtml5"><param name="lang" value="${lang}"/></antcall>
 </target>
