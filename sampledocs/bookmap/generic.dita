@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_gds_5lq_dw">
+  <title>Generic sub-topic</title>
+<shortdesc>This is a generic topic that is designed to test sub-topics in a variety of locations. It
+should always be referenced from a topicref element; specialized elements in this test get their
+OWN, very special topics.</shortdesc>
+<prolog>
+<metadata>
+<keywords>
+<indexterm>Generic term</indexterm>
+</keywords>
+</metadata>
+</prolog>
+  <body>
+<table frame="all" rowsep="1" colsep="1" id="table_oqr_tnq_dw">
+<title>Test table in generic topic</title>
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<thead>
+<row>
+<entry>This table</entry>
+<entry>To repeat</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Every time the topic appears</entry>
+<entry>Which it does a lot</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<fig id="fig_mn3_vnq_dw">
+<title>Test figure in generic topic</title>
+<p>This figure appears in a heavily reused topic, so that the figure list should contain many
+copies.</p>
+</fig>
+    <p id="p">Let's talk about something fun. Puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
+puffins puffins puffins puffins puffins puffins puffins puffins puffins. </p>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+<p conref="#topic_gds_5lq_dw/p"/>
+  </body>
+</topic>

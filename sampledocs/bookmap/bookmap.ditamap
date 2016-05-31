@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>SampleSet Library</booklibrary>
+        <mainbooktitle>Sample Simple Bookmap</mainbooktitle>
+<booktitlealt>*alternate* *title*</booktitlealt>
+    </booktitle>
+<frontmatter>
+<booklists>
+<toc/>
+<figurelist/>
+<tablelist/>
+<booklist href="frontmatterlist.dita"/>
+</booklists>
+<preface href="preface.dita">
+<topicref href="generic.dita" copy-to="subpreface.dita"/>
+</preface>
+<bookabstract href="abstract.dita"/>
+<dedication href="dedication.dita"/>
+<draftintro href="draftintro.dita">
+<topicref href="generic.dita" copy-to="subdraftintro.dita"/>
+</draftintro>
+<notices href="notices.dita">
+<topicref href="generic.dita" copy-to="subnotices.dita"/>
+</notices>
+<topicref href="frontmtopic.dita">
+<topicref href="generic.dita" copy-to="subfrontmtopic.dita"/>
+</topicref>
+</frontmatter>
+<part href="part1.dita">
+<chapter href="part1chap1.dita">
+<topicref href="generic.dita" copy-to="a.dita"/>
+<topicref href="generic.dita" copy-to="b.dita"/>
+</chapter>
+<chapter href="part1chap2.dita">
+<topicref href="generic.dita" copy-to="c.dita"/>
+<topicref href="generic.dita" copy-to="d.dita"/>
+</chapter>
+</part>
+<part href="part2.dita">
+<chapter href="part2chap1.dita">
+<topicref href="generic.dita" copy-to="e.dita"/>
+<topicref href="generic.dita" copy-to="f.dita"/>
+</chapter>
+<chapter href="part2chap2.dita">
+<topicref href="generic.dita" copy-to="g.dita"/>
+<topicref href="generic.dita" copy-to="h.dita"/>
+</chapter>
+</part>
+<appendices href="appendices.dita">
+<appendix href="appendix1.dita">
+<topicref href="generic.dita" copy-to="subapp1a.dita"/>
+<topicref href="generic.dita" copy-to="subapp1b.dita"/>
+</appendix>
+<appendix href="appendix2.dita">
+<topicref href="generic.dita" copy-to="subapp2a.dita"/>
+<topicref href="generic.dita" copy-to="subapp2b.dita"/>
+</appendix>
+</appendices>
+<backmatter>
+<amendments href="amendments.dita"/>
+<booklists>
+<abbrevlist/>
+<bibliolist/>
+<glossarylist/>
+<booklist href="backmatterlist.dita"/>
+<indexlist/>
+</booklists>
+<colophon href="colophon.dita"/>
+<topicref href="backmtopic.dita">
+<topicref href="generic.dita" copy-to="subbackmtopic.dita"/>
+</topicref>
+</backmatter>
+</bookmap>
