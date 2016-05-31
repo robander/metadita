@@ -37,6 +37,12 @@ OWN, very special topics.</shortdesc>
 <p>This figure appears in a heavily reused topic, so that the figure list should contain many
 copies.</p>
 </fig>
+<ul>
+<li>Let's test a trademark, just tmtype: <tm tmtype="reg">PuffinTrademarkSample</tm></li>
+<li>Let's test a trademark, tmtype + trademark: <tm tmtype="reg" trademark="Puffins-R-Us">Puffins-R-Us</tm></li>
+<li>Let's test a trademark, tmtype + tmowner + trademark: <tm tmtype="reg" tmowner="IBM" trademark="IBM">IBM</tm></li>
+<li>Let's test a trademark, tmtype + tmowner + trademark + tmclass: <tm tmtype="reg" tmowner="ILikePuffins" trademark="ILikePuffins" tmclass="tmclass?">ILikePuffins</tm></li>
+</ul>
     <p id="p">Let's talk about something fun. Puffins puffins puffins puffins puffins puffins
 puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
 puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins puffins
