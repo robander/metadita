@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>SampleSet Library</booklibrary>
+        <mainbooktitle>Mix top level chapters + parts</mainbooktitle>
+<booktitlealt>*alternate* *title*</booktitlealt>
+    </booktitle>
+<frontmatter id="frontm" conref="bookmap.ditamap#frontm"/>
+<chapter conref="bookmap-chaps.ditamap#chap1"/>
+<chapter conref="bookmap-chaps.ditamap#chap2"/>
+<part conref="bookmap.ditamap#part1"/>
+<part conref="bookmap.ditamap#part2"/>
+<appendices id="apps" conref="bookmap.ditamap#apps"/>
+<backmatter id="backm" conref="bookmap.ditamap#backm"/>
+</bookmap>

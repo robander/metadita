@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_z5w_4dq_dw">
+  <title>Sample Second chapter (not in a part) Topic</title>
+<shortdesc>This is the short description of a simple sample second chapter (not in a part).</shortdesc>
+  <body>
+    <p>Now, for some important content.</p>
+<p id="p">Second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part)
+second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) second chapter (not in a part) </p>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+<p conref="#topic_z5w_4dq_dw/p"/>
+  </body>
+</topic>

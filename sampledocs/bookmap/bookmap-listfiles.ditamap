@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>SampleSet Library</booklibrary>
+        <mainbooktitle>Reference actual topics for list files</mainbooktitle>
+<booktitlealt>*alternate* *title*</booktitlealt>
+    </booktitle>
+<frontmatter id="frontm">
+<booklists>
+<toc href="toc.dita"/>
+<figurelist href="figlist.dita"/>
+<tablelist href="tablelist.dita"/>
+<booklist href="frontmatterlist.dita"/>
+</booklists>
+<preface href="preface.dita">
+<topicref href="generic.dita" copy-to="subpreface.dita"/>
+</preface>
+<bookabstract href="abstract.dita"/>
+<dedication href="dedication.dita"/>
+<draftintro href="draftintro.dita">
+<topicref href="generic.dita" copy-to="subdraftintro.dita"/>
+</draftintro>
+<notices href="notices.dita">
+<topicref href="generic.dita" copy-to="subnotices.dita"/>
+</notices>
+<topicref href="frontmtopic.dita">
+<topicref href="generic.dita" copy-to="subfrontmtopic.dita"/>
+</topicref>
+</frontmatter>
+<part conref="bookmap.ditamap#part1"/>
+<part conref="bookmap.ditamap#part2"/>
+<appendices id="apps" conref="bookmap.ditamap#apps"/>
+<backmatter>
+<amendments href="amendments.dita"/>
+<booklists>
+<abbrevlist href="abbrevlist.dita"/>
+<bibliolist href="bibliolist.dita"/>
+<glossarylist href="glossarylist.dita"/>
+<booklist href="backmatterlist.dita"/>
+<indexlist href="indexlist.dita"/>
+</booklists>
+<colophon href="colophon.dita"/>
+<topicref href="backmtopic.dita">
+<topicref href="generic.dita" copy-to="subbackmtopic.dita"/>
+</topicref>
+</backmatter>
+</bookmap>

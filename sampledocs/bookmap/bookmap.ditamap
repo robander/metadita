@@ -48,7 +48,7 @@
 <topicref href="generic.dita" copy-to="h.dita"/>
 </chapter>
 </part>
-<appendices href="appendices.dita">
+<appendices href="appendices.dita" id="apps">
 <appendix href="appendix1.dita" id="app1">
 <topicref href="generic.dita" copy-to="subapp1a.dita"/>
 <topicref href="generic.dita" copy-to="subapp1b.dita"/>

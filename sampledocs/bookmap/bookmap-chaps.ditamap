@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>SampleSet Library</booklibrary>
+        <mainbooktitle>Use top-level chapters instead of parts</mainbooktitle>
+<booktitlealt>*alternate* *title*</booktitlealt>
+    </booktitle>
+<frontmatter id="frontm" conref="bookmap.ditamap#frontm"/>
+<chapter href="chapter1.dita" id="chap1">
+<topicref href="generic.dita" copy-to="a.dita"/>
+<topicref href="generic.dita" copy-to="b.dita"/>
+</chapter>
+<chapter href="chapter2.dita" id="chap2">
+<topicref href="generic.dita" copy-to="a.dita"/>
+<topicref href="generic.dita" copy-to="b.dita"/>
+</chapter>
+<part conref="bookmap.ditamap#part1"/>
+<part conref="bookmap.ditamap#part2"/>
+<appendices id="apps" conref="bookmap.ditamap#apps"/>
+<backmatter id="backm" conref="bookmap.ditamap#backm"/>
+</bookmap>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+<booklibrary>SampleSet Library</booklibrary>
+        <mainbooktitle>Use top-level appendix instead of appendices wrapper</mainbooktitle>
+<booktitlealt>*alternate* *title*</booktitlealt>
+    </booktitle>
+<frontmatter id="frontm" conref="bookmap.ditamap#frontm"/>
+<part conref="bookmap.ditamap#part1"/>
+<part conref="bookmap.ditamap#part2"/>
+<appendix conref="bookmap.ditamap#app1"/>
+<appendix conref="bookmap.ditamap#app2"/>
+<backmatter id="backm" conref="bookmap.ditamap#backm"/>
+</bookmap>
