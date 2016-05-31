@@ -28,9 +28,37 @@
 <topicref href="generic.dita" copy-to="subfrontmtopic.dita"/>
 </topicref>
 </frontmatter>
-<part conref="bookmap.ditamap#part1"/>
-<part conref="bookmap.ditamap#part2"/>
-<appendices id="apps" conref="bookmap.ditamap#apps"/>
+<!--<part conref="bookmap.ditamap#part1"/><part conref="bookmap.ditamap#part2"/><appendices id="apps" conref="bookmap.ditamap#apps"/>-->
+<part href="part1.dita" id="part1">
+<chapter href="part1chap1.dita">
+<topicref href="generic.dita" copy-to="a.dita"/>
+<topicref href="generic.dita" copy-to="b.dita"/>
+</chapter>
+<chapter href="part1chap2.dita">
+<topicref href="generic.dita" copy-to="c.dita"/>
+<topicref href="generic.dita" copy-to="d.dita"/>
+</chapter>
+</part>
+<part href="part2.dita" id="part2">
+<chapter href="part2chap1.dita">
+<topicref href="generic.dita" copy-to="e.dita"/>
+<topicref href="generic.dita" copy-to="f.dita"/>
+</chapter>
+<chapter href="part2chap2.dita">
+<topicref href="generic.dita" copy-to="g.dita"/>
+<topicref href="generic.dita" copy-to="h.dita"/>
+</chapter>
+</part>
+<appendices href="appendices.dita" id="apps">
+<appendix href="appendix1.dita" id="app1">
+<topicref href="generic.dita" copy-to="subapp1a.dita"/>
+<topicref href="generic.dita" copy-to="subapp1b.dita"/>
+</appendix>
+<appendix href="appendix2.dita" id="app2">
+<topicref href="generic.dita" copy-to="subapp2a.dita"/>
+<topicref href="generic.dita" copy-to="subapp2b.dita"/>
+</appendix>
+</appendices>
 <backmatter>
 <amendments href="amendments.dita"/>
 <booklists>
