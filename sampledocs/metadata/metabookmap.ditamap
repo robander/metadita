@@ -101,7 +101,7 @@ experiencelevel="some experience" audience="set the audience" othertype="and ano
 <resourceid id="oneID" appname="application ONE"/>
 <resourceid appname="application TWO" id="twoID"/>
   <bookid>
-    <bookpartno>1234abcd7890</bookpartno>
+    <bookpartno>1234ABCD7890</bookpartno>
     <booknumber>ABCD-0000-13</booknumber>
     <maintainer href="#rcf"></maintainer>
   </bookid>
