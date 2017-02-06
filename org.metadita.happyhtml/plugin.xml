@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="org.metadita.happyhtml">
+  <require plugin="org.dita.html5"/>
+  <transtype name="happyhtml" extends="html5" desc="HappyHTML"/>
+  <feature extension="dita.conductor.target.relative" file="happybuild.xml"/>
+</plugin>
