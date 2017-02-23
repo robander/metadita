@@ -7,8 +7,8 @@
 <body>
 <ul id="allchars">
 <li>Duplicate entries will appear here and at end: <indexterm>Duplicate with
-kid</indexterm><indexterm>Duplicate<indexterm>start</indexterm><indexterm>Duplicate no
-kids</indexterm></indexterm></li>
+kid</indexterm><indexterm>Duplicate with
+kid<indexterm>end</indexterm></indexterm><indexterm>Duplicate no kids</indexterm></li>
 <li>A<indexterm>A</indexterm><indexterm>a</indexterm></li>
 <li>aelig Æ<indexterm>Æ aelig</indexterm></li>
 <li>aelig æ<indexterm>æ aelig</indexterm></li>
@@ -169,8 +169,8 @@ SECONDARY</indexterm></indexterm></li>
 <li>8-ball sorted as "eight-ball"<indexterm><index-sort-as>eight-ball</index-sort-as>8-ball, with sort key set to "eight ball"</indexterm> </li>
 </ul></li>
 <li>Duplicate entry will appear here and at start: <indexterm>Duplicate with
-kid</indexterm><indexterm>Duplicate<indexterm>end</indexterm><indexterm>Duplicate no
-kids</indexterm></indexterm></li>
+kid</indexterm><indexterm>Duplicate with
+kid<indexterm>end</indexterm></indexterm><indexterm>Duplicate no kids</indexterm></li>
 </ul>
 </body>
 </topic>
