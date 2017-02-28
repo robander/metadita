@@ -8,5 +8,68 @@
 <ul conref="common-latin.dita#latin/allchars">
 <li>conref</li>
 </ul>
+<p>Turn DITA-OT generated text into test index entries. Check <xmlatt>props</xmlatt> if you want to
+see where it came from.</p>
+<ul>
+<li props="Figure">Test...<indexterm>图</indexterm></li>
+<li props="Table">Test...<indexterm>表</indexterm></li>
+<li props="Next topic">Test...<indexterm>下一主题</indexterm></li>
+<li props="Previous topic">Test...<indexterm>上一主题</indexterm></li>
+<li props="Parent topic">Test...<indexterm>父主题</indexterm></li>
+<li props="Required cleanup">Test...<indexterm>需要修正</indexterm></li>
+<li props="Draft comment">Test...<indexterm>非正式版注释</indexterm></li>
+<li props="Option">Test...<indexterm>选项</indexterm></li>
+<li props="Description">Test...<indexterm>描述</indexterm></li>
+<li props="Optional">Test...<indexterm>可选</indexterm></li>
+<li props="Required">Test...<indexterm>必需</indexterm></li>
+<li props="Skip visual syntax diagram">Test...<indexterm>跳过直观语法图</indexterm></li>
+<li props="Read syntax diagram">Test...<indexterm>阅读语法图</indexterm></li>
+<li props="Start of change">Test...<indexterm>更新开始</indexterm></li>
+<li props="End of change">Test...<indexterm>更新结束</indexterm></li>
+<li props="Index">Test...<indexterm>索引</indexterm></li>
+<li props="Special characters">Test...<indexterm>特别字符</indexterm></li>
+<li props="Numerics">Test...<indexterm>数字</indexterm></li>
+<li props="End notes">Test...<indexterm>结尾注释</indexterm></li>
+<li props="Artwork">Test...<indexterm>图片</indexterm></li>
+<li props="Syntax">Test...<indexterm>语法</indexterm></li>
+<li props="Type">Test...<indexterm>类型</indexterm></li>
+<li props="Value">Test...<indexterm>值</indexterm></li>
+
+<!-- peril notice labels -->
+<li props="Note">Test...<indexterm>注</indexterm></li>
+<li props="Notes">Test...<indexterm>注</indexterm></li>
+<li props="Tip">Test...<indexterm>提示</indexterm></li>
+<li props="Fastpath">Test...<indexterm>捷径</indexterm></li>
+<li props="Important">Test...<indexterm>重要</indexterm></li>
+<li props="Attention">Test...<indexterm>注意</indexterm></li>
+<li props="Caution">Test...<indexterm>警告</indexterm></li>
+<li props="Danger">Test...<indexterm>危险</indexterm></li>
+<li props="Remember">Test...<indexterm>切记</indexterm></li>
+<li props="Restriction">Test...<indexterm>限制</indexterm></li>
+<li props="Warning">Test...<indexterm>警告</indexterm></li>
+
+<!-- default title text for section level generated sections -->
+<li props="Contents">Test...<indexterm>内容</indexterm></li>
+<li props="Related concepts">Test...<indexterm>相关概念</indexterm></li>
+<li props="Related tasks">Test...<indexterm>相关任务</indexterm></li>
+<li props="Related reference">Test...<indexterm>相关参考</indexterm></li>
+<li props="Related information">Test...<indexterm>相关信息</indexterm></li>
+
+<li props="Prerequisite">Test...<indexterm>先决条件</indexterm></li>
+<li props="Prerequisites">Test...<indexterm>先决条件</indexterm></li>
+<li props="or">Test...<indexterm>或</indexterm></li>
+<li props="figure-number-separator">Test...<indexterm> </indexterm></li>
+
+<!--Task section labels -->
+<li props="task_context">Test...<indexterm>关于此任务</indexterm></li>
+<li props="task_example">Test...<indexterm>示例</indexterm></li>
+<li props="task_postreq">Test...<indexterm>下一步做什么</indexterm></li>
+<li props="task_prereq">Test...<indexterm>开始之前</indexterm></li>
+<li props="task_procedure">Test...<indexterm>过程</indexterm></li>
+<li props="task_procedure_unordered">Test...<indexterm>过程</indexterm></li>
+<li props="task_results">Test...<indexterm>结果</indexterm></li>
+
+<li props="Copyright">Test...<indexterm>版权</indexterm></li>
+</ul>
 </body>
 </topic>

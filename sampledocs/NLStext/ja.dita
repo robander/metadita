@@ -8,5 +8,68 @@
 <ul conref="common-latin.dita#latin/allchars">
 <li>conref</li>
 </ul>
+<p>Turn DITA-OT generated text into test index entries. Check <xmlatt>props</xmlatt> if you want to
+see where it came from.</p>
+<ul>
+<li props="Figure">Test...<indexterm>図</indexterm></li>
+<li props="Table">Test...<indexterm>表</indexterm></li>
+<li props="Next topic">Test...<indexterm>次のトピック</indexterm></li>
+<li props="Previous topic">Test...<indexterm>前のトピック</indexterm></li>
+<li props="Parent topic">Test...<indexterm>親トピック</indexterm></li>
+<li props="Required cleanup">Test...<indexterm>クリーンアップ要求</indexterm></li>
+<li props="Draft comment">Test...<indexterm>ドラフト注釈</indexterm></li>
+<li props="Option">Test...<indexterm>オプション</indexterm></li>
+<li props="Description">Test...<indexterm>説明</indexterm></li> 
+<li props="Optional">Test...<indexterm>オプション</indexterm></li>
+<li props="Required">Test...<indexterm>必須</indexterm></li>
+<li props="Skip visual syntax diagram">Test...<indexterm>構文図をスキップする</indexterm></li>
+<li props="Read syntax diagram">Test...<indexterm>構文図を読む</indexterm></li>
+<li props="Start of change">Test...<indexterm>変更の始まり</indexterm></li>
+<li props="End of change">Test...<indexterm>変更の終わり</indexterm></li>
+<li props="Index">Test...<indexterm>索引</indexterm></li>
+<li props="Special characters">Test...<indexterm>特殊文字</indexterm></li>
+<li props="Numerics">Test...<indexterm>数字</indexterm></li>
+<li props="End notes">Test...<indexterm>脚注</indexterm></li>
+<li props="Artwork">Test...<indexterm>アートワーク</indexterm></li>
+<li props="Syntax">Test...<indexterm>構文</indexterm></li>
+<li props="Type">Test...<indexterm>タイプ</indexterm></li>
+<li props="Value">Test...<indexterm>値</indexterm></li>
+<!-- Text that goes before a link to a topic -->
+<li props="intro-to-topic-link">Test...<indexterm></indexterm></li>
+
+<!-- peril notice labels -->
+<li props="Note">Test...<indexterm>注</indexterm></li>
+<li props="Notes">Test...<indexterm>注</indexterm></li>
+<li props="Tip">Test...<indexterm>ヒント</indexterm></li>
+<li props="Fastpath">Test...<indexterm>ファースト・パス</indexterm></li>
+<li props="Important">Test...<indexterm>重要</indexterm></li>
+<li props="Attention">Test...<indexterm>重要</indexterm></li>
+<li props="Caution">Test...<indexterm>注意</indexterm></li>
+<li props="Danger">Test...<indexterm>危険</indexterm></li>
+<li props="Remember">Test...<indexterm>要確認</indexterm></li>
+<li props="Restriction">Test...<indexterm>制約事項</indexterm></li>
+<li props="Warning">Test...<indexterm>警告</indexterm></li>
+
+<!-- default title text for section level generated sections -->
+<li props="Contents">Test...<indexterm>目次</indexterm></li>
+<li props="Related concepts">Test...<indexterm>関連概念</indexterm></li>
+<li props="Related tasks">Test...<indexterm>関連タスク</indexterm></li>
+<li props="Related reference">Test...<indexterm>関連資料</indexterm></li>
+<li props="Related information">Test...<indexterm>関連情報</indexterm></li>
+
+<li props="Prerequisite">Test...<indexterm>前提条件</indexterm></li>
+<li props="Prerequisites">Test...<indexterm>前提条件</indexterm></li>
+<li props="or">Test...<indexterm>または</indexterm></li>
+<li props="figure-number-separator">Test...<indexterm> </indexterm></li>
+
+<!--Task section labels -->
+<li props="task_context">Test...<indexterm>このタスクについて</indexterm></li>
+<li props="task_example">Test...<indexterm>例</indexterm></li>
+<li props="task_prereq">Test...<indexterm>始める前に</indexterm></li>
+<li props="task_postreq">Test...<indexterm>次のタスク</indexterm></li>
+<li props="task_procedure">Test...<indexterm>手順</indexterm></li>
+<li props="task_procedure_unordered">Test...<indexterm>手順</indexterm></li>
+<li props="task_results">Test...<indexterm>タスクの結果</indexterm></li>
+</ul>
 </body>
 </topic>
